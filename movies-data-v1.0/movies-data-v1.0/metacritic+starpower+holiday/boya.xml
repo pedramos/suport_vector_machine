@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Boy A</name>
+   <company>The Weinstein Company</company>
+   <genres>
+      <genre>Drama</genre>
+   </genres>
+   <authors>
+      <author>Mark O&amp;#039;Rowe</author>
+      <author>Jonathan Trigell</author>
+   </authors>
+   <directors>
+      <director>John Crowley</director>
+   </directors>
+   <origins>
+      <origin>UK</origin>
+   </origins>
+   <actors>
+      <actor>Andrew Garfield</actor>
+      <actor>Peter Mullan</actor>
+      <actor>Shaun Evans</actor>
+      <actor>Katie Lyons</actor>
+   </actors>
+   <release_date>July 23, 2008</release_date>
+   <running_time>100</running_time>
+   <rating>Not</rating>
+   <reviews>
+      <review>
+         <snippet>One of the most gripping, thought provoking dramas ever to ponder crime and punishment.</snippet>
+         <url>http://www.filmthreat.com/index.php?section=reviews&amp;Id=11130</url>
+         <critic>KJ Doughton</critic>
+      </review>
+      <review>
+         <snippet>While the cast is uniformly superb, Garfield ("Lions for Lambs") deserves special mention for his deep, extraordinarily expressive performance.</snippet>
+         <url>http://www.calendarlive.com/movies/reviews/cl-et-boya25-2008jul25,0,4265577.story</url>
+         <critic>Gary Goldstein</critic>
+      </review>
+      <review>
+         <snippet>It's beautiful. I loved it. And it broke my heart.</snippet>
+         <url>http://www.washingtonpost.com/ac2/wp-dyn?node=cityguide/profile&amp;id=1143550&amp;categories=Movies&amp;nm=1</url>
+         <critic>Ann Hornaday</critic>
+      </review>
+      <review>
+         <snippet>Andrew Garfield's phenomenal performance makes room for the many and various pieces of Jack's personality, whether or not they're securely fastened together.</snippet>
+         <url>http://online.wsj.com/article/SB121694419329882987.html</url>
+         <critic>Joe Morgenstern</critic>
+      </review>
+      <review>
+         <snippet>Mullen and Garfield anchor the film. Mullen, that splendid Scottish actor ("My Name Is Joe") and Garfield, 24, with his boyish face and friendly grin.</snippet>
+         <url>http://www.rogerebert.com/apps/pbcs.dll/article?AID=/20080807/REVIEWS/808070302/1023</url>
+         <critic>Roger Ebert</critic>
+      </review>
+      <review>
+         <snippet>That the audience is forced to examine its own assumptions about the situation is the result of an extraordinary, moving performance by Andrew Garfield.</snippet>
+         <url>http://www.oregonlive.com/movies/index.ssf/2008/10/movie_review_a_killer_is_loose.html</url>
+         <critic>Stan Hall</critic>
+      </review>
+      <review>
+         <snippet>A compelling, compact melodrama that packs an emotional wallop. It's my nominee for sleeper surprise of the summer, at least so far.</snippet>
+         <url>http://www.salon.com/ent/movies/btm/feature/2008/07/24/boy_a/</url>
+         <critic>Andrew O&amp;#039;Hehir</critic>
+      </review>
+      <review>
+         <snippet>Jack, as played by Andrew Garfield, comes across as agonized, desperately anxious to get things right -- something you might also say about the filmmakers, who have turned Boy A's very particular story into a scary, universal and wrenching social statement.</snippet>
+         <url>http://www.npr.org/templates/story/story.php?storyId=92775062</url>
+         <critic>Bob Mondello</critic>
+      </review>
+      <review>
+         <snippet>The film's both smart and devastating as it unthreads interwoven questions about redemption, justice, and the pivotal role of history in shaping an individual and his actions.</snippet>
+         <url>http://www.villagevoice.com/2008-07-23/film/boy-a-examines-the-infamous-child-murderer/</url>
+         <critic>Ernest Hardy</critic>
+      </review>
+      <review>
+         <snippet>Mr. Garfield's performance makes Jack so endearing and vulnerable that as he takes his first wobbly steps, like a baby bird shoved from its nest, your instincts are protective.</snippet>
+         <url>http://movies.nytimes.com/2008/07/23/movies/23boya.html?ref=movies</url>
+         <critic>Stephen Holden</critic>
+      </review>
+      <review>
+         <snippet>The movie is taut with suspense but culminates in wise resignation as the hero comes to understand he's running from a part of himself.</snippet>
+         <url>http://onfilm.chicagoreader.com/movies/critic.html#33404</url>
+         <critic>J.R. Jones</critic>
+      </review>
+      <review>
+         <snippet>Boy A will rivet you while raising issues about forgiveness and just who deserves it.</snippet>
+         <url>http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2008/08/07/DDNC1254K6.DTL&amp;type=movies</url>
+         <critic>Ruthe Stein</critic>
+      </review>
+      <review>
+         <snippet>For all Crowley's reliance on quiet naturalism, Boy A ultimately steals a page from film noir, showing how guilt and constant hounding can turn any ex-con into the desperate animal everyone presumes him to be.</snippet>
+         <url>http://www.avclub.com/content/cinema/boy_a</url>
+         <critic>Noel Murray</critic>
+      </review>
+      <review>
+         <snippet>Like "Control," the recent Anton Corbijn  treatment of rock star Ian Curtis'  short life, the powerful British drama Boy A announces its gravitas with a look--organically achieved, with cinematography, production design and direction working together--you are meant to notice.</snippet>
+         <url>http://chicago.metromix.com/movies/movie_review/movie-review-boy-a/544378/content</url>
+         <critic>Michael Phillips</critic>
+      </review>
+      <review>
+         <snippet>Director John Crowley and screenwriter Mark O'Rowe's follow-up to their feature film debut "Intermission" may follow an all-too schematic flashback structure, but the film is too brilliantly acted for that to really matter much.</snippet>
+         <url>http://www.tvguide.com/movies/boy/review/294556</url>
+         <critic>Ken Fox</critic>
+      </review>
+      <review>
+         <snippet>Even its structurally weaker moments give Garfield an opportunity to expand on Jack's physical and mental dislocation. Given Boy A's final floating reel, it's an anchoring performance in every sense of the word.</snippet>
+         <url>http://www.theglobeandmail.com/servlet/story/RTGAM.20080825.wboya25/BNStory/Entertainment/home</url>
+         <critic>Kamal AL-Solaylee</critic>
+      </review>
+      <review>
+         <snippet>The genius of Garfield's performance is that he fills him with equal amounts of terror and wonder.</snippet>
+         <url>http://www.baltimoresun.com/entertainment/movies/reviews/bal-to.boya19sep19,0,4631597.story</url>
+         <critic>Michael Sragow</critic>
+      </review>
+      <review>
+         <snippet>Picture inspires respect for its first-rate performances, artful construction and meticulous understatement.</snippet>
+         <url>http://www.variety.com/index.asp?layout=festivals&amp;jump=review&amp;id=2478&amp;reviewid=VE1117934907&amp;cs=1&amp;p=0</url>
+         <critic>Joe Leydon</critic>
+      </review>
+      <review>
+         <snippet>Boy A comes frustratingly close to succeeding as tragedy.</snippet>
+         <url>http://www.boston.com/movies/display?display=movie&amp;id=11711</url>
+         <critic>Wesley Morris</critic>
+      </review>
+      <review>
+         <snippet>If Hitchcock had done a coming-of-age drama, it might have resembled this haunting, nervous, sad movie about an early twentysomething.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/2008/07/25/2008-07-25_movies_opening_for_the_weekend_of_july_2.html?page=1</url>
+         <critic>Joe Neumaier</critic>
+      </review>
+      <review>
+         <snippet>Moves in a predictable path that includes some remarkable coincidences.</snippet>
+         <url>http://www.nypost.com/seven/07232008/entertainment/movies/crime_tale_doesnt_pay_121111.htm</url>
+         <critic>Lou Lumenick</critic>
+      </review>
+      <review>
+         <snippet>This is another of those dead-kid dramas in which the terrible event is handled like a striptease--tantalizing flashes until the climax.</snippet>
+         <url>http://nymag.com/movies/reviews/48682/index1.html</url>
+         <critic>David Edelstein</critic>
+      </review>
+   </reviews>
+   <summer_release>true</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

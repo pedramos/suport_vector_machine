@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Gomorrah</name>
+   <company>IFC Films</company>
+   <genres>
+      <genre>Crime</genre>
+      <genre>Drama</genre>
+   </genres>
+   <authors>
+      <author>Maurizio Braucci</author>
+   </authors>
+   <directors>
+      <director>Matteo Garrone</director>
+   </directors>
+   <origins>
+      <origin>Italy</origin>
+   </origins>
+   <actors>
+      <actor>Salvatore Abruzzese</actor>
+      <actor>Vincenzo Fabricino</actor>
+      <actor>Simone Sacchettino</actor>
+      <actor>Salvatore Ruocco</actor>
+      <actor>Vincenzo Altamura</actor>
+      <actor>Italo Renda</actor>
+      <actor>Gianfelice Imparato</actor>
+      <actor>Maria Nazionale</actor>
+   </actors>
+   <release_date>February 13, 2009</release_date>
+   <running_time>137</running_time>
+   <rating>Not</rating>
+   <reviews>
+      <review>
+         <snippet>The fingerprints of the Camorra are everywhere, this film wants us to know, and its grip is lethal.</snippet>
+         <url>http://www.calendarlive.com/movies/reviews/cl-et-gomorrah19-2008dec19,0,6782501.story</url>
+         <critic>Kenneth Turan</critic>
+      </review>
+      <review>
+         <snippet>Powerful, stripped to its very essence and featuring a spectacular cast (of mostly non-professionals), Matteo Garrone's sixth feature film Gomorra goes beyond Tarrantino's gratuitous violence and even Scorsese's Hollywood sensibility in depicting the everyday reality of organized crime's foot soldiers.</snippet>
+         <url>http://www.hollywoodreporter.com/hr/film/reviews/article_display.jsp?rid=11105</url>
+         <critic>Natasha Senjanovic</critic>
+      </review>
+      <review>
+         <snippet>Naples-born Servillo is a national star, famed as a theater, opera, and film director as well as an actor. And he's got the face of a mensch (or a Madoff) -- which makes his embodiment of criminal banality all the more identifiable, as well as horrifying.</snippet>
+         <url>http://www.ew.com/ew/article/0,,20259705,00.html</url>
+         <critic>Lisa Schwarzbaum</critic>
+      </review>
+      <review>
+         <snippet>Probably the bleakest, least sentimental study of the Mafia in Italian or American film history.</snippet>
+         <url>http://www.time.com/time/arts/article/0,8599,1879273,00.html</url>
+         <critic>Richard Corliss and Mary Corliss</critic>
+      </review>
+      <review>
+         <snippet>Gomorrah looks grimy and sullen, and has no heroes, only victims. That is its power.</snippet>
+         <url>http://rogerebert.suntimes.com/apps/pbcs.dll/article?AID=/20090225/REVIEWS/902259991</url>
+         <critic>Roger Ebert</critic>
+      </review>
+      <review>
+         <snippet>The characters in Gomorrah may lack an extra dramatic dimension: Garrone errs, if anything, on the side of detachment. Yet that detachment is also the key to the film's success. There's so little hooey and melodramatic head-banging here.</snippet>
+         <url>http://www.chicagotribune.com/entertainment/movies/chi-0227-gomorrah-reviewfeb27,0,3305896.story</url>
+         <critic>Michael Phillips</critic>
+      </review>
+      <review>
+         <snippet>Both a staggering realist thriller and a jeremiad.</snippet>
+         <url>http://www.boston.com/ae/movies/articles/2009/02/27/stranglehold/</url>
+         <critic>Wesley Morris</critic>
+      </review>
+      <review>
+         <snippet>This is a vision of hell conveyed in a simple, documentary style, far removed from the sumptuous American Mafia fables.</snippet>
+         <url>http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2009/02/26/MVTH1640SR.DTL&amp;type=movies</url>
+         <critic>Walter Addiego</critic>
+      </review>
+      <review>
+         <snippet>This vibrantly disorienting cinematic import reinvents the vocabulary of the crime drama with a painterly eye and a feverish documentary style.</snippet>
+         <url>http://www.washingtonpost.com/gog/movies/gomorrah,1154356.html</url>
+         <critic>Jan Stuart</critic>
+      </review>
+      <review>
+         <snippet>An unforgettable portrayal of the unglamorous gangster life, which is often short and never sweet.</snippet>
+         <url>http://www.theglobeandmail.com/servlet/story/RTGAM.20090312.wgomorrah0313/BNStory/Entertainment/home</url>
+         <critic>Jennie Punter</critic>
+      </review>
+      <review>
+         <snippet>For Americans, Gomorrah will play like every other Mafia epic - and no other Mafia epic.</snippet>
+         <url>http://www.baltimoresun.com/entertainment/movies/reviews/bal-to.gomorrah27mar27,0,4600599.story</url>
+         <critic>Michael Sragow</critic>
+      </review>
+      <review>
+         <snippet>Gomorrah takes place in a world where decency can't take root and we can only watch in horror as crime overwhelms society's most vulnerable-- women, children, law-abiding citizens, and the conscientious few who want to get out of the game.</snippet>
+         <url>http://www.avclub.com/articles/gomorrah,23748/</url>
+         <critic>Scott Tobias</critic>
+      </review>
+      <review>
+         <snippet>Part of what's bracing about Gomorrah, and makes it feel different from so many American crime movies, is both its deadly serious take on violence and its global understanding of how far and wide the mob's tentacles reach, from high fashion to the very dirt.</snippet>
+         <url>http://movies.nytimes.com/2009/02/13/movies/13gomo.html</url>
+         <critic>Manohla Dargis</critic>
+      </review>
+      <review>
+         <snippet>This film never feels like copycat Americana to me. Its vision of the bleak, ruined, urban-cum-rural landscape of Naples and environs is distinctively European and postmodern, redolent of the spiritual and physical desolation Antonioni captured so memorably in "Red Desert."</snippet>
+         <url>http://www.salon.com/ent/movies/btm/feature/2009/02/12/2_lovers/</url>
+         <critic>Andrew O&amp;#039;Hehir</critic>
+      </review>
+      <review>
+         <snippet>The result demands a patient viewing, and maybe more than one; only after a second dose did I get the measure of Garrone's mastery, and realize how far he has surpassed, not merely honored, the author's courageous toil.</snippet>
+         <url>http://www.newyorker.com/arts/critics/cinema/2009/02/23/090223crci_cinema_lane</url>
+         <critic>Anthony Lane</critic>
+      </review>
+      <review>
+         <snippet>This isn't some pomo arthouse picture looking to score points by subverting the gangster paradigm; it's a killer film about killers who idolize film but are unable or unwilling to parse the doom that always crops up come Act III.</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A757197</url>
+         <critic>Marc Savlov</critic>
+      </review>
+      <review>
+         <snippet>The film's disclosure that Camorra money is involved with the reconstruction of New York City's Ground Zero will give viewers something to think about.</snippet>
+         <url>http://www.nypost.com/seven/02132009/entertainment/movies/mob_flick_a_hit_154881.htm</url>
+         <critic>V.A. Musetto</critic>
+      </review>
+      <review>
+         <snippet>So fasten your seat belts for Gomorrah, just snubbed in the wussy Oscar race for Best Foreign Film (so you know it's dynamite).</snippet>
+         <url>http://www.rollingstone.com/reviews/movie/20274520/review/25566148/gomorrah</url>
+         <critic>Peter Travers</critic>
+      </review>
+      <review>
+         <snippet>A frightening portrait of corruption, cynicism, intimidation, greed and violence, Gomorrah is tough stuff.</snippet>
+         <url>http://www.philly.com/inquirer/columnists/steven_rea/20090227_Ugly_mob_violence__Italian-style.html</url>
+         <critic>Steven Rea</critic>
+      </review>
+      <review>
+         <snippet>The sense of inescapability, the mood of capitulation and resignation, becomes the story. What is being made clear is the thoroughgoing rot of a civilization; there is literally no place to find peace, solace or consolation.</snippet>
+         <url>http://blog.oregonlive.com/madaboutmovies/2009/02/movie_review_gomorrah_exposes.html</url>
+         <critic>Shawn Levy</critic>
+      </review>
+      <review>
+         <snippet>Garrone's messy storytelling compounds an already messy history. He's a powerful filmmaker, though, and a fearless one.</snippet>
+         <url>http://www.csmonitor.com/2009/0228/p25s03-almo.html</url>
+         <critic>Peter Rainer</critic>
+      </review>
+      <review>
+         <snippet>The malignity can be oppressive -- this is a far cry from Fellini finding poignant uplift in the slums -- but the dramatic structure is complex, the details are instructive, and the sense of tragedy is momentous.</snippet>
+         <url>http://online.wsj.com/article/SB123448740809779879.html?mod=article-outset-box</url>
+         <critic>Joe Morgenstern</critic>
+      </review>
+      <review>
+         <snippet>This corrosive, slapdash, grimly exciting exposé of organized crime in and around Naples comes on like "Mean Streets" cubed.</snippet>
+         <url>http://www.villagevoice.com/2009-02-11/film/the-average-giuseppes-of-organized-crime-in-gomorrah/</url>
+         <critic>J. Hoberman</critic>
+      </review>
+      <review>
+         <snippet>A sombre, slow, but well-paced study of organised crime in urban Naples that leaves a very grim taste in the mouth.</snippet>
+         <url>http://www.empireonline.com/reviews/reviewcomplete.asp?DVDID=117994</url>
+         <critic>Damon Wise</critic>
+      </review>
+      <review>
+         <snippet>The five interwoven narratives in this visceral but disciplined and beautifully acted movie show to devastating effect how ordinary men and women -- and especially vulnerable boys desperate for masculine role models -- get caught up in the seductive violence and are ruthlessly destroyed by the network's hardened henchmen.</snippet>
+         <url>http://www.laweekly.com/2008-12-18/film-tv/movie-reviews-the-tale-of-despereaux-the-yellow-handkerchief-yes-man/1</url>
+         <critic>Ella Taylor</critic>
+      </review>
+      <review>
+         <snippet>Utilizing a mesmerizing documentary style that studiously avoids glamorizing the horrors, Garrone cherrypicks episodes from Saviano's muckraking tract, building to a chillingly matter-of-fact crescendo of violence, though interwoven tales tend to dissipate the full force of the criminal Camorra families' insidious control.</snippet>
+         <url>http://www.variety.com/review/VE1117937181.html?categoryid=31&amp;cs=1&amp;query=gomorrah</url>
+         <critic>Jay Weissberg</critic>
+      </review>
+      <review>
+         <snippet>It's all about waste and destruction, and not just the toxic waste -- illegally dumped in landfills -- that is poisoning the farmland and the aquifers in the region.</snippet>
+         <url>http://seattlepi.nwsource.com/movies/401572_gomorrah27q.html</url>
+         <critic>Sean Axmaker</critic>
+      </review>
+      <review>
+         <snippet>Given the breadth of the story, the characters never achieve much depth, but they're part of a larger pattern: the younger ones are eager to find their way into the organization while the older ones are desperate to find their way out</snippet>
+         <url>http://onfilm.chicagoreader.com/movies/capsules/33771_GOMORRAH</url>
+         <critic>J.R. Jones</critic>
+      </review>
+      <review>
+         <snippet>Gomorrah isn't memorable. The structure feels random, and the characters remain at arm's length. Next to HBO's "The Wire," which depicted an enormous financial ladder and also brought to life the characters on every rung, the movie is small potatoes: excellent journalism, so-so art.</snippet>
+         <url>http://nymag.com/movies/reviews/54067/</url>
+         <critic>David Edelstein</critic>
+      </review>
+      <review>
+         <snippet>Clearly, Gomorrah is supposed to represent the best of today’s European cinema...and if this is the best, I would hate to imagine the worst! Gomorrah is a boring mess focusing on how the mob in today’s Naples has its tentacles stretched far and wide</snippet>
+         <url>http://www.filmthreat.com/index.php?section=reviews&amp;Id=11566</url>
+         <critic>Pete Vonder Haar</critic>
+      </review>
+   </reviews>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

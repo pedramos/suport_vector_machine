@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>17 Again</name>
+   <company>New Line Cinema (Warner Bros. Pictures)</company>
+   <genres>
+      <genre>Comedy</genre>
+   </genres>
+   <authors>
+      <author>Jason Filardi</author>
+   </authors>
+   <directors>
+      <director>Burr Steers</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Zac Efron</actor>
+      <actor>Leslie Mann</actor>
+      <actor>Thomas Lennon</actor>
+      <actor>Michelle Trachtenberg</actor>
+      <actor>Matthew Perry</actor>
+   </actors>
+   <release_date>April 17, 2009</release_date>
+   <running_time>102</running_time>
+   <rating>PG-13</rating>
+   <reviews>
+      <review>
+         <snippet>Pleasant, harmless PG-13 entertainment, with a plot a little more surprising and acting a little better than I expected.</snippet>
+         <url>http://rogerebert.suntimes.com/apps/pbcs.dll/article?AID=/20090415/REVIEWS/904159991</url>
+         <critic>Roger Ebert</critic>
+      </review>
+      <review>
+         <snippet>Though there's nothing revolutionary about 17 Again, the movie is undeniably enjoyable.</snippet>
+         <url>http://www.miamiherald.com/entertainment/movies/reviews/story/1001892.html</url>
+         <critic>Connie Ogle</critic>
+      </review>
+      <review>
+         <snippet>While the movie feels shelf-worn, Efron's performance is fresh.</snippet>
+         <url>http://www.philly.com/philly/entertainment/movies/20090417_Efron_a_dream_in_body-swap_fantasy.html</url>
+         <critic>Carrie Rickey</critic>
+      </review>
+      <review>
+         <snippet>Director Burr Steers (Igby Goes Down) doesn't always have a firm handle on what is and isn't appropriate; the film makes a few sharp detours into misogyny, and the level of smuttiness is surprisingly high, which may be a function of Efron wanting to grow away from his core audience too fast.</snippet>
+         <url>http://www.avclub.com/articles/17-again,26757/</url>
+         <critic>Scott Tobias</critic>
+      </review>
+      <review>
+         <snippet>Often silly but it's an honest, unselfconscious exploration of the conflict between a man's physical and psychological age.</snippet>
+         <url>http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2009/04/16/MV6L1727LO.DTL&amp;type=movies</url>
+         <critic>Mick LaSalle</critic>
+      </review>
+      <review>
+         <snippet>The ancient body-switching premise is animated by a breezy script that briefly addresses some of its darker implications.</snippet>
+         <url>http://onfilm.chicagoreader.com/movies/briefs/34283_SEVENTEEN_AGAIN.html</url>
+         <critic>Andrea Gronvall</critic>
+      </review>
+      <review>
+         <snippet>For a swoon-fest aimed at tweens, 17 Again has a lot going for it.</snippet>
+         <url>http://www.usatoday.com/life/movies/reviews/2009-04-16-17-again_N.htm</url>
+         <critic>Claudia Puig</critic>
+      </review>
+      <review>
+         <snippet>In the scenes where Efron isn't on screen, things tend to get boring. Plus, we could've lived without having watched so many scenes where Zac is showing off his basketball skills.</snippet>
+         <url>http://www.premiere.com/Review/Movies/17-Again</url>
+         <critic>Krista Soriano</critic>
+      </review>
+      <review>
+         <snippet>As a remake of "It's a Wonderful Life" or "Back to the Future," the movies it borrows from most heavily, the relive-your-senior-year comedy 17 Again falls a little short of the mark. But as a funny, sweet and smart star vehicle tailored for Zac "High School Musical" Efron, it's right on the money.</snippet>
+         <url>http://events.charlotteobserver.com/reviews/show/44132-review-17-again</url>
+         <critic>Roger Moore</critic>
+      </review>
+      <review>
+         <snippet>Though Mann and Perry are game, it's Efron who carries the movie.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/2009/04/16/2009-04-16_zac_efron_proves_his_chops_in_17_again.html</url>
+         <critic>Elizabeth Weitzman</critic>
+      </review>
+      <review>
+         <snippet>The movie itself is petrified meatloaf. It's a body-transference comedy in the vein of "Big," "Freaky Friday," and other candidates for Turner Classics.</snippet>
+         <url>http://www.boston.com/ae/movies/articles/2009/04/17/efron___surprise___plays_nice_in_17_again/</url>
+         <critic>Ty Burr</critic>
+      </review>
+      <review>
+         <snippet>Engaging but pedestrian comedy.</snippet>
+         <url>http://www.washingtonpost.com/wp-dyn/content/article/2009/04/16/AR2009041604409.html</url>
+         <critic>Dan Kois</critic>
+      </review>
+      <review>
+         <snippet>The movie doesn't come close to the family-friendly comedic pseudo-incest flirted with in "Back to the Future." That, apparently, is deemed too unsettling for today's audiences. So 17 Again none-too-cleverly tap dances around these issues.</snippet>
+         <url>http://www.reelviews.net/php_review_template.php?identifier=1601</url>
+         <critic>James Berardinelli</critic>
+      </review>
+      <review>
+         <snippet>Though remaining sweet and tasty, Efron, in his first non-singing and dancing feature film proves he has an agreeable and kinetic screen presence, although his ability to convince us he's truly a 37-year-old encased in a 17-year-old's body is dramatically dubious.</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A765596</url>
+         <critic>Marjorie Baumgarten</critic>
+      </review>
+      <review>
+         <snippet>Works better than you might imagine at times but stumbles awkwardly other times. The unevenness in the writing is matched by directorial overkill in certain comic sequences.</snippet>
+         <url>http://www.hollywoodreporter.com/hr/film-reviews/film-review-17-again-1003961068.story</url>
+         <critic>Kirk Honeycutt</critic>
+      </review>
+      <review>
+         <snippet>Zac Efron's squeaky-clean tweener-bait profile is unlikely to be threatened by 17 Again, an energetic but earthbound comic fantasy that borrows a few moves, if little inspiration, from "Big" and "It's a Wonderful Life."</snippet>
+         <url>http://www.variety.com/review/VE1117940029.html?categoryid=31&amp;cs=1</url>
+         <critic>Justin Chang</critic>
+      </review>
+      <review>
+         <snippet>It's often breezily entertaining.</snippet>
+         <url>http://www.salon.com/ent/movies/review/2009/04/17/17_again/index.html</url>
+         <critic>Stephanie Zacharek</critic>
+      </review>
+      <review>
+         <snippet>The director, Burr Steers, whose other credits include “Igby Goes Down” and stints directing TV shows, keeps people and things moving fast enough so that you don’t have time to worry about the details, like the inanity of the story.</snippet>
+         <url>http://movies.nytimes.com/2009/04/17/movies/17seve.html?ref=movies</url>
+         <critic>Manohla Dargis</critic>
+      </review>
+      <review>
+         <snippet>This laugh-starved twist on "Big" and the many lesser body-swapping comedies of the era is basically a lecture on sexual abstinence.</snippet>
+         <url>http://www.nypost.com/seven/04172009/entertainment/movies/age_before_booty_164751.htm</url>
+         <critic>Lou Lumenick</critic>
+      </review>
+      <review>
+         <snippet>This mix of titillation and sentimentality can pass as family entertainment because 17 Again is so weightless, a succession of one-liners, sincere monologues and logical absurdities.</snippet>
+         <url>http://www.theglobeandmail.com/servlet/story/RTGAM.20090416.wseventeen0417/BNStory/Entertainment/home</url>
+         <critic>Liam Lacey</critic>
+      </review>
+      <review>
+         <snippet>The result is a slack do-over fantasy in which Zac Efron, as a basketball star, looks baffled as to why he hasn't been asked to sing and dance.</snippet>
+         <url>http://www.ew.com/ew/article/0,,20272250,00.html</url>
+         <critic>Lisa Schwarzbaum</critic>
+      </review>
+      <review>
+         <snippet>What I can't accept is that the stringy, insipidly earnest teen idol Zac Efron would grow up to be the defensively ironic, twisty-faced Matthew Perry.</snippet>
+         <url>http://nymag.com/movies/reviews/55990/</url>
+         <critic>David Edelstein</critic>
+      </review>
+      <review>
+         <snippet>The movie's heart, of course, is with poor addled Mike and his kids, but 17 Again works only fitfully to make the Efron/Perry character worth a story.</snippet>
+         <url>http://www.chicagotribune.com/entertainment/movies/chi-tc-mov-17again-0415-17apr15,0,6598490.story</url>
+         <critic>Michael Phillips</critic>
+      </review>
+      <review>
+         <snippet>17 Again errs not only by covering such well-trod ground, but also by doing so through a main character - played by a game but ill-served Zac Efron - who's about as dense as they come.</snippet>
+         <url>http://www.baltimoresun.com/entertainment/movies/bal-to.again17apr17,0,6648214.story</url>
+         <critic>Chris Kaltenbach</critic>
+      </review>
+      <review>
+         <snippet>Never figures out what it wants to be, and ends up a jumbled mess that nobody wants.</snippet>
+         <url>http://movies.tvguide.com/17/review/297180</url>
+         <critic>Perry Seibert</critic>
+      </review>
+      <review>
+         <snippet>Director Burr Steers, of the terrific "Igby Goes Down," is stuck polishing clichès.</snippet>
+         <url>http://www.rollingstone.com/reviews/movie/21376771/review/27538152/17_again</url>
+         <critic>Peter Travers</critic>
+      </review>
+      <review>
+         <snippet>If this is one small step for the actor (Efron) toward becoming a leading man, it is, for Hollywood movies, one more giant leap into infantilism.</snippet>
+         <url>http://www.villagevoice.com/2009-04-15/film/zac-efron-allowed-to-grow-phallus-for-17-again/</url>
+         <critic>Scott Foundas</critic>
+      </review>
+   </reviews>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

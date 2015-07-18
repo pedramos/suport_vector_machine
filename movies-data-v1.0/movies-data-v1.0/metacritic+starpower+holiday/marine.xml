@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Marine, The</name>
+   <company>Twentieth Century-Fox Film Corporation</company>
+   <genres>
+      <genre>Action</genre>
+      <genre>Drama</genre>
+      <genre>SuspenseThriller</genre>
+   </genres>
+   <authors>
+      <author>Michelle Gallagher</author>
+      <author>Alan B. Mc</author>
+      <author>Elroy</author>
+   </authors>
+   <directors>
+      <director>John Bonito</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>John Cena</actor>
+      <actor>Robert Patrick</actor>
+      <actor>Kelly Carlson</actor>
+      <actor>Anthony Ray Parker</actor>
+      <actor>Abigail Bianca</actor>
+      <actor>Jerome Ehlers</actor>
+      <actor>Manu Bennett</actor>
+      <actor>Drew Powell</actor>
+   </actors>
+   <release_date>October 13, 2006</release_date>
+   <running_time>93</running_time>
+   <rating>PG-13</rating>
+   <reviews>
+      <review>
+         <snippet>A throwback to all those guilty pleasure action movies.</snippet>
+         <url>http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2006/10/16/DDGG8LQ0AU1.DTL&amp;type=movies</url>
+         <critic>Peter Hartlaub</critic>
+      </review>
+      <review>
+         <snippet>While The Marine proves a poor showcase for the charisma-impaired Cena, it's a terrific vehicle for world-class heavy Patrick, who is clearly enjoying himself as the kind of deranged lunatic who interrupts a long string of felonies to confirm the details of his new cable package.</snippet>
+         <url>http://www.avclub.com/content/node/54271</url>
+         <critic>Scott Tobias</critic>
+      </review>
+      <review>
+         <snippet>A delectably bad '80s-style actioner.</snippet>
+         <url>http://www.ew.com/ew/article/review/movie/0,6115,1547560_1_0_,00.html</url>
+         <critic>Gregory Kirshling</critic>
+      </review>
+      <review>
+         <snippet>Lunkheaded but entertaining action flick.</snippet>
+         <url>http://tvguide.com/detail/movie.aspx?tvobjectid=283576&amp;more=ucmoviereview</url>
+         <critic>Ken Fox</critic>
+      </review>
+      <review>
+         <snippet>The film's saving grace are its fast pacing and generous doses of humor, the latter of which is mostly provided by Robert Patrick's sly delivery of the many wisecracks doled out by his villainous character.</snippet>
+         <url>http://www.hollywoodreporter.com/thr/reviews/review_display.jsp?vnu_content_id=1003254757</url>
+         <critic>Frank Scheck</critic>
+      </review>
+      <review>
+         <snippet>Tongues are planted firmly in cheek; it’s impossible to endorse a full price ticket, but fans of campy action should check this out.</snippet>
+         <url>http://www.laweekly.com/film+tv/film-reviews/film-reviews/14769/</url>
+         <critic>Luke Y. Thompson</critic>
+      </review>
+      <review>
+         <snippet>Granted, this movie is unlikely to threaten "The Departed" at Oscar time. But for mindless entertainment, you could do a lot worse.</snippet>
+         <url>http://www.nydailynews.com/10-14-2006/entertainment/col/story/461451p-388265c.html</url>
+         <critic>Elizabeth Weitzman</critic>
+      </review>
+      <review>
+         <snippet>What follows is serviceable action set to music you'd find in a video game -- or a military ad.</snippet>
+         <url>http://www.boston.com/ae/movies/articles/2006/10/14/the_marine_is_a_stiff_salute_to_the_action_genre/</url>
+         <critic>Wesley Morris</critic>
+      </review>
+      <review>
+         <snippet>Junky, jokey and sometimes both at once, pic marks yet another attempt by World Wrestling Entertainment to establish one of its burly superstars as a movie lead.</snippet>
+         <url>http://www.variety.com/review/VE1117931880.html?categoryid=31&amp;cs=1</url>
+         <critic>Joe Leydon</critic>
+      </review>
+      <review>
+         <snippet>The Marine is bad in just the right way, a mindless throwaway that's at least smart enough not to take itself too seriously.</snippet>
+         <url>http://www.calendarlive.com/printedition/calendar/cl-et-marine16oct16,0,5108660.story</url>
+         <critic>Mark Olsen</critic>
+      </review>
+      <review>
+         <snippet>What’s a muscular guy like John Cena doing in a flabby movie like this? This connect-the-dots action-adventure may appeal to undemanding ten-year-old boys but will bore everyone else.</snippet>
+         <url>http://www.filmthreat.com/index.php?section=reviews&amp;Id=9366</url>
+         <critic>Phil Hall</critic>
+      </review>
+      <review>
+         <snippet>Co-starring as Rome, the ringleader with "intimacy issues," Robert Patrick appears to be enjoying himself. That makes one of us.</snippet>
+         <url>http://movies2.nytimes.com/2006/10/14/movies/14mari.html?ref=movies</url>
+         <critic>Nathan Lee</critic>
+      </review>
+      <review>
+         <snippet>Patrick leaves no scenery unchewed, and, in doing so, he gives life to an otherwise by-the-book script and proves once again that in Hollywood, it’s usually the bad guys who turn out to be the best characters.</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A409385</url>
+         <critic>Josh Rosenblatt</critic>
+      </review>
+      <review>
+         <snippet>The movie's prideful silliness makes it semi-watchable in the manner of Saturday afternoon cable flicks like "Delta Force."</snippet>
+         <url>http://www.nypost.com/seven/10142006/entertainment/movies/explosive_flick_preposterous_to_the_corps_movies_kyle_smith.htm</url>
+         <critic>Kyle Smith</critic>
+      </review>
+   </reviews>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

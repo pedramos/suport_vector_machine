@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>My Brother Is an Only Child</name>
+   <company>THINKFilm</company>
+   <genres>
+      <genre>Comedy</genre>
+      <genre>Crime</genre>
+      <genre>Drama</genre>
+   </genres>
+   <authors>
+      <author>Antonio Pennacchi</author>
+      <author>Stefano Rulli</author>
+      <author>Sandro Petraglia</author>
+      <author>Daniele Luchetti</author>
+   </authors>
+   <directors>
+      <director>Daniele Luchetti</director>
+   </directors>
+   <origins>
+      <origin>ItalyFrance</origin>
+   </origins>
+   <actors>
+      <actor>Elio Germano</actor>
+      <actor>Riccardo Scamarcio</actor>
+      <actor>Angela Finocchiaro</actor>
+      <actor>Luca Zingaretti</actor>
+      <actor>Anna Bonaiuto</actor>
+      <actor>Massimo Popolizio</actor>
+   </actors>
+   <release_date>March 28, 2008</release_date>
+   <running_time>108</running_time>
+   <rating>Not</rating>
+   <reviews>
+      <review>
+         <snippet>There's a hilarious performance of a "de-fascisized" version of Beethoven's "Ode to Joy," and the soundtrack prominently features an Italian version of the crypto-fascist girl-group classic "I Will Follow Him," a joke Kenneth Anger first made in "Scorpio Rising" that's still funny today.</snippet>
+         <url>http://www.tvguide.com/movies/brother-child/review/292655</url>
+         <critic>Ken Fox</critic>
+      </review>
+      <review>
+         <snippet>Moviegoers of a certain age may feel as though they are watching a lost Bertolucci film.</snippet>
+         <url>http://www.philly.com/inquirer/columnists/carrie_rickey/20080502_Funny_tale_of_Italian_brothers__political_enemies.html</url>
+         <critic>Carrie Rickey</critic>
+      </review>
+      <review>
+         <snippet>Thanks to the captivating performances, this is well worth checking out.</snippet>
+         <url>http://www.empireonline.com/reviews/reviewcomplete.asp?FID=135526</url>
+         <critic>Ross Bennett</critic>
+      </review>
+      <review>
+         <snippet>Petraglia and Rulli once again display their gift for bringing the texture of reality to family drama, for creating people and situations that involve us completely. My Brother Is an Only Child is not the only film that does this, but it's a product that's in shorter and shorter supply every year.</snippet>
+         <url>http://www.calendarlive.com/movies/reviews/cl-et-brother4apr04,0,6520420.story</url>
+         <critic>Kenneth Turan</critic>
+      </review>
+      <review>
+         <snippet>It’s a history lesson, a look at ’60s strife inside a corner far removed from our more familiar American images of that era. It’s also brightly performed, from sullen, boorish, yet charismatic Scamarcio to the instinctive, charming, infuriating characterization by Germano.</snippet>
+         <url>http://chicago.metromix.com/movies/movie_review/movie-review-my-brother/373091/content</url>
+         <critic>Sid Smith</critic>
+      </review>
+      <review>
+         <snippet>Intelligent, well-acted movie.</snippet>
+         <url>http://www.nypost.com/seven/03282008/entertainment/movies/my_brother_is_an_only_child_103821.htm</url>
+         <critic>Lou Lumenick</critic>
+      </review>
+      <review>
+         <snippet>Though it's well-cast and convincingly captures the look and feel of its era, the film loses steam as Accio's story meanders to a predictable conclusion.</snippet>
+         <url>http://www.oregonlive.com/movies/index.ssf/2008/05/review_gentle_comedy_in_my_bro.html</url>
+         <critic>Marc Mohan</critic>
+      </review>
+      <review>
+         <snippet>My Brother Is an Only Child isn't a critique of the left but a film about the consequences and responsibility of "political action." Luchetti measures social justice not in ideals but in positive change and the compassion with which it is accomplished.</snippet>
+         <url>http://seattlepi.nwsource.com/movies/362299_brother09q.html</url>
+         <critic>Sean Axmaker</critic>
+      </review>
+      <review>
+         <snippet>Ripe, ferociously acted comic drama.</snippet>
+         <url>http://www.boston.com/movies/display?display=movie&amp;id=11077</url>
+         <critic>Wesley Morris</critic>
+      </review>
+      <review>
+         <snippet>A provocative character study and portrait of the times.</snippet>
+         <url>http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2008/04/24/DD1F10AGN0.DTL&amp;type=movies</url>
+         <critic>Walter Addiego</critic>
+      </review>
+      <review>
+         <snippet>Great title, and the whiff of existential loneliness that it conjures up – brothers locked not in solidarity but in solitude – permeates the entire movie.</snippet>
+         <url>http://www.theglobeandmail.com/servlet/story/RTGAM.20080605.wbrother06/BNStory/Entertainment/home</url>
+         <critic>Rick Groen</critic>
+      </review>
+      <review>
+         <snippet>What makes My Brother Is an Only Child so alive and entertaining is how it dramatizes the endless tug-of-war between political conviction and personal experience--the way the lines twist and blur and finally implode.</snippet>
+         <url>http://nymag.com/movies/reviews/45326/index1.html</url>
+         <critic>David Edelstein</critic>
+      </review>
+      <review>
+         <snippet>A lively minor addendum to the grand tradition of Italian fraternal cinema.</snippet>
+         <url>http://movies.nytimes.com/2008/03/28/movies/28brot.html?ref=movies</url>
+         <critic>A.O. Scott</critic>
+      </review>
+      <review>
+         <snippet>Scripted by "The Best of Youth" duo who brought the post-WWII years into stark and moving light, pic offers a warm humor that illuminates the defiant vista of hope even when the proceedings turn tragic.</snippet>
+         <url>http://www.variety.com/index.asp?layout=festivals&amp;jump=review&amp;reviewid=VE1117933413&amp;cs=1&amp;p=0</url>
+         <critic>Jay Weissberg</critic>
+      </review>
+      <review>
+         <snippet>Tumultuously shot "rawness" is the stylistic house rule, but it's Elio Germano's Accio who vitalizes the film.</snippet>
+         <url>http://www.villagevoice.com/film/0813,my-brother-is-an-only-child,389161,20.html</url>
+         <critic>Nick Pinkerton</critic>
+      </review>
+      <review>
+         <snippet>Although the movie never quite dispels the sense of being dated (it could have been made anytime in the past 40 years), it's a memorable, often moving timepiece.</snippet>
+         <url>http://www.washingtonpost.com/ac2/wp-dyn?node=cityguide/profile&amp;id=1143521&amp;categories=Movies&amp;nm=1</url>
+         <critic>Desson Thomson</critic>
+      </review>
+      <review>
+         <snippet>I suppose, in the end, My Brother Is an Only Child is a coming-of-age story about a young man who – like the era he was born into – has no idea how to come of age, except by violent fits and starts, in all directions, to varying ends, and ready to change course whenever the mood strikes.</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A624283</url>
+         <critic>Josh Rosenblatt</critic>
+      </review>
+      <review>
+         <snippet>The movie is a veritable scrapbook of tropes from the heyday of art film. Maybe that's why it feels gauzy and quaint. Yet time passes pleasantly.</snippet>
+         <url>http://www.ew.com/ew/article/0,,20190807,00.html</url>
+         <critic>Owen Gleiberman</critic>
+      </review>
+      <review>
+         <snippet>The rough-and-tumble tone is bitterly entertaining but in the end doesn't contribute to a convincing historical portrait, and a pileup of half-baked resolutions spoils the buzz.</snippet>
+         <url>http://onfilm.chicagoreader.com/movies/briefs/32999_MY_BROTHER_IS_AN_ONLY_CHILD.html</url>
+         <critic>Michael Atkinson</critic>
+      </review>
+   </reviews>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

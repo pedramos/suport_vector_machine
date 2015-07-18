@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>2 Days in Paris</name>
+   <company>Samuel Goldwyn Films</company>
+   <genres>
+      <genre>Comedy</genre>
+      <genre>Drama</genre>
+      <genre>Romance</genre>
+   </genres>
+   <authors>
+      <author>Julie Delpy</author>
+   </authors>
+   <directors>
+      <director>Julie Delpy</director>
+   </directors>
+   <origins>
+      <origin>GermanyFrance</origin>
+   </origins>
+   <actors>
+      <actor>Julie Delpy</actor>
+      <actor>Adam Goldberg</actor>
+      <actor>Daniel Brühl</actor>
+      <actor>Marie Pillet</actor>
+      <actor>Albert Delpy</actor>
+      <actor>Aleksia Leau</actor>
+      <actor>Adan Jodorowsky</actor>
+      <actor>Alexre Nahon</actor>
+   </actors>
+   <release_date>August 10, 2007</release_date>
+   <running_time>96</running_time>
+   <rating>Not</rating>
+   <reviews>
+      <review>
+         <snippet>Audacious as it is, the movie is also a little scary.</snippet>
+         <url>http://movies.nytimes.com/2007/08/10/movies/10pari.html?ref=movies</url>
+         <critic>Stephen Holden</critic>
+      </review>
+      <review>
+         <snippet>2 Days in Paris is pure Julie Delpy, figuratively and otherwise. Since first becoming known to American audiences in the early '90s, she's revealed herself to be an artist of sundry and unexpected talents, with a distinctive voice and point of view.</snippet>
+         <url>http://www.calendarlive.com/movies/reviews/cl-et-paris10aug10,0,1836213.story?coll=cl-mreview</url>
+         <critic>Carina Chocano</critic>
+      </review>
+      <review>
+         <snippet>Quirky, fresh and sharply intelligent. A promising debut for director Delpy, both thought-provoking and painfully funny.</snippet>
+         <url>http://www.empireonline.com/reviews/reviewcomplete.asp?FID=135102</url>
+         <critic>Liz Beardsworth</critic>
+      </review>
+      <review>
+         <snippet>The movie doesn't add up to much, but it's an effervescent expression of an odd brute-hummingbird sensibility.</snippet>
+         <url>http://www.baltimoresun.com/entertainment/movies/reviews/bal-to.twodays31aug31,0,7967078.story</url>
+         <critic>Michael Sragow</critic>
+      </review>
+      <review>
+         <snippet>Amusingly raunchy.</snippet>
+         <url>http://www.miamiherald.com/entertainment/movies/story/219880.html</url>
+         <critic>Connie Ogle</critic>
+      </review>
+      <review>
+         <snippet>A smart film with an edge to it.</snippet>
+         <url>http://rogerebert.suntimes.com/apps/pbcs.dll/article?AID=/20070823/REVIEWS/70817010</url>
+         <critic>Roger Ebert</critic>
+      </review>
+      <review>
+         <snippet>The bickering lovers are generally likable, as are her quintessentially and hilariously Gallic parents (played by Delpy's real mom and dad).</snippet>
+         <url>http://www.oregonlive.com/movies/oregonian/index.ssf?/base/entertainment/1187832343208940.xml&amp;coll=7</url>
+         <critic>Marc Mohan</critic>
+      </review>
+      <review>
+         <snippet>Perhaps the most promising thing in 2 Days in Paris is that Delpy shows that she can direct herself.</snippet>
+         <url>http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2007/08/24/DDL0RNE44.DTL&amp;type=movies</url>
+         <critic>Mick LaSalle</critic>
+      </review>
+      <review>
+         <snippet>Much of the nattery byplay seems improvised, and the results are very hit and miss – inspired contretemps alternate with gabfests that seem to go on forever.</snippet>
+         <url>http://www.csmonitor.com/2007/0810/p14s02-almo.html</url>
+         <critic>Peter Rainer</critic>
+      </review>
+      <review>
+         <snippet>Weighty and downbeat though that sounds, Delpy's film is delightfully light, especially when it's parsing the infinite variety of horrible French cabbies.</snippet>
+         <url>http://www.tvguide.com/detail/movie.aspx?tvobjectid=289721&amp;more=ucmoviereview</url>
+         <critic>Maitland McDonagh</critic>
+      </review>
+      <review>
+         <snippet>Delpy wrote the dialogue that gives the film its forward thrust, and "2 Days" is a wonderful first feature.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/2007/08/10/2007-08-10_short_takes.html</url>
+         <critic>Jack Mathews</critic>
+      </review>
+      <review>
+         <snippet>For all the verbal jokery, it's more tragedy than farce.</snippet>
+         <url>http://www.avclub.com/content/cinema/2_days_in_paris</url>
+         <critic>Tasha Robinson</critic>
+      </review>
+      <review>
+         <snippet>This anti romantic and anti-comic -- it's not as funny as Delpy seems to think it is -- movie may appeal to the dark side of your immune system.</snippet>
+         <url>http://www.time.com/time/arts/article/0,8599,1651850,00.html</url>
+         <critic>Richard Schickel</critic>
+      </review>
+      <review>
+         <snippet>Delpy's writing is sharply observed and often hilarious, and her own performance as the perennially enraged Marion -- whom she says was inspired by Robert De Niro's Jake LaMotta in "Raging Bull" -- is one of her most memorable.</snippet>
+         <url>http://www.salon.com/ent/movies/review/2007/08/09/btm/index1.html</url>
+         <critic>Andrew O&amp;#039;Hehir</critic>
+      </review>
+      <review>
+         <snippet>2 Days in Paris doesn't quite meet the "Before Sunset" standard of intricate, subtle dialogue and sharp psychological insight--then again, neither do many movies this side of Eric Rohmer. That this one is even bearable is a surprise; that it's occasionally insightful and hilarious is a treat.</snippet>
+         <url>http://www.slate.com/id/2172002/</url>
+         <critic>Dana Stevens</critic>
+      </review>
+      <review>
+         <snippet>Delpy shows Linklater's influence in her willingness to let actors work and walk at length, and she has an unusually playful style for an actor turned filmmaker.</snippet>
+         <url>http://www.villagevoice.com/film/0732,ridley,77447,20.html</url>
+         <critic>Jim Ridley</critic>
+      </review>
+      <review>
+         <snippet>There is enough "hit" material to make this fun. Delpy is such an infectiously appealing personality, she almost wills this movie to work.</snippet>
+         <url>http://www.washingtonpost.com/ac2/wp-dyn?node=cityguide/profile&amp;id=1138968&amp;categories=Movies&amp;nm=1</url>
+         <critic>Desson Thomson</critic>
+      </review>
+      <review>
+         <snippet>Among the many offhand virtues of Julie Delpy's first feature as solo writer-director is the fact that she's as attentive to French foibles as American ones.</snippet>
+         <url>http://onfilm.chicagoreader.com/movies/briefs/31996_TWO_DAYS_IN_PARIS.html</url>
+         <critic>Jonathan Rosenbaum</critic>
+      </review>
+      <review>
+         <snippet>Before the film flails, like a balloon losing air into a terrible finale, it has the audacity to lay siege to just about every xenophobic bias possible. No one -- or country -- is safe in this comedy and for that alone it's admirable.</snippet>
+         <url>http://seattlepi.nwsource.com/movies/328803_paris24q.html</url>
+         <critic>Paula Nechak</critic>
+      </review>
+      <review>
+         <snippet>Provides a smart and funny respite from most of what passes for romantic comedy these days.</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A526262</url>
+         <critic>Marjorie Baumgarten</critic>
+      </review>
+      <review>
+         <snippet>Delpy wrote and directed this study of a relationship heading (it would seem) for the rocks. She stages it with a funny and diverting improv-y flow.</snippet>
+         <url>http://www.ew.com/ew/article/0,,20050622,00.html</url>
+         <critic>Owen Gleiberman</critic>
+      </review>
+      <review>
+         <snippet>Delpy is clearly a gifted writer, especially of comic dialogue. But she and Goldberg don't quite work as an engaging pair.</snippet>
+         <url>http://www.usatoday.com/life/movies/reviews/2007-08-09-2-days-in-paris_N.htm</url>
+         <critic>Claudia Puig</critic>
+      </review>
+      <review>
+         <snippet>Although she lets her flair for creating funny, sharply written, quirky scenes consume her feature directorial debut, her use of family, friends and even an ex (Goldberg) in 2 Days In Paris, gives the film a wonderfully natural, comfy feel.</snippet>
+         <url>http://www.theglobeandmail.com/servlet/story/RTGAM.20070809.wparis0810/BNStory/Entertainment/home</url>
+         <critic>Jennie Punter</critic>
+      </review>
+      <review>
+         <snippet>By accident or design the film is seriously unbalanced.</snippet>
+         <url>http://metromix.chicagotribune.com/movies/mmx-070824-movies-review-paris,0,1561594.story?coll=mmx-movies_top_heds</url>
+         <critic>Michael Phillips</critic>
+      </review>
+      <review>
+         <snippet>The movie is just a situation salad, at least until the end, when things start to pull together a bit.</snippet>
+         <url>http://www.nypost.com/seven/08102007/entertainment/movies/paris_je_taime__itaint_movies_kyle_smith.htm</url>
+         <critic>Kyle Smith</critic>
+      </review>
+      <review>
+         <snippet>Here's all you really need to know in order to determine whether Julie Delpy's 2 Days in Paris is something you need to experience for yourself: Her blond hair is often all frizz, and she prefers glasses with a big black frame. She's Mia AND Woody.</snippet>
+         <url>http://www.boston.com/movies/display?display=movie&amp;id=10378</url>
+         <critic>Wesley Morris</critic>
+      </review>
+      <review>
+         <snippet>Delpy's manic energy shoots through this meet-the-parents comedy like electroshock, resulting in a movie that is as acutely painful as it is acutely funny.</snippet>
+         <url>http://www.philly.com/inquirer/columnists/carrie_rickey/20070824_A_meet_the_parents_with_an_international_flavor.html</url>
+         <critic>Carrie Rickey</critic>
+      </review>
+      <review>
+         <snippet>The movie should be seen with a large, responsive audience--the better to live with it in the moment instead of worrying about where it’s going.</snippet>
+         <url>http://nymag.com/movies/reviews/35531/index1.html</url>
+         <critic>David Edelstein</critic>
+      </review>
+      <review>
+         <snippet>The movie doesn't offer enough to make it interesting or even diverting.</snippet>
+         <url>http://www.reelviews.net/movies/t/2_days_paris.html</url>
+         <critic>James Berardinelli</critic>
+      </review>
+      <review>
+         <snippet>Anyone hoping that 2 Days in Paris will revisit such peppy romance (“Annie Hall”), however, will be frustrated. There is an extra rawness here, a determination to confront and annoy.</snippet>
+         <url>http://www.newyorker.com/arts/critics/cinema/2007/08/13/070813crci_cinema_lane?currentPage=2</url>
+         <critic>Anthony Lane</critic>
+      </review>
+   </reviews>
+   <summer_release>true</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

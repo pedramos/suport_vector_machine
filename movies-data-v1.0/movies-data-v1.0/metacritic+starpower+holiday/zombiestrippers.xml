@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Zombie Strippers</name>
+   <company>Sony Pictures Entertainment</company>
+   <genres>
+      <genre>Comedy</genre>
+      <genre>Horror</genre>
+   </genres>
+   <authors>
+      <author>Jay Lee</author>
+   </authors>
+   <directors>
+      <director>Jay Lee</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Robert Englund</actor>
+      <actor>Jenna Jameson</actor>
+      <actor>Roxy Saint</actor>
+      <actor>Joey Medina</actor>
+      <actor>Shamron Moore</actor>
+      <actor>Penny Drake</actor>
+      <actor>Jennifer Holl</actor>
+      <actor>John Hawkes</actor>
+   </actors>
+   <release_date>April 18, 2008</release_date>
+   <running_time>94</running_time>
+   <rating>R</rating>
+   <reviews>
+      <review>
+         <snippet>Director Jay Lee (The Slaughter) delivers absolutely everything you could possibly hope for in a film called Zombie Strippers, with a consistently hilarious, brutal, and titillating mash-up of "Return of the Living Dead" and "Showgirls" that actually beats out Mark Pirro's "Nudist Colony of the Dead" for the unofficial title of best naked zombie movie ever.</snippet>
+         <url>http://www.villagevoice.com/film/0816,tracking-3,411827,20.html</url>
+         <critic>Luke Y. Thompson</critic>
+      </review>
+      <review>
+         <snippet>Zombie Strippers is a B-movie whose ideas and wit set it well above the great unwashed of the genre.</snippet>
+         <url>http://www.calendarlive.com/movies/reviews/cl-et-capsules18apr18,0,5893839.story</url>
+         <critic>Michael Ordona</critic>
+      </review>
+      <review>
+         <snippet>Shouting the title never quite prepared me for either how stripping zombies aren't as hot or as funny as I thought they would be or how quickly the movie's eager intelligence collapses on itself.</snippet>
+         <url>http://www.boston.com/movies/display?display=movie&amp;id=11862</url>
+         <critic>Wesley Morris</critic>
+      </review>
+      <review>
+         <snippet>Whatever planet these dance sequences are happening on, their cuckoo surrealism is the movie's saving grace.</snippet>
+         <url>http://www.premiere.com/moviereviews/4523/zombie-strippers.html</url>
+         <critic>Ryan Stewart</critic>
+      </review>
+      <review>
+         <snippet>On its own low-bar terms, it delivers the goods: pole-dancing, gut-chomping and Jenna J.</snippet>
+         <url>http://www.tvguide.com/movies/zombie-strippers/review/293407</url>
+         <critic>Maitland McDonagh</critic>
+      </review>
+      <review>
+         <snippet>In spite of the horrific dialogue, and even worse acting, there’s actually something to be said for Zombie Strippers!</snippet>
+         <url>http://www.filmthreat.com/index.php?section=reviews&amp;Id=10965</url>
+         <critic>Felix Vasques Jr.</critic>
+      </review>
+      <review>
+         <snippet>Shot on ugly digital video with Troma-grade special effects, campy humor and frighteningly bad acting, Zombie Strippers should provide many laughs for stoners watching it on video.</snippet>
+         <url>http://www.nypost.com/seven/04182008/entertainment/movies/naked_and_the_undead_106960.htm</url>
+         <critic>Lou Lumenick</critic>
+      </review>
+      <review>
+         <snippet>Strewn with some surprisingly decent effects, this unevenly paced film delivers, if nothing else, on the promise of its title: lots of surgically enhanced nude dead women strutting their stuff.</snippet>
+         <url>http://movies.nytimes.com/2008/04/18/movies/18zomb.html?ref=movies</url>
+         <critic>Jeannette Catsoulis</critic>
+      </review>
+      <review>
+         <snippet>Jay Lee's grotesque little horror film makes up for in audacity what it might lack in finesse.</snippet>
+         <url>http://www.hollywoodreporter.com/hr/film/reviews/article_display.jsp?JSESSIONID=0v42LJdc2kyyWzfbbH0G9TcFTfPPXB4RpppvnTtNJtSGgJ8np0pG!1051653258&amp;&amp;rid=10983</url>
+         <critic>Michael Rechtshaffen</critic>
+      </review>
+      <review>
+         <snippet>The kind of entertainment perhaps better suited to drinking games than full viewer attention.</snippet>
+         <url>http://www.variety.com/review/VE1117936833.html?categoryid=31&amp;cs=1</url>
+         <critic>Dennis Harvey</critic>
+      </review>
+      <review>
+         <snippet>The action can be bloody, but is mostly routine. Ultimately, the film’s most eye-catching special effects are reserved for bikini waxes and implants.</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A612152</url>
+         <critic>Marjorie Baumgarten</critic>
+      </review>
+      <review>
+         <snippet>A brilliantly high-concept title and some decent gore aside, you're better off watching the version in your head. It will be infinitely more fun and have markedly improved production values.</snippet>
+         <url>http://www.empireonline.com/reviews/reviewcomplete.asp?FID=135691</url>
+         <critic>Damon Wise</critic>
+      </review>
+      <review>
+         <snippet>The movie, as its title suggests, means to be one of those Tarantino-esque in-your-face jobs, amusing on the audacity of its outrageousness. Here's how "outrageous" it is: Zzzzzz-zzzz.</snippet>
+         <url>http://www.washingtonpost.com/ac2/wp-dyn?node=cityguide/profile&amp;id=1147977&amp;categories=Movies&amp;nm=1</url>
+         <critic>Stephen Hunter</critic>
+      </review>
+      <review>
+         <snippet>Just a crappy flick for the Beavises of the world.</snippet>
+         <url>http://seattlepi.nwsource.com/movies/360475_zombie25q.html</url>
+         <critic>Travis Nichols</critic>
+      </review>
+      <review>
+         <snippet>Currently stopping by theaters briefly en route to DVD, the film tries to position Jameson as the next Linnea Quigley, the B-movie queen behind such enduring titles as "Hollywood Chainsaw Hookers" and "Sorority Babes In The Slimeball Bowl-O-Rama."</snippet>
+         <url>http://www.avclub.com/content/cinema/zombie_strippers</url>
+         <critic>Scott Tobias</critic>
+      </review>
+   </reviews>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

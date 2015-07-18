@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Lives of Others, The</name>
+   <company>Sony Pictures Classics</company>
+   <genres>
+      <genre>Drama</genre>
+      <genre>Foreign</genre>
+   </genres>
+   <authors>
+      <author>Florian Henckel von Donnersmarck</author>
+   </authors>
+   <directors>
+      <director>Florian Henckel von Donnersmarck</director>
+   </directors>
+   <origins>
+      <origin>Germany</origin>
+   </origins>
+   <actors>
+      <actor>Martina Gedeck</actor>
+      <actor>Ulrich Mühe</actor>
+      <actor>Sebastian Koch</actor>
+      <actor>Ulrich Tukur</actor>
+      <actor>Thomas Thieme</actor>
+   </actors>
+   <release_date>December 1, 2006</release_date>
+   <running_time>137</running_time>
+   <rating>R</rating>
+   <reviews>
+      <review>
+         <snippet>If there is any justice, this year's Academy Award for best foreign-language film will go to The Lives of Others, a movie about a world in which there is no justice.</snippet>
+         <url>http://www.newyorker.com/critics/cinema/articles/070212crci_cinema_lane</url>
+         <critic>Anthony Lane</critic>
+      </review>
+      <review>
+         <snippet>The easy, complacent distance that informs much historical filmmaking is almost entirely absent from this supremely intelligent, unfailingly honest movie.</snippet>
+         <url>http://movies2.nytimes.com/2007/02/09/movies/09live.html?ref=movies</url>
+         <critic>A.O. Scott</critic>
+      </review>
+      <review>
+         <snippet>Rather than dwell on the darkness and squalor, von Donnersmarck has fashioned a genuinely thrilling tale, leavened with sly humor, that works ingenious variations on the theme of cat and mouse, speaks to current concerns about personal privacy and illuminates the timeless conflict between totalitarianism and art.</snippet>
+         <url/>
+         <critic>Joe Morgenstern</critic>
+      </review>
+      <review>
+         <snippet>A thoroughly compelling political thriller, at once intellectually challenging and profoundly emotional.</snippet>
+         <url>http://www.usatoday.com/life/movies/reviews/2007-02-08-others-review_x.htm</url>
+         <critic>Claudia Puig</critic>
+      </review>
+      <review>
+         <snippet>A tense and tightly plotted fictional thriller is based on real tactics used by the Stasi -- East Germany's secret police force -- to spy on and interrogate their own citizens.</snippet>
+         <url>http://tvguide.com/detail/movie.aspx?tvobjectid=285284&amp;more=ucmoviereview</url>
+         <critic>Ken Fox</critic>
+      </review>
+      <review>
+         <snippet>It's an intricate, ambiguous and deeply satisfying movie, a tautly plotted tale of state surveillance and personal betrayal that ultimately becomes an ode to the transformative power of art.</snippet>
+         <url>http://www.slate.com/id/2159360/fr/flyout</url>
+         <critic>Dana Stevens</critic>
+      </review>
+      <review>
+         <snippet>Smartly crafted, impeccably acted, The Lives of Others packs a subtle punch, from its creepy first images to its poignant finale.</snippet>
+         <url>http://www.time.com/time/magazine/article/0,9171,1587275,00.html</url>
+         <critic>Richard Corliss</critic>
+      </review>
+      <review>
+         <snippet>A great film, the best I've seen since Terrence Malick's "The New World," and far and away the richest and most brilliantly acted picture to be released this Oscar season.</snippet>
+         <url>http://sfgate.com/cgi-bin/article.cgi?f=/c/a/2007/02/16/DDG9IO4PID1.DTL&amp;type=movies</url>
+         <critic>Mick LaSalle</critic>
+      </review>
+      <review>
+         <snippet>To watch "Lives" is not just to enjoy a fabulously constructed timepiece; it's to appreciate a deft cautionary tale.</snippet>
+         <url>http://www.washingtonpost.com/ac2/wp-dyn?node=cityguide/profile&amp;id=1124979&amp;categories=Movies&amp;nm=1</url>
+         <critic>Desson Thomson</critic>
+      </review>
+      <review>
+         <snippet>It's so full-blooded, smart, sexy, tense and absorbing, so cleverly written and shot and cut, so filled with superb acting and music, so perfect in its closing moment, that it surely ranks with the most impressive debuts in world cinema.</snippet>
+         <url>http://www.oregonlive.com/movies/oregonian/index.ssf?/base/entertainment/1171997744286110.xml&amp;coll=7</url>
+         <critic>Shawn Levy</critic>
+      </review>
+      <review>
+         <snippet>Lives is a best-foreign-film nominee competing in a year that at least three movies in this category are stronger than Oscar's best-picture contenders.</snippet>
+         <url>http://ae.philly.com/entertainment/ui/philly/movie.html?id=810086&amp;reviewId=22256</url>
+         <critic>Carrie Rickey</critic>
+      </review>
+      <review>
+         <snippet>The unique, serious fun of this movie - and forbidding reputation aside, it is exhilarating - lies in the way that Wiesler, Dreyman and Sieland end up collaborating unknowingly on their own Design for Living (for a while, it's like Noel Coward for moral cowards).</snippet>
+         <url>http://www.baltimoresun.com/entertainment/movies/bal-to.lives09mar09,0,7093197.story?coll=bal-movies-utility</url>
+         <critic>Michael Sragow</critic>
+      </review>
+      <review>
+         <snippet>von Donnersmarck creates a milieu so realistic that the attention-worthy setting becomes just a backdrop, while an intricate tale, as suspenseful as it is humanistic, takes over.</snippet>
+         <url>http://www.filmthreat.com/index.php?section=reviews&amp;Id=9913</url>
+         <critic>Matthew Sorrento</critic>
+      </review>
+      <review>
+         <snippet>Already fêted, von Donnersmarck’s debut sets a closely focused, personal story against a more expansive backdrop of politics and power games -- a moving, enlightening tale of recent times.</snippet>
+         <url>http://www.empireonline.com/reviews/review.asp?FID=134730</url>
+         <critic>Alan Morrison</critic>
+      </review>
+      <review>
+         <snippet>A powerful but quiet film, constructed of hidden thoughts and secret desires.</snippet>
+         <url>http://www.rogerebert.com/apps/pbcs.dll/article?AID=/20070920/REVIEWS/70920002/1023</url>
+         <critic>Roger Ebert</critic>
+      </review>
+      <review>
+         <snippet>Utterly riveting fictional drama.</snippet>
+         <url>http://www.ew.com/ew/article/0,,20010660,00.html</url>
+         <critic>Lisa Schwarzbaum</critic>
+      </review>
+      <review>
+         <snippet>It's hard to believe this is von Donnersmarck's first feature. His storytelling gifts have the novelistic richness of a seasoned master. The accelerating plot twists are more than just clever surprises; they reverberate with deep and painful ironies, creating both suspense and an emotional impact all the more powerful because it creeps up so quietly.</snippet>
+         <url>http://www.msnbc.msn.com/id/16950919/site/newsweek/</url>
+         <critic>David Ansen</critic>
+      </review>
+      <review>
+         <snippet>It convincingly demonstrates that when done right, moral and political quandaries can be the most intensely dramatic dilemmas of all.</snippet>
+         <url>http://www.calendarlive.com/movies/reviews/cl-et-lives1dec01,0,2952621.story?coll=cl-mreview</url>
+         <critic>Kenneth Turan</critic>
+      </review>
+      <review>
+         <snippet>Despite the fact that parts of this film remind us of past pictures with comparable themes, the director and his actors make it immediate, gripping.</snippet>
+         <url>http://www.tnr.com/doc.mhtml?i=20070219&amp;s=kauffmann021907</url>
+         <critic>Stanley Kauffmann</critic>
+      </review>
+      <review>
+         <snippet>Ulrich Mühe gives a marvelously self-contained performance. There isn't an ounce of fat on his body, or in his acting: He has pared himself down to a pair of eyes that prowl the faces of his character's countrymen for signs of arrogance--i.e., of independent thinking.</snippet>
+         <url>http://nymag.com/movies/reviews/27334/</url>
+         <critic>David Edelstein</critic>
+      </review>
+      <review>
+         <snippet>Like all great screen performances, Mühe's magic comes out most in its tiniest moments: a raised eyebrow here, a slight upturn of the lips there. It's a triumph of muted grandeur; it's like watching someone being born.</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A451145</url>
+         <critic>Josh Rosenblatt</critic>
+      </review>
+      <review>
+         <snippet>The Lives of Others has similarities to Francis Ford Coppola's 1974 classic "The Conversation" but with undercurrents that resound across an entire century of European political history.</snippet>
+         <url>http://www.boston.com/movies/display?display=movie&amp;id=9271</url>
+         <critic>Ty Burr</critic>
+      </review>
+      <review>
+         <snippet>Beautifully textured and layered movie.</snippet>
+         <url>http://ae.philly.com/entertainment/ui/philly/movie.html?id=810086&amp;reviewId=22251</url>
+         <critic>Rene Rodriguez</critic>
+      </review>
+      <review>
+         <snippet>A movie that combines the Cold War intrigue of John Le Carré with the wired buzz of Francis Ford Coppola's "The Conversation" -- one of those rare two-hour-plus pictures that runs long but plays bracingly, excitingly short.</snippet>
+         <url>http://www.theglobeandmail.com/servlet/story/RTGAM.20070208.wlives09/BNStory/Entertainment/home</url>
+         <critic>Rick Groen</critic>
+      </review>
+      <review>
+         <snippet>The skillfully acted and directed The Lives of Others is a timely warning about governments that seek to repress dissent.</snippet>
+         <url>http://www.nypost.com/seven/02092007/entertainment/movies/bedroom_spies_movies_lou_lumenick.htm</url>
+         <critic>Lou Lumenick</critic>
+      </review>
+      <review>
+         <snippet>Works beautifully, both as a social and psychological drama and as a taut, tightly wired thriller.</snippet>
+         <url>http://metromix.chicagotribune.com/movies/mmx-070216-movies-review-lives,0,2876914.story?coll=mmx-movies_top_heds</url>
+         <critic>Michael Wilmington</critic>
+      </review>
+      <review>
+         <snippet>Von Donnersmarck has crafted the best kind of movie: one you can't get out of your head.</snippet>
+         <url>http://www.rollingstone.com/reviews/movie/10617357/review/13247240/the_lives_of_others_das_leben_der_anderen</url>
+         <critic>Peter Travers</critic>
+      </review>
+      <review>
+         <snippet>With solid performances and a terrific screenplay, this movie offers solid, no-frills drama that feels organic and believable, not contrived.</snippet>
+         <url>http://www.reelviews.net/movies/l/lives_others.html</url>
+         <critic>James Berardinelli</critic>
+      </review>
+      <review>
+         <snippet>von Donnersmarck delivers something extraordinary and rare: a thriller that's entirely adult in both its concerns and perspective which manages to be as thoroughly gripping as any finely tuned albeit adolescent Hollywood nail-biter.</snippet>
+         <url>http://www.premiere.com/moviereviews/3508/the-lives-of-others.html</url>
+         <critic>Glenn Kenny</critic>
+      </review>
+      <review>
+         <snippet>Except for Hempf, every character is under incredible duress, and the performances are exceptional. With his first feature, an Oscar nominee for foreign-language film, von Donnersmarck has certainly left his mark.</snippet>
+         <url>http://www.nydailynews.com/02-09-2007/entertainment/col/story/495881p-417851c.html</url>
+         <critic>Jack Mathews</critic>
+      </review>
+      <review>
+         <snippet>The director is fortunate to have cast actors who fully embody their roles. Muehe, who once played Josef Mengele in Costa-Gavras's "Amen," has the ability to let you see far beneath his masklike countenance. Koch, dashing and intense, is entirely believable as a man of the theater; Gedeck exudes a sensuousness that this covert society cannot abide.</snippet>
+         <url>http://www.csmonitor.com/2007/0209/p14s02-almo.html</url>
+         <critic>Peter Rainer</critic>
+      </review>
+      <review>
+         <snippet>Mühe's performance is brilliant, communicating more turmoil and pain with the droop of a lip and a flicker of the eye across an otherwise intently passive face than all the emotional storms of the cast.</snippet>
+         <url>http://seattlepi.nwsource.com/movies/303849_lives16q.html</url>
+         <critic>Sean Axmaker</critic>
+      </review>
+      <review>
+         <snippet>This is a teasingly complex political thriller, but it's also a sort-of romance.</snippet>
+         <url>http://www.salon.com/ent/movies/review/2007/02/09/lives_of_others/index.html</url>
+         <critic>Stephanie Zacharek</critic>
+      </review>
+      <review>
+         <snippet>Starts out dark and challenging then comes to a startlingly satisfying and warmly human conclusion that lingers long after the curtain has come down.</snippet>
+         <url>http://www.hollywoodreporter.com/hr/film/reviews/article_display.jsp?&amp;rid=489</url>
+         <critic>Eric Hansen</critic>
+      </review>
+      <review>
+         <snippet>Superbly cast drama… that looks to be a solid upscale attraction wherever the special chemistry of good writing and performances is appreciated.</snippet>
+         <url>http://www.variety.com/awardcentral_review/VE1117930778.html?nav=reviews07&amp;categoryid=2352&amp;cs=1&amp;p=0</url>
+         <critic>Derek Elley</critic>
+      </review>
+      <review>
+         <snippet>von Donnersmarck gives his debut feature, The Lives Of Others, no particular style, and the absence of visual risk-taking renders an exciting premise ponderous and stolid.</snippet>
+         <url>http://www.avclub.com/content/node/58393</url>
+         <critic>Noel Murray</critic>
+      </review>
+      <review>
+         <snippet>A compelling thriller but an unsatisfying character drama.</snippet>
+         <url>http://www.villagevoice.com/film/0706,hoberman,75745,20.html</url>
+         <critic>J. Hoberman</critic>
+      </review>
+      <review>
+         <snippet>The fictional story here, set between 1984 and 1991, focuses on the investigation of a popular and patriotic playwright (Sebastian Koch); that the captain assigned to his case (touchingly played by Ulrich Mühe) is mainly sympathetic and working surreptitiously on the playwright's behalf only makes this more disturbing.</snippet>
+         <url>http://onfilm.chicagoreader.com/movies/critic.html#31108</url>
+         <critic>Jonathan Rosenbaum</critic>
+      </review>
+      <review>
+         <snippet>The Lives of Others wants us to see that the Stasi -- at least some of them -- were, like their Gestapo brethren, “just following orders." You can call that naive optimism on Donnersmarck's part, or historical revisionism of the sort duly lambasted by the current film version of Alan Bennett's "The History Boys." I, for one, tremble at the thought of what this young director does for an encore.</snippet>
+         <url>http://www.laweekly.com/film+tv/film/the-stasi-who-came-in-from-the-cold/15120/</url>
+         <critic>Scott Foundas</critic>
+      </review>
+   </reviews>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

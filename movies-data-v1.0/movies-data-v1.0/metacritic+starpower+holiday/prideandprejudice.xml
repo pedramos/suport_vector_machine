@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Pride &amp; Prejudice</name>
+   <company>Focus Features</company>
+   <genres>
+      <genre>Drama</genre>
+      <genre>Foreign</genre>
+      <genre>Romance</genre>
+   </genres>
+   <authors>
+      <author>Deborah Moggach</author>
+      <author>Jane Austen</author>
+   </authors>
+   <directors>
+      <director>Joe Wright</director>
+   </directors>
+   <origins>
+      <origin>UK</origin>
+   </origins>
+   <actors>
+      <actor>Keira Knightley</actor>
+      <actor>Matthew MacFadyen</actor>
+      <actor>Rosamund Pike</actor>
+      <actor>Jena Malone</actor>
+      <actor>Donald Sutherl</actor>
+      <actor>Brenda Blethyn</actor>
+      <actor>Simon Woods</actor>
+      <actor>Judi Dench</actor>
+   </actors>
+   <release_date>November 11, 2005</release_date>
+   <running_time>127</running_time>
+   <rating>PG</rating>
+   <reviews>
+      <review>
+         <snippet>Keira Knightley, in a witty, vibrant, altogether superb performance, plays Lizzie's sparky, questing nature as a matter of the deepest personal sacrifice.</snippet>
+         <url>http://www.ew.com/ew/article/review/movie/0,6115,1127830_1_0_,00.html</url>
+         <critic>Owen Gleiberman</critic>
+      </review>
+      <review>
+         <snippet>In the end, the finest achievement of Wright's movie is that it fully captures what Martin Amis, writing on Pride and Prejudice, said of Austen: "Money is a vital substance in her world; the moment you enter it you feel the frank horror of moneylessness, as intense as the tacit horror of spinsterhood." All that, and a great love story, too.</snippet>
+         <url>http://www.csmonitor.com/2005/1110/p11s01-almo.html</url>
+         <critic>Peter Rainer</critic>
+      </review>
+      <review>
+         <snippet>The movie is well cast from top to bottom; like many British films, it benefits from the genius of its supporting players.</snippet>
+         <url>http://www.rogerebert.com/apps/pbcs.dll/article?AID=/20051110/REVIEWS/51019005/1023</url>
+         <critic>Roger Ebert</critic>
+      </review>
+      <review>
+         <snippet>This Pride &amp; Prejudice is a stellar adaptation, bewitching the viewer completely and incandescently with an exquisite blend of emotion and wit.</snippet>
+         <url>http://www.usatoday.com/life/movies/reviews/2005-11-10-pride_x.htm</url>
+         <critic>Claudia Puig</critic>
+      </review>
+      <review>
+         <snippet>The appealing Knightley goes in a promising young actress and comes out a star, but the faultless cast of veterans and fresh-faced newcomers imbues every character with flawed and immensely appealing humanity.</snippet>
+         <url>http://online.tvguide.com/movies/database/ShowMovie.asp?MI=46511</url>
+         <critic>Maitland McDonagh</critic>
+      </review>
+      <review>
+         <snippet>Jane Austen's novel has been rejiggered into a jaunty romantic comedy that leaves us as incandescently happy as its characters.</snippet>
+         <url>http://www.boston.com/movies/display?display=movie&amp;id=7834</url>
+         <critic>Wesley Morris</critic>
+      </review>
+      <review>
+         <snippet>Blissful, blazingly intelligent adaptation.</snippet>
+         <url>http://www.salon.com/ent/movies/review/2005/11/11/pride_prejudice/index.html?sid=1412415</url>
+         <critic>Stephanie Zacharek</critic>
+      </review>
+      <review>
+         <snippet>Deliriously charming.</snippet>
+         <url>http://sfgate.com/cgi-bin/article.cgi?f=/c/a/2005/11/11/DDGD1FLJTO1.DTL&amp;type=movies</url>
+         <critic>Ruthe Stein</critic>
+      </review>
+      <review>
+         <snippet>This Pride &amp; Prejudice (ampersand and all) a joy to behold.</snippet>
+         <url>http://www.slate.com/id/2130026/?nav=fo</url>
+         <critic>David Edelstein</critic>
+      </review>
+      <review>
+         <snippet>Indoors, it's Jane Austen. Outdoors, this red-blooded, exuberantly romantic version of Pride and Prejudice plays more like Emily Brontë. Purists may object, but most will find this love story irresistible.</snippet>
+         <url>http://www.msnbc.msn.com/id/10118868/site/newsweek/</url>
+         <critic>David Ansen</critic>
+      </review>
+      <review>
+         <snippet>With outstanding performances, including a turn by Judi Dench as the evil Lady Catherine de Bourg, Pride &amp; Prejudice is a joy from start to finish.</snippet>
+         <url>http://www.calendarlive.com/movies/chocano/cl-et-pride11nov11,0,6657120.story</url>
+         <critic>Carina Chocano</critic>
+      </review>
+      <review>
+         <snippet>Gathers you up on its white horse and gallops off into the sunset. Along the way, it serves a continuing banquet of high-end comfort food perfectly cooked and seasoned to Anglophilic tastes.</snippet>
+         <url>http://www.nytimes.com/2005/11/11/movies/11prid.html</url>
+         <critic>Stephen Holden</critic>
+      </review>
+      <review>
+         <snippet>There's something more REAL about this version, more human, more lived-in; though their words may have been penned 200 years ago, when Austen was a young woman writing about her idealized self, this cast and crew nudge the material into the now.</snippet>
+         <url>http://dallasobserver.com/Issues/2005-11-10/film/film.html</url>
+         <critic>Robert Wilonsky</critic>
+      </review>
+      <review>
+         <snippet>This fresh adaptation shakes the dust off Jane Austen's early 19th-century novel of manners and gives it a good airing out. The result is a witty and lovesick skirmish of the sexes that exceeds all expectations.</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A308272</url>
+         <critic>Steve Davis</critic>
+      </review>
+      <review>
+         <snippet>Seeing the splendid new version of Pride &amp; Prejudice can be hazardous to your health: There's a very real danger of swooning.</snippet>
+         <url>http://www.nydailynews.com/11-11-2005/entertainment/col/story/364448p-310263c.html</url>
+         <critic>Jami Bernard</critic>
+      </review>
+      <review>
+         <snippet>At the end, director Wright wraps the whole thing up with a fairy-tale coda more Shakespearean than Austen-tine. Yet it all works.</snippet>
+         <url>http://metromix.chicagotribune.com/movies/mmx-0501111-movies-review-pride,0,4273844.story?coll=mmx-movies_top_heds</url>
+         <critic>Michael Phillips</critic>
+      </review>
+      <review>
+         <snippet>Of Austen's novels, none is more beloved than this one, so it's good to see it once again brought to the screen with the pride which it deserves.</snippet>
+         <url>http://movie-reviews.colossus.net/movies/p/pride_prejudice.html</url>
+         <critic>James Berardinelli</critic>
+      </review>
+      <review>
+         <snippet>Whatever number it is chronologically on the P&amp;P parade, Wright's film ranks first in verve. Quite simply, it is the essential P&amp;P.</snippet>
+         <url>http://ae.philly.com/entertainment/ui/philly/movie.html?id=456186&amp;reviewId=19501</url>
+         <critic>Carrie Rickey</critic>
+      </review>
+      <review>
+         <snippet>It is historically evocative, visually transporting and an exuberant romantic comedy that adheres to its source while spinning its own artful energy.</snippet>
+         <url>http://seattlepi.nwsource.com/movies/247892_pride11q.html</url>
+         <critic>Debera Carlton Harrell</critic>
+      </review>
+      <review>
+         <snippet>Still, the cynosure of all eyes is honest, articulate Elizabeth, her own woman in an era when women belonged to men, and at the same time full of love. Lizzie is the best, and Keira Knightley does right by her.</snippet>
+         <url/>
+         <critic>Joe Morgenstern</critic>
+      </review>
+      <review>
+         <snippet>Lord God, can she take control of a scene, dominate a movie, project to the last seat, radiate power and personality unto the rafters. It's a great performance. I love the way Knightley's eyes light with furious intelligence when she cuts the pompous Darcy a new something or other.</snippet>
+         <url>http://www.washingtonpost.com/ac2/wp-dyn?node=cityguide/profile&amp;id=1106383&amp;lat=200.0&amp;lon=200.0&amp;displaySearchTerm=Pride%20&amp;%20Prejudice&amp;displaySearchLocation=&amp;nm=1</url>
+         <critic>Stephen Hunter</critic>
+      </review>
+      <review>
+         <snippet>Most importantly, the director, script, and cast (rounded out by Judi Dench and well-placed imports Donald Sutherland and Jena Malone) all recognize that Austen is about much more than pretty costumes and knowing looks.</snippet>
+         <url>http://avclub.com/content/node/42489</url>
+         <critic>Keith Phipps</critic>
+      </review>
+      <review>
+         <snippet>A movie for the age, and a keeper for the ages, Pride &amp; Prejudice brings Jane Austen's best-loved novel to vivid, widescreen life, as well as making an undisputed star of 20-year-old Keira Knightley.</snippet>
+         <url>http://www.variety.com/ac2006_review/VE1117928133?nav=reviews&amp;categoryid=1986&amp;cs=1&amp;s=h&amp;p=0</url>
+         <critic>Derek Elley</critic>
+      </review>
+      <review>
+         <snippet>Not as divine as Ang Lee's "Sense and Sensibility," but engagingly comparable to the Gwyneth Paltrow-starring Emma and vastly superior to Mansfield Park.</snippet>
+         <url>http://www.empireonline.com/incinemas/ReviewComplete.asp?FID=10080</url>
+         <critic>Angie Errigo</critic>
+      </review>
+      <review>
+         <snippet>Romantic yearning hasn't looked this sexy onscreen in years.</snippet>
+         <url>http://www.rollingstone.com/reviews/movie/_/id/8748997?pageid=rs.ReviewsMovieArchive&amp;pageregion=mainRegion</url>
+         <critic>Peter Travers</critic>
+      </review>
+      <review>
+         <snippet>This Pride &amp; Prejudice isn't minutely faithful to the book -- and for good reason -- but it is authentic where it counts: to the confused, wounded, eager hearts of its lovers.</snippet>
+         <url>http://ae.miami.com/entertainment/ui/miami/movie.html?id=456186&amp;reviewId=19511</url>
+         <critic>Connie Ogle</critic>
+      </review>
+      <review>
+         <snippet>This weekend, forget "Jarhead" - two hours of guys playing grab-ass in the shower and no chicks. If you're lucky, you can con your girlfriend into seeing Pride &amp; Prejudice.</snippet>
+         <url>http://www.nypost.com/movies/57236.htm</url>
+         <critic>Kyle Smith</critic>
+      </review>
+      <review>
+         <snippet>The present film-makers have retained the essences of the plot and characters but have moved the ambience toward the next stylistic era, romanticism.</snippet>
+         <url>http://www.tnr.com/doc.mhtml?i=20051212&amp;s=kauffmann121205</url>
+         <critic>Stanley Kauffmann</critic>
+      </review>
+      <review>
+         <snippet>The movie flames to life whenever Donald Sutherland moves into frame as the young ladies' relaxed, humorous, and magnificently rueful father.</snippet>
+         <url>http://spacefinder.chicagoreader.com/movies/briefs/28969_PRIDE_AND_PREJUDICE_WRIGHT.html</url>
+         <critic>J.R. Jones</critic>
+      </review>
+      <review>
+         <snippet>If only Knightley had a co-star equal to her here: The 1995 edition of Colin Firth, come to think of it, would have been perfect.</snippet>
+         <url>http://newyorkmetro.com/nymetro/movies/reviews/14965/</url>
+         <critic>Ken Tucker</critic>
+      </review>
+      <review>
+         <snippet>Director Joe Wright coordinates a delightfully cohesive acting ensemble.</snippet>
+         <url>http://www.villagevoice.com/film/0545,winter,69791,20.html</url>
+         <critic>Jessica Winter</critic>
+      </review>
+      <review>
+         <snippet>The problem here is we never get much more than the pretty, the quaint and the comfortingly familiar. There's a place for such stuff in the world, yes, but that doesn't make it art.</snippet>
+         <url>http://www.oregonlive.com/movies/oregonian/index.ssf?/base/entertainment/1131485104103950.xml&amp;coll=7</url>
+         <critic>Shawn Levy</critic>
+      </review>
+      <review>
+         <snippet>Director Joe Wright's new movie version of Pride and Prejudice is more Gene Kelly than Fred Astaire: more earthy and athletic than balletic.</snippet>
+         <url>http://www.baltimoresun.com/entertainment/movies/bal-to.prejudice11nov11,1,3313950.story?coll=bal-artslife-movies</url>
+         <critic>Michael Sragow</critic>
+      </review>
+      <review>
+         <snippet>This is Austen as chick-lit, not too deep, but with some integrity and the worthy goal of reaching a younger audience by offering a starch-free version of the story.</snippet>
+         <url>http://www.theglobeandmail.com/servlet/ArticleNews/TPStory/LAC/20051111/PRIDE11/TPEntertainment/Film</url>
+         <critic>Liam Lacey</critic>
+      </review>
+      <review>
+         <snippet>Handsome and competently acted and prettily shot and all the other things critics say when what they really want to scream is "Aaaaaaaargh! No more Jane Austen adaptations, ESPECIALLY not Pride and Prejudice.</snippet>
+         <url>http://ae.charlotte.com/entertainment/ui/charlotte/movie.html?id=456186&amp;reviewId=19481&amp;startDate=11%2F11%2F2005</url>
+         <critic>Lawrence Toppman</critic>
+      </review>
+      <review>
+         <snippet>The moviemakers are accomplished enough to make something coherent out of this tonal mishmash, but I was left with a "was this trip really necessary" feeling for all that.</snippet>
+         <url>http://www.premiere.com/article.asp?section_id=2&amp;article_id=2373</url>
+         <critic>Glenn Kenny</critic>
+      </review>
+      <review>
+         <snippet>Turns Jane Austen's nimble satire into a lumbering gothic romance.</snippet>
+         <url>http://www.hollywoodreporter.com/thr/reviews/review_display.jsp?vnu_content_id=1001095971</url>
+         <critic>Ray Bennett</critic>
+      </review>
+   </reviews>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

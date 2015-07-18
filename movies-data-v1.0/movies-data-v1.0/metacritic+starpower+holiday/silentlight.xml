@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Silent Light</name>
+   <company>Palisades Pictures, Tartan</company>
+   <genres>
+      <genre>Drama</genre>
+   </genres>
+   <authors>
+      <author>Carlos Reygadas</author>
+   </authors>
+   <directors>
+      <director>Carlos Reygadas</director>
+   </directors>
+   <origins>
+      <origin>Mexico</origin>
+      <origin>France</origin>
+      <origin>Netherlands</origin>
+      <origin>Germany</origin>
+   </origins>
+   <actors>
+      <actor>Cornelio Wall</actor>
+      <actor>Maria Pankratz</actor>
+      <actor>Miriam Toews</actor>
+      <actor>Peter Wall</actor>
+   </actors>
+   <release_date>January 7, 2009</release_date>
+   <running_time>120</running_time>
+   <rating>Not</rating>
+   <reviews>
+      <review>
+         <snippet>At bottom, Silent Light is less about faith than matters of the heart, and in Reygadas' hands, the ache is bone-deep.</snippet>
+         <url>http://www.avclub.com/content/cinema/silent_light</url>
+         <critic>Scott Tobias</critic>
+      </review>
+      <review>
+         <snippet>A film filled with beauty and pain that moves at the pace of molasses and snails. That is to say, some of it is in real time. Audiences would be advised to stay caffeinated.</snippet>
+         <url>http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2009/02/26/MVL51607FO.DTL&amp;type=movies</url>
+         <critic>Reyhan Harmanci</critic>
+      </review>
+      <review>
+         <snippet>What the film is really about is people who see themselves and their values as an organic whole. There are no pious displays here. No sanctimony, no preaching. Never even the word "religion." Just Johan, Esther and Marianne, all doing their best.</snippet>
+         <url>http://rogerebert.suntimes.com/apps/pbcs.dll/article?AID=/20090318/REVIEWS/903189985</url>
+         <critic>Roger Ebert</critic>
+      </review>
+      <review>
+         <snippet>Even with its limitations, I find Silent Light spellbinding.</snippet>
+         <url>http://www.chicagotribune.com/entertainment/movies/chi-0320-silent-light-reviewmar20,0,1724992.story</url>
+         <critic>Michael Phillips</critic>
+      </review>
+      <review>
+         <snippet>The results are extraordinary. As understated as it is, the movie is both deeply absurd and powerfully affecting.</snippet>
+         <url>http://www.villagevoice.com/2008-09-23/film/the-miraculous-is-sublime-in-director-carlos-reygadas-s-stellet-licht/</url>
+         <critic>J. Hoberman</critic>
+      </review>
+      <review>
+         <snippet>The film was written, directed and somehow willed into unlikely existence by the extravagantly talented Carlos Reygadas, whose immersion in this exotic world feels so deep and true that it seems like an act of faith.</snippet>
+         <url>http://movies.nytimes.com/2008/09/24/movies/24sile.html?scp=4&amp;sq=%22silent%20light%22&amp;st=cse</url>
+         <critic>Manohla Dargis</critic>
+      </review>
+      <review>
+         <snippet>As is his custom, Reygadas uses a mostly nonprofessional cast; and, as expected, he draws remarkably realistic performances.</snippet>
+         <url>http://www.nypost.com/seven/01072009/entertainment/movies/marvelous_mennonite_madness_149037.htm</url>
+         <critic>V.A. Musetto</critic>
+      </review>
+      <review>
+         <snippet>Much of what happens in Silent Light can feel painstakingly mundane: milking cows, harvesting wheat, a long drive at night in and out of shadows. Yet throughout, there's a sense of something ominous impending, and while it remains gentle, the ending is genuinely startling.</snippet>
+         <url>http://www.theglobeandmail.com/servlet/story/RTGAM.20080711.wsilent11rvt/BNStory/Entertainment/home</url>
+         <critic>Liam Lacey</critic>
+      </review>
+      <review>
+         <snippet>Reygadas has hitched his austere and protracted style to an allegorical tale of subtle strength and depth.</snippet>
+         <url>http://www.hollywoodreporter.com/hr/film/reviews/article_display.jsp?rid=9256</url>
+         <critic>Kirk Honeycutt</critic>
+      </review>
+      <review>
+         <snippet>It's amazingly beautiful and it tests your patience; both things are par for the course with Reygadas, After that, you've either surrendered to his idiosyncratic sense of rhythm, or you're out of there.</snippet>
+         <url>http://www.salon.com/ent/movies/btm/feature/2009/01/08/love_silent/</url>
+         <critic>Andrew O&amp;#039;Hehir</critic>
+      </review>
+      <review>
+         <snippet>You know you're in for a hard-core art film when you hear more people raving about its opening shot than the movie itself.</snippet>
+         <url>http://www.chicagoreader.com/features/stories/moviereviews/090319/</url>
+         <critic>J.R. Jones</critic>
+      </review>
+      <review>
+         <snippet>Reygadas' typically arresting widescreen visuals and the presence of non-pro actors speaking in German-derived Plautdietsch makes for an initially hypnotic combination, but the spell breaks its hold well before the end of the picture's inflated running time, signaling an endurance test for all but the most ascetic arthouse auds.</snippet>
+         <url>http://www.variety.com/index.asp?layout=festivals&amp;jump=review&amp;reviewid=VE1117933733&amp;cs=1&amp;p=0</url>
+         <critic>Scott Foundas</critic>
+      </review>
+      <review>
+         <snippet>The stab at sublimity-by-proxy doesn't take.</snippet>
+         <url>http://www.ew.com/ew/article/0,,20252494,00.html</url>
+         <critic>Owen Gleiberman</critic>
+      </review>
+      <review>
+         <snippet>This director is too calculating to hold our trust for long, and skepticism will kill transcendence every time.</snippet>
+         <url>http://nymag.com/movies/reviews/53329/</url>
+         <critic>David Edelstein</critic>
+      </review>
+   </reviews>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

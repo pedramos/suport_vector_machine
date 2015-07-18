@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Only Human</name>
+   <company>Magnolia Pictures</company>
+   <genres>
+      <genre>Comedy</genre>
+      <genre>Foreign</genre>
+      <genre>Romance</genre>
+   </genres>
+   <authors>
+      <author>Dominic Harari</author>
+      <author>Teresa Pelegri</author>
+   </authors>
+   <directors>
+      <director>Dominic Harari</director>
+      <director>Teresa Pelegri</director>
+   </directors>
+   <origins>
+      <origin>SpainArgentinaPortugalUK</origin>
+   </origins>
+   <actors>
+      <actor>Norma Alero</actor>
+      <actor>Guillermo Toledo</actor>
+      <actor>María Botto</actor>
+      <actor>Marián Aguilera</actor>
+      <actor>Ferno Ramallo</actor>
+      <actor>Alba Molinero</actor>
+      <actor>Max Berliner</actor>
+      <actor>Mario Martín</actor>
+   </actors>
+   <release_date>June 16, 2006</release_date>
+   <running_time>93</running_time>
+   <rating>R</rating>
+   <reviews>
+      <review>
+         <snippet>Cheery, expertly constructed Spanish farce.</snippet>
+         <url>http://www.ew.com/ew/article/review/movie/0,6115,1206679_1_0_,00.html</url>
+         <critic>Lisa Schwarzbaum</critic>
+      </review>
+      <review>
+         <snippet>As directors, Harari and De Pelegri have just the right light-fingered glissando touch. Not a moment sags. Their cast relishes and fulfills the tempo.</snippet>
+         <url>http://www.tnr.com/doc.mhtml?i=20060703&amp;s=kauffmann070306</url>
+         <critic>Stanley Kauffmann</critic>
+      </review>
+      <review>
+         <snippet>Winningly human, and wonderfully funny.</snippet>
+         <url/>
+         <critic>Joe Morgenstern</critic>
+      </review>
+      <review>
+         <snippet>The film's snappy action and frank sexuality are reminiscent of "Women on the Verge of a Nervous Breakdown," while the mordant humor and conflicting identities are vintage Allen.</snippet>
+         <url>http://metromix.chicagotribune.com/movies/mmx-060630-movies-review-human,0,1107431.story?coll=mmx-movies_top_heds</url>
+         <critic>Jessica Reaves</critic>
+      </review>
+      <review>
+         <snippet>There's a manic quality to the film that may wear you down. But at least you won't be bored.</snippet>
+         <url>http://sfgate.com/cgi-bin/article.cgi?f=/c/a/2006/07/28/DDGG5K5KIH1.DTL#flick2</url>
+         <critic>Ruthe Stein</critic>
+      </review>
+      <review>
+         <snippet>A dinner-from-hell comedy about a pretty Jewish Spaniard who brings a nice Palestinian guy home to her outspoken Madrid family.</snippet>
+         <url>http://www.boston.com/movies/display?display=movie&amp;id=8740</url>
+         <critic>Wesley Morris</critic>
+      </review>
+      <review>
+         <snippet>There's nothing subtle about Pelegri and Harari's culture-clash romp, but it's sometimes frantically funny; that it's thoroughly forgettable is an issue only if you expect it to do more than poke easy fun at the thorny issues it raises.</snippet>
+         <url>http://online.tvguide.com/newsearch/detail.aspx?id=47007&amp;sourcetype=m&amp;progseriesparentid=0&amp;tvobjectid=0&amp;keyword=&amp;more=ucmoviereview</url>
+         <critic>Maitland McDonagh</critic>
+      </review>
+      <review>
+         <snippet>Moves along briskly, with several laugh-out-loud moments.</snippet>
+         <url>http://www.nypost.com/movies/only_for_those_who_enjoy_having_a_good_laugh_movies_v_a__musetto.htm</url>
+         <critic>V.A. Musetto</critic>
+      </review>
+      <review>
+         <snippet>The slapstick gets a little too silly, and a rushed ending feels unsatisfying. But everyone whose family boasts an excess of opinions will relate.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/moviereviews/story/427202p-360118c.html</url>
+         <critic>Elizabeth Weitzman</critic>
+      </review>
+      <review>
+         <snippet>A movie that is never elegant but is often hysterically funny, and maintains a rabbit-on-speed pace that Hollywood comedy long ago abandoned.</snippet>
+         <url>http://www.salon.com/ent/movies/review/2006/06/15/btm/index2.html</url>
+         <critic>Andrew O&amp;#039;Hehir</critic>
+      </review>
+      <review>
+         <snippet>Intermittently hilarious.</snippet>
+         <url>http://www.villagevoice.com/film/0624,ridley,73539,20.html</url>
+         <critic>Jim Ridley</critic>
+      </review>
+      <review>
+         <snippet>A vigorously paced modern screwball comedy written and directed by the husband-and-wife team Dominic Harari and Teresa De Pelegrí, explores family values, and Leni and Rafi's mismatched cultural backgrounds, with a refreshingly light touch.</snippet>
+         <url>http://movies2.nytimes.com/2006/06/16/movies/16huma.html</url>
+         <critic>Laura Kern</critic>
+      </review>
+      <review>
+         <snippet>A Spanish dinner-theater comedy, this intermittently hilarious contraption by the husband-wife team of Dominic Harari and Teresa de Pelegri heaves Jewish-Palestinian conflict onto a prop-room table already groaning with loaded guns, impromptu sex toys, a wounded duck paddling in a bidet, and a brick of frozen soup that doubles as a sandbag for unlucky pedestrians below.</snippet>
+         <url>http://www.laweekly.com/film+tv/film-reviews/film-reviews/13944/</url>
+         <critic>Jim Ridley</critic>
+      </review>
+      <review>
+         <snippet>Mines the comic possibilities of the classic setup of introducing the fiancé to the family, with results that are playful, charming and surprisingly thoughtful.</snippet>
+         <url>http://www.calendarlive.com/movies/reviews/cl-et-only7jul07,0,1644204.story</url>
+         <critic>Mark Olsen</critic>
+      </review>
+      <review>
+         <snippet>Only Human, a Spanish farce, has absolutely no business being as laugh-out-loud funny as it often is.</snippet>
+         <url>http://www.washingtonpost.com/ac2/wp-dyn?node=cityguide/profile&amp;id=1105671&amp;categories=Movies&amp;nm=1</url>
+         <critic>Desson Thomson</critic>
+      </review>
+      <review>
+         <snippet>Despite a strong start, Only Human loses its grip on all that merry energy and comes to feel more like a sitcom than like "Women on the Verge of a Nervous Breakdown" or "Some Like It Hot," to name just some of its forebears.</snippet>
+         <url>http://www.oregonlive.com/movies/oregonian/index.ssf?/base/entertainment/1153947345149120.xml&amp;coll=7</url>
+         <critic>Shawn Levy</critic>
+      </review>
+      <review>
+         <snippet>Don't expect a meaningful resolution, just a bouncy comedy with some hilarious moments in the stray ricochets.</snippet>
+         <url>http://seattlepi.nwsource.com/movies/279992_human04q.html</url>
+         <critic>Sean Axmaker</critic>
+      </review>
+      <review>
+         <snippet>Unfortunately, the film is also at times dull, though the scale definitely tilts toward enjoyment. Quality balance aside, who doesn't want to enjoy a few hearty laughs? Only Human provides a few of those.</snippet>
+         <url>http://www.miami.com/mld/miamiherald/entertainment/movies/15361448.htm</url>
+         <critic>Marta Barber</critic>
+      </review>
+      <review>
+         <snippet>Toledo is very funny, and there are some hilarious comic bits, but writer-directors Dominic Harari and Teresa Pelegri drag in several distracting subplots, turning this 2004 Spanish comedy into a scattershot affair.</snippet>
+         <url>http://onfilm.chicagoreader.com/movies/capsules/29428_ONLY_HUMAN_SERES_QUERIDOS</url>
+         <critic>Joshua Katzman</critic>
+      </review>
+      <review>
+         <snippet>For a film that pads out such broad slapstick with toilet humor, obnoxious-child antics, and even cute-animal business, Only Human is surprisingly enjoyable, thanks to the filmmakers' relatively low-key, Pedro Almodóvar-style approach.</snippet>
+         <url>http://www.avclub.com/content/node/49981</url>
+         <critic>Tasha Robinson</critic>
+      </review>
+      <review>
+         <snippet>Attempts to achieve a Pedro Almodovar-level of humor without much success... Degenerating into witless slapstick.</snippet>
+         <url>http://www.hollywoodreporter.com/thr/reviews/review_display.jsp?vnu_content_id=1002800579</url>
+         <critic>Frank Scheck</critic>
+      </review>
+   </reviews>
+   <summer_release>true</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

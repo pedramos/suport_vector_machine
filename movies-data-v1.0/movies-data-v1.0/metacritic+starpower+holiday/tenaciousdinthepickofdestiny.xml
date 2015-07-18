@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Tenacious D in The Pick of Destiny</name>
+   <company>New Line Cinema</company>
+   <genres>
+      <genre>Comedy</genre>
+      <genre>Musical</genre>
+   </genres>
+   <authors>
+      <author>Jack Black</author>
+      <author>Kyle Gass</author>
+      <author>Liam Lynch</author>
+   </authors>
+   <directors>
+      <director>Liam Lynch</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Jack Black</actor>
+      <actor>Kyle Gass</actor>
+      <actor>Jason Reed</actor>
+      <actor>Ronnie James Dio</actor>
+      <actor>Paul F. Tompkins</actor>
+      <actor>Troy Gentile</actor>
+      <actor>Tim Robbins</actor>
+      <actor>David Grohl</actor>
+   </actors>
+   <release_date>November 22, 2006</release_date>
+   <running_time>93</running_time>
+   <rating>R</rating>
+   <reviews>
+      <review>
+         <snippet>In the end, Jack, Kyle and director Liam Lynch ("Sarah Silverman: Jesus is Magic") have created more than just a low-brow comedy, they've created a comedic saga, a film more rock show than movie.</snippet>
+         <url>http://www.filmthreat.com/index.php?section=reviews&amp;Id=9438</url>
+         <critic>Mark Bell</critic>
+      </review>
+      <review>
+         <snippet>Comic gold for anyone who is currently stoned, has been stoned in the past or spends a lot of time around stoned people.</snippet>
+         <url>http://sfgate.com/cgi-bin/article.cgi?f=/c/a/2006/11/22/DDGQRMGSUF1.DTL&amp;type=movies</url>
+         <critic>Peter Hartlaub</critic>
+      </review>
+      <review>
+         <snippet>Sticks to formula but delivers some seriously dumb laughs.</snippet>
+         <url>http://www.hollywoodreporter.com/hr/film/reviews/article_display.jsp?&amp;rid=6732</url>
+         <critic>John DeFore</critic>
+      </review>
+      <review>
+         <snippet>"The Blues Brothers" it is not, but in its best moments, the movie feels like a comic exaggeration of the real hardships that a couple of average, decidedly unhip guys went through on their unlikely way to the top.</snippet>
+         <url>http://www.laweekly.com/film+tv/film-reviews/film-reviews/15081/</url>
+         <critic>Scott Foundas</critic>
+      </review>
+      <review>
+         <snippet>In a world in which "Borat" is a global brand, there's certainly a place for Tenacious D -- who, after all, are merely the greatest band in the world: Just ask 'em.</snippet>
+         <url>http://www.oregonlive.com/movies/oregonian/index.ssf?/base/entertainment/11642487433960.xml&amp;coll=7</url>
+         <critic>Shawn Levy</critic>
+      </review>
+      <review>
+         <snippet>Works just like a Tenacious D song. The movie feels giddy and eruptive, dopily enthralled with itself, and more or less made up on the spot.</snippet>
+         <url>http://www.ew.com/ew/article/review/movie/0,6115,1562105_1_0_,00.html</url>
+         <critic>Owen Gleiberman</critic>
+      </review>
+      <review>
+         <snippet>From the looks of it, a good 90 percent of The D's creative juices were expended on The Pick Of Destiny's brilliant opening sequence.</snippet>
+         <url>http://www.avclub.com/content/node/55587</url>
+         <critic>Scott Tobias</critic>
+      </review>
+      <review>
+         <snippet>It's colorful and determinedly kooky, with "Kung Fu" references and an H.R. Pufnstuf interlude between performances.</snippet>
+         <url>http://seattlepi.nwsource.com/movies/293169_destiny22q.html</url>
+         <critic>Sean Axmaker</critic>
+      </review>
+      <review>
+         <snippet>The movie is spotty. The short films, essentially comic sketches, were more consistently funny. The movie lags on occasion, but it also has quite a few laughs.</snippet>
+         <url>http://www.usatoday.com/life/movies/reviews/2006-11-21-tenacious-d_x.htm</url>
+         <critic>Claudia Puig</critic>
+      </review>
+      <review>
+         <snippet>Ultimately, Tenacious D is a sight gag -- two unprepossessing, chunky dudes rocking out like wiry guitar gods -- supplemented by spot-on digs at the macho bombast and Dungeons &amp; Dragons silliness that drives heavy-metal mania.</snippet>
+         <url>http://tvguide.com/detail/movie.aspx?tvobjectid=284438&amp;more=ucmoviereview</url>
+         <critic>Maitland McDonagh</critic>
+      </review>
+      <review>
+         <snippet>Proudly, and often hilariously, juvenile, "Destiny" is packed with typically grandiose Tenacious D anthems - the sort that thrill 15-year-old boys listening alone in their bedrooms.</snippet>
+         <url>http://www.nydailynews.com/11-22-2006/entertainment/col/story/473767p-398413c.html</url>
+         <critic>Elizabeth Weitzman</critic>
+      </review>
+      <review>
+         <snippet>The beginning and end are classics.</snippet>
+         <url>http://www.nypost.com/seven/11222006/entertainment/movies/back_in_black_movies_kyle_smith.htm</url>
+         <critic>Kyle Smith</critic>
+      </review>
+      <review>
+         <snippet>As a movie, it’s a mess — and lazy, too.</snippet>
+         <url>http://www.boston.com/ae/movies/articles/2006/11/22/boisterous_black_thrives_in_the_litter_of_the_pick/</url>
+         <critic>Wesley Morris</critic>
+      </review>
+      <review>
+         <snippet>The Pick of Destiny is fast and funny, and you can't beat the songs (especially the not exactly heartwrenching Dude I Totally Miss You).</snippet>
+         <url>http://www.miami.com/mld/miamiherald/entertainment/movies/16064616.htm</url>
+         <critic>Connie Ogle</critic>
+      </review>
+      <review>
+         <snippet>Baked and half-baked, Tenacious D does manage to give the term potty humor a new meaning. That's some kind of genius, right?</snippet>
+         <url>http://ae.philly.com/entertainment/ui/philly/movie.html?id=757335&amp;reviewId=21859</url>
+         <critic>Steven Rea</critic>
+      </review>
+      <review>
+         <snippet>Not surprisingly, the pic struggles at times to flesh out even its relatively brief 90-odd-minute duration, but it delivers some genuine if generally low-brow laughs along the way.</snippet>
+         <url>http://www.variety.com/review/VE1117932031.html?categoryid=31&amp;cs=1&amp;p=0</url>
+         <critic>Brian Lowry</critic>
+      </review>
+      <review>
+         <snippet>For fans, a crowd-surf over Tenacious D’s best bits. For the unbaptised, a novelty movie of a novelty band, big on spirit but in search of a script.</snippet>
+         <url>http://www.empireonline.com/reviews/review.asp?FID=132954</url>
+         <critic>Simon Crook</critic>
+      </review>
+      <review>
+         <snippet>As it wobbles from one episode to the next, The Pick of Destiny is a garish mess, and some of it feels padded. But it has enough jokes to keep you smiling, and the spirit Mr. Black brings to it is a fervent (and touching) affection for the music he spoofs but obviously adores.</snippet>
+         <url>http://movies2.nytimes.com/2006/11/22/movies/22dest.html?ref=movies</url>
+         <critic>Stephen Holden</critic>
+      </review>
+      <review>
+         <snippet>In the end, you have to possess a sweet spot for Black and his antics to find Tenacious D more than barely watchable.</snippet>
+         <url>http://www.reelviews.net/movies/t/tenacious_d.html</url>
+         <critic>James Berardinelli</critic>
+      </review>
+      <review>
+         <snippet>Tenacious D is utterly harmless and totally pointless. Black and Gass have been at this so long their dirty little joke has all the punch of a Catskills routine.</snippet>
+         <url>http://www.villagevoice.com/film/0647,wilonsky,75097,20.html</url>
+         <critic>Robert Wilonsky</critic>
+      </review>
+      <review>
+         <snippet>It's stoner comedy of the most absurd kind, part fryboy mental drizzle, part wink-wink audience baiting, and wholly, utterly funny.</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A420429</url>
+         <critic>Marc Savlov</critic>
+      </review>
+      <review>
+         <snippet>A large amount of dope is smoked in The Pick of Destiny, perhaps the most since the salad days of Cheech &amp; Chong. This may be the problem. Pot rarely helped anybody's comic timing.</snippet>
+         <url>http://metromix.chicagotribune.com/movies/mmx-061122-movies-review-destiny,0,986798.story?coll=mmx-movies_top_heds</url>
+         <critic>Michael Phillips</critic>
+      </review>
+      <review>
+         <snippet>No matter how "mock" this epic gets, it isn't mock enough. The "D" in the title must stand for dead weight.</snippet>
+         <url>http://www.baltimoresun.com/entertainment/movies/bal-to.tenacious22nov22,0,7808359.story?coll=bal-movies-utility</url>
+         <critic>Michael Sragow</critic>
+      </review>
+      <review>
+         <snippet>Most of the movie, about the search for a magical guitar pick, farts along at the level of a "Wayne's World" sketch.</snippet>
+         <url>http://onfilm.chicagoreader.com/movies/briefs/30773_TENACIOUS_D_IN_THE_PICK_OF_DESTINY.html</url>
+         <critic>J.R. Jones</critic>
+      </review>
+      <review>
+         <snippet>Jack Black and Kyle Gass bring characters they created for the HBO program "Mr. Show With Bob and David" to the big screen with mixed success, depending on the age, gender and degree of inebriation of the filmgoer.</snippet>
+         <url>http://www.washingtonpost.com/ac2/wp-dyn?node=cityguide/profile&amp;id=1112293&amp;categories=Movies&amp;nm=1</url>
+         <critic>Ann Hornaday</critic>
+      </review>
+      <review>
+         <snippet>A movie for people fascinated by toilets and Sabbath.</snippet>
+         <url>http://ae.philly.com/entertainment/ui/philly/movie.html?id=757335&amp;reviewId=21865</url>
+         <critic>Lawrence Toppman</critic>
+      </review>
+      <review>
+         <snippet>As it exists, Tenacious D in the Pick of Destiny is strictly for the tenaciously devoted.</snippet>
+         <url>http://www.theglobeandmail.com/servlet/story/RTGAM.20061124.wdestiny24/BNStory/Entertainment/home</url>
+         <critic>Liam Lacey</critic>
+      </review>
+      <review>
+         <snippet>Black and Kyle Gass started their acoustic/heavy metal rock music comedy act back in the late 1980s. Gold albums and HBO shorts followed, now this. Still, any movie featuring Jack Black with an appearance by Sasquatch is not a total loss, and, for those who care, we learn the origin of the group's name.</snippet>
+         <url>http://www.csmonitor.com/2006/1124/p14s02-almo.html</url>
+         <critic>Peter Rainer</critic>
+      </review>
+      <review>
+         <snippet>Not only screams out to be a midnight movie, but one in need of, shall we say, an herbal supplement, and we aren't talking ginkgo biloba.</snippet>
+         <url>http://www.calendarlive.com/printedition/calendar/cl-et-tenacious22nov22,0,5923936.story</url>
+         <critic>Kevin Crust</critic>
+      </review>
+   </reviews>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

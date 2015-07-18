@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Stop Loss</name>
+   <company>Paramount Pictures</company>
+   <genres>
+      <genre>Drama</genre>
+      <genre>War</genre>
+   </genres>
+   <authors>
+      <author>Mark Richard</author>
+      <author>Kimberly Peirce</author>
+   </authors>
+   <directors>
+      <director>Kimberly Peirce</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Ryan Phillippe</actor>
+      <actor>Abbie Cornish</actor>
+      <actor>Channing Tatum</actor>
+      <actor>Joseph Gordon-Levitt</actor>
+      <actor>Ciarán Hinds</actor>
+      <actor>Timothy Olyphant</actor>
+      <actor>Victor Rasuk</actor>
+      <actor>Rob Brown</actor>
+   </actors>
+   <release_date>March 28, 2008</release_date>
+   <running_time>113</running_time>
+   <rating>R</rating>
+   <reviews>
+      <review>
+         <snippet>Stop-Loss is a human story first and foremost, and Peirce and her stellar young cast ensure that the message never gets in the way of the storytelling.</snippet>
+         <url>http://www.avclub.com/content/cinema/stop_loss</url>
+         <critic>Nathan Rabin</critic>
+      </review>
+      <review>
+         <snippet>It's a richly textured, psychologically acute film that takes an unblinking look at the tattered life of the returning soldier, and it's boosted by two powerful performances from Phillippe and the increasingly impressive Tatum, a former underwear model who has somehow turned into a fine actor.</snippet>
+         <url>http://www.tvguide.com/movies/stop-loss/review/292974</url>
+         <critic>Ken Fox</critic>
+      </review>
+      <review>
+         <snippet>Even when the script slips into sentiment, Peirce sticks with her troubled, questing soldiers, and through this raw and riveting movie, they stick with us.</snippet>
+         <url>http://www.rollingstone.com/reviews/movie/17357964/review/19580698/stoploss</url>
+         <critic>Peter Travers</critic>
+      </review>
+      <review>
+         <snippet>Stop-Loss carries the emotional force and propulsive drama of the quintessential soldier's story.</snippet>
+         <url>http://www.philly.com/inquirer/columnists/carrie_rickey/20080328_Redeployed_boys_still_don_t_cry.html</url>
+         <critic>Carrie Rickey</critic>
+      </review>
+      <review>
+         <snippet>There's little time for nuance in Stop-Loss, and it doesn't deny any of the film's power to wish Peirce would occasionally slow things down enough to let her audience ponder what they're seeing.</snippet>
+         <url>http://www.baltimoresun.com/entertainment/movies/bal-to.stop28mar28,0,2680424.story</url>
+         <critic>Chris Kaltenbach</critic>
+      </review>
+      <review>
+         <snippet>Clearly, Peirce's motives are pure. She's not using the "stop-loss" issue as a wedge to make the government or the administration look bad. She's using it to dramatize an injustice and to advocate on behalf of the soldiers.</snippet>
+         <url>http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2008/03/27/DD57VQVO2.DTL&amp;type=movies</url>
+         <critic>Mick LaSalle</critic>
+      </review>
+      <review>
+         <snippet>Stop-Loss is a film that does it right.</snippet>
+         <url>http://www.calendarlive.com/movies/reviews/cl-et-stop28mar28,0,3350431.story</url>
+         <critic>Kenneth Turan</critic>
+      </review>
+      <review>
+         <snippet>It’s ironic that Stop-Loss loses its momentum when the characters go on the road. Yet Rasuk--the star of "Raising Victor Vargas"--gives a stunning performance.</snippet>
+         <url>http://nymag.com/movies/reviews/45605/index1.html</url>
+         <critic>David Edelstein</critic>
+      </review>
+      <review>
+         <snippet>Stop-Loss is not a great movie, but it’s forceful, effective, and alive, with the raw, mixed-up emotions produced by an endless war.</snippet>
+         <url>http://www.newyorker.com/arts/critics/cinema/2008/04/07/080407crci_cinema_denby</url>
+         <critic>David Denby</critic>
+      </review>
+      <review>
+         <snippet>A relentlessly grim film.</snippet>
+         <url>http://www.time.com/time/arts/article/0,8599,1726112,00.html</url>
+         <critic>Richard Schickel</critic>
+      </review>
+      <review>
+         <snippet>It's a remarkably entertaining movie, thanks in part to a first-rate cast and a director who knows you can't make a point without calling everyone to attention.</snippet>
+         <url>http://www.washingtonpost.com/ac2/wp-dyn?node=cityguide/profile&amp;id=1134032&amp;categories=Movies&amp;nm=1</url>
+         <critic>John Anderson</critic>
+      </review>
+      <review>
+         <snippet>Phillippe does a dark, searing turn with a character that could have easily been little more than Taps-era hubris, and Gordon-Levitt, as one of King's more fragmented former charges, is riveting and convincingly small-town Texas.</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A604852</url>
+         <critic>Marc Savlov</critic>
+      </review>
+      <review>
+         <snippet>A painfully polite Iraq war drama pitched at the MTV generation.</snippet>
+         <url>http://www.ew.com/ew/article/0,,20186471,00.html</url>
+         <critic>Lisa Schwarzbaum</critic>
+      </review>
+      <review>
+         <snippet>While there are good things about it, Stop-Loss is nothing spectacular.</snippet>
+         <url>http://seattlepi.nwsource.com/movies/356700_stop28q.html</url>
+         <critic>William Arnold</critic>
+      </review>
+      <review>
+         <snippet>What we're left with is outrage in a vacuum. It's impossible to separate out the stop-loss tactic from the misadventures of the war itself, and that's what this film, to its discredit, accomplishes.</snippet>
+         <url>http://www.csmonitor.com/2008/0328/p15s02-almo.html</url>
+         <critic>Peter Rainer</critic>
+      </review>
+      <review>
+         <snippet>Pierce never pulls these pieces together satisfyingly, and the result is a botched effort to put a human face on a genuinely alarming situation.</snippet>
+         <url>http://www.oregonlive.com/movies/oregonian/index.ssf?/base/entertainment/1206575773119210.xml&amp;coll=7</url>
+         <critic>Shawn Levy</critic>
+      </review>
+      <review>
+         <snippet>While Stop-Loss doesn’t pack anything like the emotional wallop of her previous film, the movies do share Peirce’s clear-eyed refusal to answer difficult questions with simplistic answers.</snippet>
+         <url>http://chicago.metromix.com/movies/movie_review/movie-review-stop-loss/355479/content</url>
+         <critic>Jessica Reaves</critic>
+      </review>
+      <review>
+         <snippet>Someone watching Stop-Loss with younger eyes might feel the heat of the main soldier's dilemma more than I did, but I couldn't help thinking director Kimberly Peirce was presenting us with abstract ideas in the forms of half-realized characters.</snippet>
+         <url>http://www.charlotte.com/364/story/554987.html</url>
+         <critic>Lawrence Toppman</critic>
+      </review>
+      <review>
+         <snippet>Despite several attempts, we're still waiting for the drama that convincingly captures the experienc of soldiers who've fought in Iraq. Stop-Loss" isn't that film, but at the very least its efforts are honorable.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/2008/03/28/2008-03-28_iraq_vets_are_far_from_home_free_in_stop.html</url>
+         <critic>Elizabeth Weitzman</critic>
+      </review>
+      <review>
+         <snippet>It's an uneven experience, with some evocative moments and others that don't resonate as much as they should.</snippet>
+         <url>http://www.usatoday.com/life/movies/reviews/2008-03-27-stop-loss_N.htm</url>
+         <critic>Claudia Puig</critic>
+      </review>
+      <review>
+         <snippet>In the end, Stop-Loss's evening-news topicality proves both an asset and a liability--an irresolvable structural conundrum. Simply put, the film so effectively reconstitutes those Vietnam-homecoming touchstones that we can anticipate its every move well before it makes them.</snippet>
+         <url>http://www.villagevoice.com/film/0813,apolitical-theater,389056,20.html</url>
+         <critic>Scott Foundas</critic>
+      </review>
+      <review>
+         <snippet>Ms. Peirce’s movie, which she wrote with Mark Richard, is not only an earnest, issue-driven narrative, but also a feverish entertainment, a passionate, at times overwrought melodrama gaudy with violent actions and emotions.</snippet>
+         <url>http://movies.nytimes.com/2008/03/28/movies/28stop.html?ref=movies</url>
+         <critic>A.O. Scott</critic>
+      </review>
+      <review>
+         <snippet>A young cast and hotheaded melodramatic streak make it broadly accessible, perhaps enough so to help the film scrape past boxoffice challenges faced by other Iraq-centered features.</snippet>
+         <url>http://www.hollywoodreporter.com/hr/imdb/reviews/article_display.jsp?rid=10831&amp;vnu_special_account_code=thrsiteimdbpro</url>
+         <critic>John DeFore</critic>
+      </review>
+      <review>
+         <snippet>Strong performances from the young cast make a compelling case that the US govt is failing its soldiers, but the film’s a little too much of a blunt instrument.</snippet>
+         <url>http://www.empireonline.com/reviews/reviewcomplete.asp?FID=135514</url>
+         <critic>Helen O&amp;#039;Hara</critic>
+      </review>
+      <review>
+         <snippet>Stop-Loss is a bit uneven. Mixed messages abound.</snippet>
+         <url>http://www.filmthreat.com/index.php?section=reviews&amp;Id=10878</url>
+         <critic>Pete Vonder Haar</critic>
+      </review>
+      <review>
+         <snippet>After a strong start, Stop-Loss becomes driven by a series of contrivances before falling prey to bad melodrama and even a little cheesiness.</snippet>
+         <url>http://www.reelviews.net/movies/s/stop-loss.html</url>
+         <critic>James Berardinelli</critic>
+      </review>
+      <review>
+         <snippet>Heavy metal, alt-pop, southern rock, orchestral swells, wailing Middle Eastern tunes all vie for our attention, but none of this noise drowns out the sound of good intentions twisting themselves into an impotent knot.</snippet>
+         <url>http://www.boston.com/movies/display?display=movie&amp;id=10642</url>
+         <critic>Ty Burr</critic>
+      </review>
+      <review>
+         <snippet>Though its intentions are noble, it's hampered by a stock romantic subplot (Phillipe falls for his friend's squeeze, Abbie Cornish), a familiar structure (since The Best Years of Our Lives soldiers invariably come home in threes), and a lack of symmetry (some of Gordon-Levitt's story seems to have wound up on the cutting-room floor).</snippet>
+         <url>http://onfilm.chicagoreader.com/movies/briefs/32942_STOP_LOSS_STOPLOSS.html</url>
+         <critic>J.R. Jones</critic>
+      </review>
+      <review>
+         <snippet>An earnest and well-meaning but disappointing failure.</snippet>
+         <url>http://www.miamiherald.com/1054/story/471980.html</url>
+         <critic>Rene Rodriguez</critic>
+      </review>
+      <review>
+         <snippet>A wildly uneven drama, by turns sincere and synthetic.</snippet>
+         <url>http://www.variety.com/review/VE1117936500.html?categoryid=31&amp;cs=1&amp;query=stop+loss</url>
+         <critic>Joe Leydon</critic>
+      </review>
+      <review>
+         <snippet>With the release of Stop-Loss, a precedent of sorts has definitely been set. If we've yet to see a brilliant Iraq movie, the wait is over for a bad one – this is it.</snippet>
+         <url>http://www.theglobeandmail.com/servlet/story/RTGAM.20080327.stop28nat/BNStory/Entertainment/home</url>
+         <critic>Rick Groen</critic>
+      </review>
+      <review>
+         <snippet>Swamped by clichés, continuity problems, stock characters and very good intentions.</snippet>
+         <url>http://online.wsj.com/article/SB120666909365370555.html</url>
+         <critic>Joanne Kaufman</critic>
+      </review>
+      <review>
+         <snippet>A filmmaker's personal connection to the material doesn't necessarily mean that the resulting picture will be any good, and Stop-Loss is so dramatically tedious that it feels remote instead of resonant.</snippet>
+         <url>http://www.salon.com/ent/movies/review/2008/03/28/stop_loss/</url>
+         <critic>Stephanie Zacharek</critic>
+      </review>
+      <review>
+         <snippet>What little anti-war critique Peirce presents -- and she has it in her, which makes it all the more dubious -- gets trampled over by jingoistic Rambo porn.</snippet>
+         <url>http://www.premiere.com/moviereviews/4485/stop-loss.html</url>
+         <critic>Aaron Hillis</critic>
+      </review>
+      <review>
+         <snippet>As phony as a re-enactment with finger pup pets.</snippet>
+         <url>http://www.nypost.com/seven/03282008/entertainment/movies/drives_you_up_awol_103819.htm</url>
+         <critic>Kyle Smith</critic>
+      </review>
+   </reviews>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

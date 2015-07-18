@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Flame &amp; Citron</name>
+   <company>IFC Films</company>
+   <genres>
+      <genre>Crime</genre>
+      <genre>Drama</genre>
+      <genre>SuspenseThriller</genre>
+      <genre>War</genre>
+   </genres>
+   <authors>
+      <author>Ole Christian Madsen</author>
+      <author>Lars Andersen</author>
+   </authors>
+   <directors>
+      <director>Ole Christian Madsen</director>
+   </directors>
+   <origins>
+      <origin>Denmark</origin>
+      <origin>CzechRepublic</origin>
+      <origin>Germany</origin>
+   </origins>
+   <actors>
+      <actor>Thure Lindhardt</actor>
+      <actor>Mads Mikkelsen</actor>
+   </actors>
+   <release_date>July 31, 2009</release_date>
+   <running_time>130</running_time>
+   <rating>Not</rating>
+   <reviews>
+      <review>
+         <snippet>Though the material might lend itself to heavy-handedness, director Ole Christian Madsen is steady, and he gets fine performances from the two leads and Stengade.</snippet>
+         <url>http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2009/08/20/MVJQ199OHR.DTL&amp;type=movies</url>
+         <critic>Walter Addiego</critic>
+      </review>
+      <review>
+         <snippet>This searing, stylish account of World War II heroism from Denmark's Ole Christian Madsen avoids period realism, conveying the story of two heroes of the Danish resistance as a noir thriller, complete with shadowy alleys, double-crosses galore and the requisite femme fatale.</snippet>
+         <url>http://www.hollywoodreporter.com/hr/film-reviews/flame-and-citron-film-review-1003994835.story</url>
+         <critic>Erica Abeel</critic>
+      </review>
+      <review>
+         <snippet>A pretty good example of the kind of movie Hollywood used to turn out by the yard.</snippet>
+         <url>http://www.csmonitor.com/2009/0731/p17s03-almo.html</url>
+         <critic>Peter Rainer</critic>
+      </review>
+      <review>
+         <snippet>A deeply involving look at people living permanently on the knife-edge of danger, Flame &amp; Citron does more than radically rethink the World War II resistance drama. Its biggest accomplishment may be to make these historical conflicts and dilemmas seem surprisingly contemporary.</snippet>
+         <url>http://www.latimes.com/entertainment/news/la-et-flame14-2009aug14,0,7168843.story</url>
+         <critic>Kenneth Turan</critic>
+      </review>
+      <review>
+         <snippet>An absorbing, shades-of-gray look at home-front intrigue in Nazi-occupied Denmark during World War II. Ole Christian Madsen’s accomplished fourth feature plays out on a much larger canvas than he’s used previously and offers nuance and ambiguity in equal measure with violence and tragedy.</snippet>
+         <url>http://www.variety.com/review/VE1117938397.html?categoryid=2863&amp;cs=1&amp;query=flame+%26+citron</url>
+         <critic>Todd McCarthy</critic>
+      </review>
+      <review>
+         <snippet>Flame &amp; Citron is the film that the horribly overrated "Black Book" could have been, had Paul Verhoeven not indulged in the puerile reversals of sensitive Nazis and treacherous partisans.</snippet>
+         <url>http://www.villagevoice.com/2009-07-28/film/flame-citron-poignantly-loses-moral-compass-in-fog-of-war/</url>
+         <critic>Ella Taylor</critic>
+      </review>
+      <review>
+         <snippet>A drop-dead gorgeous period noir, rife with paranoia, femmes fatales, and good men inexorably sinking into the bloody mire and opaque texture of life (and death) during wartime.</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A906628</url>
+         <critic>Marc Savlov</critic>
+      </review>
+      <review>
+         <snippet>Like "Butch Cassidy and the Sundance Kid," Flame and Citron is the story of handsome rogues with guns. It's fast-paced, stylish and thrilling.</snippet>
+         <url>http://www.washingtonpost.com/gog/movies/flame-and-citron-flammen-and-citronen,1159880/critic-review.html#reviewNum1</url>
+         <critic>Michael O&amp;#039;Sullivan</critic>
+      </review>
+      <review>
+         <snippet>Director Ole Christian Madsen combines sharp scenes of moral inquiry with a few too many functional, oldfangled espionage twists.</snippet>
+         <url>http://www.ew.com/ew/article/0,,20294566,00.html</url>
+         <critic>Owen Gleiberman</critic>
+      </review>
+      <review>
+         <snippet>One of the most expensive Danish movies ever made, and at times, it's glossy to a fault.</snippet>
+         <url>http://www.avclub.com/articles/flame-citron,31086/</url>
+         <critic>Noel Murray</critic>
+      </review>
+      <review>
+         <snippet>A taut, handsome production -- the most expensive Danish film to date -- and it looks like a film noir, as indeed the costumes, cars, guns and fugitives force it to.</snippet>
+         <url>http://rogerebert.suntimes.com/apps/pbcs.dll/article?AID=/20090819/REVIEWS/908199991</url>
+         <critic>Roger Ebert</critic>
+      </review>
+      <review>
+         <snippet>A satisfying thriller interestingly complicated by its study of character and compromise.</snippet>
+         <url>http://www.theglobeandmail.com/news/arts/flame-citron/article1243597/</url>
+         <critic>Kate Taylor</critic>
+      </review>
+      <review>
+         <snippet>Through a fluke of release-schedule timing, it arrives as the anti-“Inglourious Basterds’’ - a story about heroic Nazi-killers in which heroism itself sinks under bewildering crosscurrents of motive and uncertainty.</snippet>
+         <url>http://www.boston.com/ae/movies/articles/2009/09/04/in_flame_and_citron_nazi_killers_in_less_glorious_detail/</url>
+         <critic>Ty Burr</critic>
+      </review>
+      <review>
+         <snippet>The movie often feels more like film noir than a war picture both in the way it is shot and in the manner in which the characters are handled.</snippet>
+         <url>http://www.reelviews.net/php_review_template.php?identifier=1794</url>
+         <critic>James Berardinelli</critic>
+      </review>
+      <review>
+         <snippet>With its moody, noir lighting and poetic voice-over, Flame rehearses virtually every element of the classic genre piece: violence, sex and romance, gunplay, spies, betrayals, a femme fatale, and a murderous Gestapo officer.</snippet>
+         <url>http://www.philly.com/philly/entertainment/movies/20090918_Real-life_thriller_in_Nazi-seized_Denmark.html</url>
+         <critic>Tirdad Derakhshani</critic>
+      </review>
+      <review>
+         <snippet>If you're looking for an action thriller, this isn't it. The pace is deliberate, the tone is pensive, albeit punctuated by occasional violence, and the style is exceedingly lean; characters reveal themselves mainly through moral choices.</snippet>
+         <url>http://online.wsj.com/article/film_review.html</url>
+         <critic>Joe Morgenstern</critic>
+      </review>
+      <review>
+         <snippet>What Flame &amp; Citron has are decent men taking down Nazis (always a crowd pleaser) and some appealing actors — notably Mr. Lindhardt, Mr. Mikkelsen and Christian Berkel as the head of the Copenhagen Gestapo.</snippet>
+         <url>http://movies.nytimes.com/2009/07/31/movies/31flame.html?ref=movies</url>
+         <critic>Manohla Dargis</critic>
+      </review>
+      <review>
+         <snippet>The movie's storytelling can be as old-fashioned as its appearance. Some sequences are quick and messy, but others are grand and theatrical.</snippet>
+         <url>http://www.npr.org/templates/story/story.php?storyId=111367975</url>
+         <critic>Mark Jenkins</critic>
+      </review>
+      <review>
+         <snippet>While it may not be a smorgasbord of red herrings and red meat, Flame and Citron is often chilling.</snippet>
+         <url>http://www.stltoday.com/stltoday/entertainment/reviews.nsf/movie/story/39D785E1DD9D49418625768F00025B35?OpenDocument</url>
+         <critic>Joe Williams</critic>
+      </review>
+      <review>
+         <snippet>As directed by Ole Christian Madsen, the thriller features well-choreographed shootouts and assassinations. But the script is too melodramatic and complicated for its own good.</snippet>
+         <url>http://www.nypost.com/seven/07312009/entertainment/movies/flame__citron_182163.htm</url>
+         <critic>V.A. Musetto</critic>
+      </review>
+   </reviews>
+   <summer_release>true</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

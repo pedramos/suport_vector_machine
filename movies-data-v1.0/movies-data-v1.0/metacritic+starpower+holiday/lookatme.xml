@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Look at Me</name>
+   <company>Sony Pictures Classics</company>
+   <genres>
+      <genre>Comedy</genre>
+      <genre>Drama</genre>
+      <genre>Foreign</genre>
+      <genre>Romance</genre>
+   </genres>
+   <authors>
+      <author>Jean-Pierre Bacri</author>
+      <author>Agnès Jaoui</author>
+   </authors>
+   <directors>
+      <director>Agnès Jaoui</director>
+   </directors>
+   <origins>
+      <origin>FranceItaly</origin>
+   </origins>
+   <actors>
+      <actor>Marilou Berry</actor>
+      <actor>Agnès Jaoui</actor>
+      <actor>Jean-Pierre Bacri</actor>
+      <actor>Laurent Grévill</actor>
+      <actor>Virginie Desarnauts</actor>
+      <actor>Keine Bouhiza</actor>
+      <actor>Grégoire Oestermann</actor>
+      <actor>Serge Riaboukine</actor>
+   </actors>
+   <release_date>April 1, 2005</release_date>
+   <running_time>110</running_time>
+   <rating>PG-13</rating>
+   <reviews>
+      <review>
+         <snippet>The wry filmmaker has created an urbane society of family and friends as ridiculously pretentious and hypocritical as they are cultured, accomplished, and posh.</snippet>
+         <url>http://www.ew.com/ew/article/review/movie/0,6115,1043387_1_0_,00.html</url>
+         <critic>Lisa Schwarzbaum</critic>
+      </review>
+      <review>
+         <snippet>An engrossing new drama from France.</snippet>
+         <url>http://sfgate.com/cgi-bin/article.cgi?f=/c/a/2005/04/08/DDGVNC45QQ1.DTL&amp;type=movies</url>
+         <critic>Ruthe Stein</critic>
+      </review>
+      <review>
+         <snippet>A marvelous, uncommonly observant, and unexpectedly rousing group portrait.</snippet>
+         <url>http://www.boston.com/movies/display?display=movie&amp;id=7267</url>
+         <critic>Wesley Morris</critic>
+      </review>
+      <review>
+         <snippet>This audience-pleaser is smart and acerbic. Jaoui has an uncanny ear - as director, co-writer and part of the inspired ensemble cast - for human foibles, self-deception, celebrity worship and female body issues.</snippet>
+         <url>http://www.nydailynews.com/04-01-2005/entertainment/col/story/295322p-252814c.html</url>
+         <critic>Jami Bernard</critic>
+      </review>
+      <review>
+         <snippet>While Look at Me at times falls into familiar plotting, it never offers false hope or false characters.</snippet>
+         <url>http://seattlepi.nwsource.com/movies/220139_look15q.html</url>
+         <critic>Sean Axmaker</critic>
+      </review>
+      <review>
+         <snippet>Brilliant, blistering account of the many ways fame deforms a star, his family and his fans.</snippet>
+         <url>http://ae.philly.com/entertainment/ui/philly/movie.html?id=289562&amp;reviewId=17887</url>
+         <critic>Carrie Rickey</critic>
+      </review>
+      <review>
+         <snippet>What makes Look at Me such a deeply satisfying experience is its ability to combine insightful character portraits like this with wickedly funny situations that slyly skewer all-too-human weaknesses.</snippet>
+         <url>http://www.calendarlive.com/movies/turan/cl-et-look1apr01,2,5652192.story</url>
+         <critic>Kenneth Turan</critic>
+      </review>
+      <review>
+         <snippet>This bonbon spiked with malice is a triumph for Jaoui, who takes witty and wounding measure of the small betrayals that leave bruises on us all.</snippet>
+         <url>http://www.rollingstone.com/reviews/movie/_/id/6588490?pageid=rs.ReviewsMovieArchive&amp;pageregion=mainRegion</url>
+         <critic>Peter Travers</critic>
+      </review>
+      <review>
+         <snippet>With a light, sometimes hilarious touch, Look at Me deflates the pretensions and self-obsessed nature of a group of wealthy Parisian literati, but its observations about the effects of fame and success and our natural desire to fan them as high as they can go, apply to anyone within range of reality-TV culture.</snippet>
+         <url>http://www.miami.com/mld/miamiherald/entertainment/movies/11568008.htm</url>
+         <critic>Rene Rodriguez</critic>
+      </review>
+      <review>
+         <snippet>A witty and psychologically perceptive look at the Parisian literary scene.</snippet>
+         <url>http://metromix.chicagotribune.com/movies/mmx-050421-movies-review-mw-lookatme.story</url>
+         <critic>Michael Wilmington</critic>
+      </review>
+      <review>
+         <snippet>In lesser hands, all this might border on misanthropy. But Jaoui's direction, plus the note-perfect cast, manage two redeeming feats:</snippet>
+         <url>http://www.theglobeandmail.com/servlet/ArticleNews/TPStory/LAC/20050408/LOOK08/TPEntertainment/Film</url>
+         <critic>Rick Groen</critic>
+      </review>
+      <review>
+         <snippet>The thing about a movie like this is, the characters may be French, but they're more like people I know than they could ever be in the Hollywood remake.</snippet>
+         <url>http://rogerebert.suntimes.com/apps/pbcs.dll/article?AID=/20050421/REVIEWS/50411002/1001</url>
+         <critic>Roger Ebert</critic>
+      </review>
+      <review>
+         <snippet>A movie of biting social observation. And it masterfully avoids Manichaean simplicity.</snippet>
+         <url>http://www.washingtonpost.com/wp-dyn/content/article/2005/04/28/AR2005042800678.html</url>
+         <critic>Desson Thomson</critic>
+      </review>
+      <review>
+         <snippet>Directed by Agnès Jaoui, who made the equally delightful "The Taste of Others," this comedy of manners with a serious purpose centers on a group of loosely connected neurotics, all working in the rarefied worlds of amateur chorales.</snippet>
+         <url>http://www.laweekly.com/ink/05/19/film-taylor2.php</url>
+         <critic>Ella Taylor</critic>
+      </review>
+      <review>
+         <snippet>Punchy dialogue, excellent thesping and a real feel for the universal tuning fork of great classical music make this a prime candidate for international arthouse play.</snippet>
+         <url>http://www.variety.com/index.asp?layout=cannes2004&amp;content=review&amp;reviewid=VE1117923859&amp;categoryid=1724&amp;cs=</url>
+         <critic>Lisa Nesselson</critic>
+      </review>
+      <review>
+         <snippet>A tender, indignant, but also very worldly movie.</snippet>
+         <url>http://www.newyorker.com/critics/cinema/?050404crci_cinema</url>
+         <critic>David Denby</critic>
+      </review>
+      <review>
+         <snippet>The latest in a series of stiletto-sharp social comedies by the French filmmakers Jean-Pierre Bacri and Agnès Jaoui.</snippet>
+         <url/>
+         <critic>Joe Morgenstern</critic>
+      </review>
+      <review>
+         <snippet>A witty and acute examination of friendship, ambition and betrayal in the Parisian literary world.</snippet>
+         <url>http://movies2.nytimes.com/2005/04/01/movies/01look.html?</url>
+         <critic>Dana Stevens</critic>
+      </review>
+      <review>
+         <snippet>Look at Me marks the character's shift from being the object of attention to the subject of her own dreams.</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A270459</url>
+         <critic>Marjorie Baumgarten</critic>
+      </review>
+      <review>
+         <snippet>Look at Me is on the talky side, but like Jaoui's directing debut, "The Taste of Others," it offers uniformly excellent performances and smart observations on social and family interactions.</snippet>
+         <url>http://www.nypost.com/movies/22960.htm</url>
+         <critic>Lou Lumenick</critic>
+      </review>
+      <review>
+         <snippet>It is for a particular audience - those who like films that concentrate on character rather than plot, and who aren't put off by subtitles.</snippet>
+         <url>http://movie-reviews.colossus.net/movies/l/look_me.html</url>
+         <critic>James Berardinelli</critic>
+      </review>
+      <review>
+         <snippet>While Jaoui's film is interesting to watch, it dawdles enough to lose its storytelling grip.</snippet>
+         <url>http://www.csmonitor.com/2005/0401/p14s02-almo.html</url>
+         <critic>David Sterritt</critic>
+      </review>
+      <review>
+         <snippet>Little in a Jaoui film is particularly original, but it's all perfectly convincing.</snippet>
+         <url>http://www.villagevoice.com/film/0513,atkinson99,62459,20.html</url>
+         <critic>Michael Atkinson</critic>
+      </review>
+      <review>
+         <snippet>The film satisfies in much the same way Allen's movie-a-year comedies used to satisfy.</snippet>
+         <url>http://www.theonionavclub.com/review_pop.php?review_id=8353</url>
+         <critic>Scott Tobias</critic>
+      </review>
+      <review>
+         <snippet>Jaoui directs with flow and affection, and she plays Sylvia sensitively. Bacri has the right middle-aged assortment of humors.</snippet>
+         <url>http://www.tnr.com/doc.mhtml?i=20050425&amp;s=kauffmann042505</url>
+         <critic>Stanley Kauffmann</critic>
+      </review>
+      <review>
+         <snippet>The French title is Comme une image ("like an image"), but Tennessee Williams's phrase "the catastrophe of success" seems more appropriate.</snippet>
+         <url>http://spacefinder.chicagoreader.com/movies/briefs/27864_LOOK_AT_ME_COMME_UNE_IMAGE.html</url>
+         <critic>Jonathan Rosenbaum</critic>
+      </review>
+      <review>
+         <snippet>Smart, absorbing movie.</snippet>
+         <url>http://www.washingtonpost.com/wp-dyn/content/article/2005/04/28/AR2005042801711.html</url>
+         <critic>Ann Hornaday</critic>
+      </review>
+      <review>
+         <snippet>Look at Me is a virtuoso exercise in domestic tension - with the emphasis on "exercise."</snippet>
+         <url>http://www.baltimoresun.com/entertainment/movies/bal-to.look13may13,1,7673808.story?coll=bal-artslife-movies</url>
+         <critic>Michael Sragow</critic>
+      </review>
+      <review>
+         <snippet>The multitalented Jaoui and Bacri excel on every level; her direction is efficient and unobtrusive, their script dissects the nuances of corruption by celebrity with a razor-sharp scalpel, and they deliver a pair of subtly unsparing performances.</snippet>
+         <url>http://tvguide.com/movies/database/showmovie.asp?MI=46020</url>
+         <critic>Maitland McDonagh</critic>
+      </review>
+      <review>
+         <snippet>This is a bleak, unresolved film, with no release. What keeps it from being a mortal bummer is the music-exquisite sacred choral works, plus Mozart.</snippet>
+         <url>http://www.slate.com/id/2116417/</url>
+         <critic>David Edelstein</critic>
+      </review>
+   </reviews>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

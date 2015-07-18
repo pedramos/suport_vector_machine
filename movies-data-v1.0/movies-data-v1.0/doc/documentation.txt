@@ -1,0 +1,519 @@
+==================
+Table of Contents
+==================
+
+0  Introduction
+
+1  Data Collection
+  1.1  Metadata
+		1.1.1  Adding "Star Power" Information 
+    1.1.2  Adding Release Date Information
+  1.2  Review Site-Specific Details
+    1.2.1 Austin Chronicle (www.austinchronicle.com)
+    1.2.2 Boston Globe (www.boston.com)
+    1.2.3 LA Times (www.calendarlive.com)
+    1.2.4 Entertainment Weekly (www.ew.com)
+    1.2.5 New York Times (www.nytimes.com)
+    1.2.6 Variety (www.variety.com)
+    1.2.7 Village Voice (www.villagevoice.com)
+
+2  Data Filtering
+  2.1  Filtering Reviews Based on Dates
+  2.2  Filtering Reviews Based on Revenue Information
+  2.3  Filtering Movies With Zero Reviews
+    
+3  Data Processing for Experiments
+  3.1  Generating TRAIN / DEV / TEST splits
+  3.2  Generating XML Files with Reviews and Revenues
+
+================
+0  Introduction
+================
+This file documents the data collection and preparation process for the 
+"movie$-data v1.0" dataset, which consists of data related to movies 
+released during the years 2005-2009. Metadata obtained from www.metacritic.com 
+(title, MPAA rating, running time, country of origin, writers, directors, 
+actors, actresses, and other fields) is available for 2080 movies. Financial 
+information (gross revenue, opening weekend gross revenue, number of screens during 
+opening weekend, and budget) was obtained from www.the-numbers.com; at least 
+partial information was obtained for 1803 movies. After removing movies that 
+did not have gross opening weekend earnings and the number of screens, there were 
+1758 left. 
+
+Of these 1758, there were 1718 movies for which at least one of the following 
+review sites contained a review:
+Austin Chronicle (www.austinchronicle.com)
+Boston Globe (www.boston.com)
+LA Times (www.calendarlive.com)
+Entertainment Weekly (www.ew.com)
+New York Times (www.nytimes.com)
+Variety (www.variety.com)
+Village Voice (www.villagevoice.com)
+
+===================
+1  Data Collection
+===================
+
+--------------
+1.1  Metadata 
+--------------
+
+The list of movies for which critics' reviews were scraped was based on the 
+alphabetical index of movies listed on the following MetaCritic.com page 
+(as of March 07, 2010):
+
+http://www.metacritic.com/video/alpha/
+
+We used movies released from 2005 to 2009 (five years total).
+
+A total of 2080 movies was found on MetaCritic.com based on our search 
+criteria. We scraped and processed metadata from each MetaCritic page. We 
+attempted to automatically match each movie to its corresponding page on 
+www.the-numbers.com, and movies which could not be matched were (manually) 
+removed from the pool. This resulted in 1,833 movies. The automatic matching 
+process resulted in mismatches between the Metacritic movies and the URLs in 
+The Numbers, primarily because of certain distinct movies having the same 
+prefixes and names. The mapping was refined by first looking for URLs of The 
+Numbers that were from years before 2005. The movies' release dates from 
+MetaCritic and the corresponding URLs from The Numbers were approximately 
+matched, thus resulting in 1805 movies. Two movies from 2010 were dropped, 
+and a final list of 1803 movies was used for crawling seven different sites 
+for movie reviews. 
+
+The original list of 2080 movies from MetaCritic.com is available in the 
+metacritic+starpower+holiday/ directory. The review scraping process described below for each 
+domain was based on this set of 2080 movies.
+
+The subset of 1718 movies that had opening weekend revenue statistics on 
+http://www.the-numbers.com along with the number of opening screens, and
+also had at least one critic review among the critic review websites that
+we crawled are available in the
+metacritic+starpower+holiday+revenue+screens+reviews/ directory.
+
+
+1.1.1  Adding "Star Power" Information
+---------------------------------------
+
+A list of Academy award winners for "Best Actor" and "Best Actress" was 
+compiled from Wikipedia (
+http://en.wikipedia.org/wiki/Academy_Award_for_Best_Actor#Winners_and_nominees 
+and 
+http://en.wikipedia.org/wiki/Academy_Award_for_Best_Actress#Winners_and_nominees).
+ 
+Similarly, a list of Academy award winners for "Best Director" was compiled 
+from Wikipedia (
+http://en.wikipedia.org/wiki/Academy_Award_for_Best_Director#Winners_and_nominees).
+
+For each of the movies in our dataset, features encoding presence or absence of
+Academy award winning actors/actresses/directors were added. Also, features 
+encoding the names of the Academy award winners were also included. For all the
+movies, these features are "true" -- i.e. they have a non-zero value only if 
+the Academy award was won in an year before the release year of the movie.
+
+A list of top 50 highest-grossing actors and actresses was created using the website 
+"boxofficemojo" (http://boxofficemojo.com/people/?view=Actor&sort=sumgross&p=.htm).
+
+Similar to the Academy award related features, features encoding presence or
+absence of highest-grossing actors/actresses as well as features encoding the
+names of highest-grossing actors/actresses were added to each movie.
+
+An example of the features added to the movie file indianajones4.xml is shown below:
+
+   <oscar_winning_directors_present/>
+   <num_oscar_winning_directors>1</num_oscar_winning_directors>
+   <oscar_winning_director>steven spielberg</oscar_winning_director>
+   <highest_grossing_actors_present/>
+   <num_highest_grossing_actors>2</num_highest_grossing_actors>
+   <highest_grossing_actor>cate blanchett</highest_grossing_actor>
+   <highest_grossing_actor>harrison ford</highest_grossing_actor>
+
+Similar features are present (wherever applicable) in all the movie XML files in 
+both the following directories:
+
+metacritic+starpower+holiday/
+metacritic+starpower+holiday+revenue+screens+reviews/
+
+
+1.1.2  Adding Release Date Information
+---------------------------------------
+
+We added fields to the xml files to contain information about whether the 
+movie was a summer release and whether it was released on (or sufficiently 
+close to) any of the following holidays: Christmas, Memorial Day, 
+Independence Day, and Labor Day. 
+
+Pseudocode is given below:
+if (month == 6 || month == 7 || month == 8) summerRelease = true
+if (month == 5 && day >= 15) summerRelease = true
+
+if (month == 12 && day >= 24 && day <= 26) christmasRelease = true
+
+// For Memorial Day releases, include movies released from the Wednesday before
+// the Memorial Day weekend to Memorial Day itself (which is always on a Monday).
+if (month == 5) {
+  if (year == 2009) {
+    // In 2009, Memorial Day was Monday, May 25th.
+    if (day >= 20 && day <= 25) memorialRelease = true
+  }
+  if (year == 2008) {
+    // In 2008, Memorial Day was Monday, May 26th.
+    if (day >= 21 && day <= 26) memorialRelease = true
+  }
+  if (year == 2007) {
+    // In 2007, Memorial Day was Monday, May 28th.
+    if (day >= 23 && day <= 28) memorialRelease = true
+  }
+  if (year == 2006) {
+    // In 2006, Memorial Day was Monday, May 29th.
+    if (day >= 24 && day <= 29) memorialRelease = true
+  }
+  if (year == 2005) {
+    // In 2005, Memorial Day was Monday, May 30th.
+    if (day >= 25 && day <= 30) memorialRelease = true
+  }
+}
+
+// For Independence Day releases, include movies for each year based on
+// well-known "July 4th weekend" releases:
+// 2009: Ice Age 3 (7/1)
+// 2008: Hancock (7/2)
+// 2007: Transformers (7/3)
+// 2006: Superman Returns (6/28)
+// 2005: War of the Worlds (6/29)
+
+if (year == 2009) {
+  // In 2009, July 4th was a Saturday.
+  if (month == 7 && day >= 1 && day <= 5) independenceRelease = true
+}
+if (year == 2008) {
+  // In 2008, July 4th was a Friday.
+  if (month == 7 && day >= 2 && day <= 6) independenceRelease = true
+}
+if (year == 2007) {
+  // In 2007, July 4th was a Wednesday.
+  if (month == 7 && day >= 3 && day <= 8) independenceRelease = true
+}
+if (year == 2006) {
+  // In 2009, July 4th was a Tuesday.
+  if ((month == 6 && day >= 28) || (month == 7 && day <= 4)) independenceRelease = true
+}
+if (year == 2005) {
+  // In 2009, July 4th was a Monday.
+  if ((month == 6 && day >= 29) || (month == 7 && day <= 4)) independenceRelease = true
+}
+
+An example of the features added to the movie file indianajones4.xml is shown below:
+
+   <summer_release>true</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>true</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+
+Similar features are present (wherever applicable) in all the movie XML files in 
+both the following directories:
+
+metacritic+starpower+holiday/
+metacritic+starpower+holiday+revenue+screens+reviews/
+
+
+----------------------------------
+1.2  Review Site-Specific Details
+----------------------------------
+
+Below we describe the procedure we followed for scraping and processing 
+the data for each site.
+
+
+1.2.1 Austin Chronicle (www.austinchronicle.com)
+-------------------------------------------------
+
+1372 reviews were scraped from the raw HTML pages, one of which 
+(onceuponatimeinthewest.xml) was empty due to a formatting error on the 
+www.austinchronicle.com page; its review was manually retrieved.
+2 more movie reviews were added manually---united93.xml and
+unknownwhitemale.xml---because the scraper encountered HTTP request timeout 
+error when scraping those reviews.
+
+Thus the total reviews available from www.austinchronicle.com are 1374.
+
+After above processing, square brackets surrounding the dates inside the 
+<date> tags were removed. No other postprocessing was done to the text.
+
+
+1.2.2 Boston Globe (www.boston.com)
+------------------------------------
+
+Running the scraper resulted in 1496 reviews from www.boston.com. 
+Some reviews were problematic for the scraper and the review text 
+was manually retrieved: aeonflux.xml, blackchristmas.xml, hitcher.xml, 
+primeval.xml, return2006.xml.
+
+Other problematic reviews were unable to be manually retrieved 
+and their xml files were deleted: dreamland.xml, 
+election2005.xml, lettherightonein.xml, and whitenoise.xml.
+
+As a result, 1492 reviews remain from www.boston.com.
+
+Then, a script was run to remove irrelevant footer lines from the reviews, 
+namely, those lines containing an @ symbol (email addresses of authors), 
+a '.com' (email addresses of authors and web pages), the text "For more on 
+movies", or "Copyright".
+
+For a small number of reviews, the text "Globe Correspondent" appeared 
+in the <date> field; this was removed automatically.
+
+
+1.2.3 LA Times (www.calendarlive.com)
+--------------------------------------
+
+1017 movie reviews were extracted, of which 3 were not properly obtained and 
+were deleted: junebug.xml, streetsoflegend.xml, and surfsup.xml.
+
+So, there were 1014 reviews from www.calendarlive.com.
+Some reviews contained reviews of other movies on the same html page. 
+We wrote a script to check for this based on the number of "by-lines" in each 
+review file, finding the following:
+aliensofthedeep.xml contains 2 by-lines.
+briefinterviewswithhideousmen.xml contains 5 by-lines.
+cave.xml contains 3 by-lines.
+chaos2005.xml contains 2 by-lines.
+coldsouls.xml contains 5 by-lines.
+daltrycalhoun.xml contains 3 by-lines.
+deadsnow.xml contains 4 by-lines.
+deal.xml contains 2 by-lines.
+devilsrejects.xml contains 4 by-lines.
+dirtydeeds.xml contains 3 by-lines.
+dirtylove.xml contains 3 by-lines.
+eyeofthedolphin.xml contains 2 by-lines.
+fiercepeople.xml contains 5 by-lines.
+futureoffood.xml contains 4 by-lines.
+hellbent.xml contains 4 by-lines.
+iwantsomeonetoeatcheesewith.xml contains 5 by-lines.
+lornassilence.xml contains 4 by-lines.
+meetthefamily.xml contains 4 by-lines.
+milwaukeeminnesota.xml contains 2 by-lines.
+motherhood.xml contains 5 by-lines.
+movingmcallister.xml contains 5 by-lines.
+notquitehollywood.xml contains 4 by-lines.
+perfectman.xml contains 2 by-lines.
+pure.xml contains 2 by-lines.
+rightatyourdoor.xml contains 2 by-lines.
+somerstown.xml contains 5 by-lines.
+taxidermia.xml contains 6 by-lines.
+threedancingslaves.xml contains 3 by-lines.
+twistoffaith.xml contains 4 by-lines.
+venom.xml contains 4 by-lines.
+yearoftheyao.xml contains 2 by-lines.
+
+We manually went through each of these files and removed the irrelevant
+reviews from them.
+
+We then ran a script to remove lines containing only authors' email 
+addresses or the word "ADVERTISEMENT" from the reviews.
+
+Finally, for two files (davincicode.xml and starwarsiii.xml) we
+manually fixed the date field to remove the time stamp that it
+contained -- removed strings "10:04 AM PDT, " and "5:00 AM PDT, "
+from them respectively.
+
+
+1.2.4 Entertainment Weekly (www.ew.com)
+----------------------------------------
+
+1476 movie reviews were extracted, 4 of which turned out to be empty due to 
+formatting errors on the www.ew.com page for those movies: firedup.xml, 
+lemming.xml, ohorten.xml and silenthill.xml. For these four, reviews were 
+manually retrieved.
+
+104 of the reviews contained the irrelevant line "See all of this week's 
+reviews", which we removed automatically.
+
+NOTE: For seven other movies (blackchristmas.xml, childrenofmen.xml, 
+happilyneverafter.xml, nightatthemuseum.xml, notesonascandal.xml, 
+perfumethestoryofamurderer.xml and venus.xml), although metacritic.com has 
+the www.ew.com URLs for their reviews, the corresponding pages on www.ew.com 
+were empty, so the reviews could not be scraped. We did not manually download 
+the reviews for these in order to keep metacritic.com as the single 
+reference/starting point for the crawling process.
+
+
+1.2.5 New York Times (www.nytimes.com)
+---------------------------------------
+
+1691 reviews were extracted and a script was run to remove irrelevant footer 
+lines present in most reviews; these followed the pattern below:
+
+"Opens (in|on|today|nationwide|tonight|tomorrow|Sunday|commercially)"
+
+Four reviews had footers that did not match exactly and required manual 
+removal:
+counterfeiters.xml
+primoamore.xml 
+pushertrilogy.xml 
+ushpizin.xml 
+
+After the above processing, there were 137 files with empty reviews, 
+which we removed, leaving 1554 reviews from www.nytimes.com.
+
+
+1.2.6 Variety (www.variety.com)
+--------------------------------
+
+1794 reviews were extracted from www.variety.com. 
+The following review was not obtained properly and was therefore obtained 
+manually: verdictonauschwitz.xml.
+There were problems obtaining the following four reviews and their xml files 
+were deleted: awayfromher.xml, hostage.xml, kidandi.xml, and lovendancing.xml.
+
+As a result, 1790 reviews remain from www.variety.com.
+
+We then ran a script to remove lines containing only the movie title, the 
+review author, or header lines such as "New U.S. Release" from the review 
+text. Finally, the review dates in the xml files were cleaned up to make 
+simpler the task of parsing them for comparison with release dates. 
+
+
+1.2.7 Village Voice (www.villagevoice.com)
+-------------------------------------------
+
+1673 reviews were extracted, 5 of which were empty: assistedliving.xml, 
+encountersattheendoftheworld.xml, khadak.xml, misterlonely.xml, and 21.xml. 
+The review for khadak.xml was manually downloaded, but, for the other four, 
+the URLs from metacritic.com did not lead to a valid page on villagevoice.com 
+and therefore their xml files were deleted.
+
+Therefore the total number of reviews from villagevoice.com is 1669.
+
+NOTE: Similar to the seven movies on www.ew.com, the villagevoice.com URL for 
+women2008.xml was also invalid, and therefore its review was not included.
+
+
+===================
+2  Data Filtering
+===================
+
+--------------------------------------
+2.1  Filtering Reviews Based on Dates
+--------------------------------------
+
+After scraping the movie reviews as detailed above, we removed all
+those reviews that had a date *after* the release date of the movie,
+as found in the movie's metacritic.com XML file in the directory
+metacritic+starpower+holiday/ .
+
+Java code was written for this purpose which
+examines each review xml file in a given input directory, compares
+the date (if found and parseable) to the release date of the movie
+and outputs a list of xml review files to discard.
+
+
+----------------------------------------------------
+2.2  Filtering Reviews Based on Revenue Information
+----------------------------------------------------
+
+Recall that we scraped reviews for some movies which did
+not have the revenue or number of opening screens information on
+the-numbers.com. We removed reviews for these from the reviews/ 
+directory.
+
+
+----------------------------------------
+2.3  Filtering Movies With Zero Reviews
+----------------------------------------
+
+After performing the filtering in 2.1 and 2.2, we discarded the metacritic.com 
+XML files for movies that did not have even a single review from any of the 
+review sites. We were left with 1718 movies in the directory 
+metacritic+starpower+holiday+revenue+screens+reviews/ 
+-- all of these movies have the required information on the-numbers.com
+and at least one review from one of the seven sites that we scraped.
+
+We next describe how these 1718 movies were split up into TRAIN,
+DEVELOPMENT, and TEST sets for our experiments.
+
+
+===================================
+3  Data Processing for Experiments
+===================================
+
+------------------------------------------
+3.1  Generating TRAIN / DEV / TEST splits
+------------------------------------------
+Our TRAIN/DEV/TEST splits were time-based, to ensure that we do not train 
+or tune on movies from future dates to predict revenues of movies from the 
+past.
+
+Below are the counts of movies released each year:
+2005: 387
+2006: 413
+2007: 347
+2008: 317
+2009: 254
+
+We used the set of movies from years 2005, 2006 and 2007 as our TRAIN set,
+the movies from 2008 as our DEV set, and the movies from 2009 as our TEST set.
+The three files containing TRAIN, DEV, and TEST movie names are contained in the 
+traindevtest_splits directory (named train, dev, and test, respectively).
+
+----------------------------------------------------
+3.2  Generating XML Files with Reviews and Revenues
+----------------------------------------------------
+For convenience, we also included XML files containing training,
+development and test instances.
+
+7domains-train-dev.tl.xml
+7domains-train-test.tl.xml
+perscreen-7domains-train-dev.tl.xml
+perscreen-7domains-train-test.tl.xml
+
+The files 7domains-train-dev.tl.xml and 7domains-train-test.tl.xml
+contain the opening weekend revenue (in US $) as the target/response variable.
+
+The files perscreen-7domains-train-dev.tl.xml and 
+perscreen-7domains-train-test.tl.xml contain the per-screen opening weekend 
+revenue (i.e., opening weekend revenue divided by the number of screens on 
+which the movie opened) as the target/response variable.
+
+NOTE: The training set instances are repeated across the files 
+7domains-train-dev.tl.xml and 7domains-train-test.tl.xml, and similarly for 
+the per-screen XML files.
+
+The format of the XML files is as follows:
+
+* Each movie and all its information is contained within
+	an <instance>...</instance> tag. Every <instance> tag
+	has an "id" attribute, which contains the name of the
+	movie, and a "subpop" attribute, which stores the
+	sub-population to which the movie belongs -- train or
+	dev or test.
+	
+	**** NOTE: For both dev as well as test set instances,
+	the subpop attribute has the value "test" in the XML
+	files. This is not an issue since the dev and test 
+	set instances are in two different XML files entirely
+	-- dev set is in *train-dev*.xml files, and the test
+	set is in *train-test*.xml files. ****
+	(This is just an artifact of the way our feature
+	extraction code works.)
+
+* All the critic reviews for a movie are contained
+	in separate <text>...</text> tags within the <instance>
+	tag of the movie. Each <text> tag has a "tlabel" attribute
+	which stores an abbreviation of the source of the
+	critic review. The mapping of abbreviations to the
+	review source site is as follows:
+
+	AC - www.austinchronicle.com
+	BO - www.boston.com
+	CL - www.calendarlive.com
+	EW - www.entertainmentweekly.com
+	NY - www.nytimes.com
+	VA - www.variety.com
+	VV - www.villagevoice.com
+
+* The target or response variable is stored in the
+	<regy> tag, with the value of the variable given
+	by the "yvalue" attribute of the <regy> tag.
+
+

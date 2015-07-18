@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>We Are Marshall</name>
+   <company>Warner Bros. Pictures</company>
+   <genres>
+      <genre>Drama</genre>
+   </genres>
+   <authors>
+      <author>Jamie Linden</author>
+      <author>Cory Helms</author>
+   </authors>
+   <directors>
+      <director>Mc</director>
+      <director>G</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Matthew McConaughey</actor>
+      <actor>Matthew Fox</actor>
+      <actor>Anthony Mackie</actor>
+      <actor>David Strathairn</actor>
+      <actor>Ian McShane</actor>
+      <actor>Kate Mara</actor>
+      <actor>January Jones</actor>
+      <actor>Kimberly Williams</actor>
+   </actors>
+   <release_date>December 22, 2006</release_date>
+   <running_time>127</running_time>
+   <rating>PG</rating>
+   <reviews>
+      <review>
+         <snippet>Filmmakers have presented an unvarnished drama about Marshall University and the people who love it, and the results are inspirational.</snippet>
+         <url>http://ae.charlotte.com/entertainment/ui/charlotte/movie.html?id=769694&amp;reviewId=21984&amp;startDate=NEXT7</url>
+         <critic>Lawrence Toppman</critic>
+      </review>
+      <review>
+         <snippet>Equally thrilling and wrenching, the film is an absolute must for anyone who loves sports and an eloquent explanation for those who don't understand what the fuss is about.</snippet>
+         <url>http://ae.charlotte.com/entertainment/ui/charlotte/movie.html;jsessionid=CC4D7219D26998EB09E6D7E20DB50978.prodapp15_ae_02?id=769694&amp;reviewId=22011</url>
+         <critic>Connie Ogle</critic>
+      </review>
+      <review>
+         <snippet>"Charlie's Angels" director Joseph McGinty Nichol (aka McG) shows surprising restraint with this emotionally freighted material, weighting the movie heavily towards relationships.</snippet>
+         <url>http://tvguide.com/detail/movie.aspx?tvobjectid=285027&amp;more=ucmoviereview</url>
+         <critic>Maitland McDonagh</critic>
+      </review>
+      <review>
+         <snippet>We Are Marshall is precisely what one expects from a true sports story: it's uplifting and inspiring.</snippet>
+         <url>http://www.reelviews.net/movies/w/we_marshall.html</url>
+         <critic>James Berardinelli</critic>
+      </review>
+      <review>
+         <snippet>Surprisingly restrained and undeniably entertaining.</snippet>
+         <url>http://metromix.chicagotribune.com/movies/mmx-061222-movies-review-marshall,0,2721791.story?coll=mmx-movies_top_heds</url>
+         <critic>Jessica Reaves</critic>
+      </review>
+      <review>
+         <snippet>The result is a movie that inspires without pontificating and plays on the heartstrings without pounding on them incessantly.</snippet>
+         <url>http://www.baltimoresun.com/entertainment/movies/bal-to.marsh22dec22,0,3100064.story?coll=bal-artslife-movies</url>
+         <critic>Chris Kaltenbach</critic>
+      </review>
+      <review>
+         <snippet>The actor's (McConaughey) lovable exuberance is exactly what this heartsick movie needs.</snippet>
+         <url>http://www.boston.com/movies/display?display=movie&amp;id=8868</url>
+         <critic>Wesley Morris</critic>
+      </review>
+      <review>
+         <snippet>Often as not, the movie works. Here and there, it works kind of beautifully.</snippet>
+         <url>http://www.oregonlive.com/movies/oregonian/index.ssf?/base/entertainment/1166664309238670.xml&amp;coll=7</url>
+         <critic>M. E. Russell</critic>
+      </review>
+      <review>
+         <snippet>The film is injected with a refreshing energy whenever McConaughey is on-screen, balancing some of the inherent sadness of the story.</snippet>
+         <url>http://www.calendarlive.com/printedition/calendar/cl-et-marshall22dec22,0,5204117.story</url>
+         <critic>Kevin Crust</critic>
+      </review>
+      <review>
+         <snippet>"Lost" star Matthew Fox pitches in with a strong performance as a coach who, by the laws of whimsy, didn't take the final flight home and had to struggle with survivor's guilt.</snippet>
+         <url>http://www.washingtonpost.com/ac2/wp-dyn?node=cityguide/profile&amp;id=1123549&amp;categories=Movies&amp;nm=1</url>
+         <critic>Stephen Hunter</critic>
+      </review>
+      <review>
+         <snippet>To the movie's credit, the cast is better than average.</snippet>
+         <url>http://seattlepi.nwsource.com/movies/296782_marshall22q.html</url>
+         <critic>William Arnold</critic>
+      </review>
+      <review>
+         <snippet>McConaughey tucks into the role like a hungry man gobbling a ham sandwich.</snippet>
+         <url>http://ae.charlotte.com/entertainment/ui/charlotte/movie.html?id=769694&amp;reviewId=21991</url>
+         <critic>Carrie Rickey</critic>
+      </review>
+      <review>
+         <snippet>An enjoyable time-waster, distinguished by an unexpectedly sharp comic turn by McConaughey, lots of boisterous horseplay and some stirring emotional clinches. All in all, an entirely serviceable night out for buddies looking to locate hidden feelings.</snippet>
+         <url>http://www.theglobeandmail.com/servlet/story/RTGAM.20061222.wmarshall22/BNStory/Entertainment/home</url>
+         <critic>Stephen Cole</critic>
+      </review>
+      <review>
+         <snippet>If you're a college football fan, a fan of sports films or just a sports aficionado with a sense of history, this film is a safe bet.</snippet>
+         <url>http://www.filmthreat.com/index.php?section=reviews&amp;Id=9507</url>
+         <critic>Mark Bell</critic>
+      </review>
+      <review>
+         <snippet>McG's Marshall lies at the nexus of Thornton Wilder and Norman Rockwell -- it's David Lynch without the irony -- and if he overdoes things a touch, there’s nothing disingenuous about it.</snippet>
+         <url>http://www.laweekly.com/film+tv/film-reviews/film-reviews/15267/</url>
+         <critic>Scott Foundas</critic>
+      </review>
+      <review>
+         <snippet>What should have been an inspirational story about fortitude and courage in the face of mind-numbing tragedy becomes a compendium of sports cliches.</snippet>
+         <url>http://www.hollywoodreporter.com/hr/film/reviews/article_display.jsp?&amp;rid=8549</url>
+         <critic>Kirk Honeycutt</critic>
+      </review>
+      <review>
+         <snippet>Full of good intentions, We Are Marshall has a game plan that's hard to fault, but as with any playbook, a scheme is only as good as how well it's executed.</snippet>
+         <url>http://www.variety.com/review/VE1117932320.html?categoryid=31&amp;cs=1</url>
+         <critic>Brian Lowry</critic>
+      </review>
+      <review>
+         <snippet>We Are Marshall has little of the bone-crunchingsincerity of the recent pigskin rouser "Invincible." This one is more like Unconvincing.</snippet>
+         <url>http://www.ew.com/ew/article/review/movie/0,6115,1569425_1_0_,00.html</url>
+         <critic>Owen Gleiberman</critic>
+      </review>
+      <review>
+         <snippet>It's a powerful subject, but director McG and screenwriter Jamie Linden haul out every cliché in the playbook.</snippet>
+         <url>http://www.csmonitor.com/2006/1222/p14s02-almo.html</url>
+         <critic>Peter Rainer</critic>
+      </review>
+      <review>
+         <snippet>It's uplifting, but shallow.</snippet>
+         <url>http://www.avclub.com/content/node/56901</url>
+         <critic>Scott Tobias</critic>
+      </review>
+      <review>
+         <snippet>We Are Marshall is less a movie than a commemoration.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/moviereviews/story/482146p-405800c.html</url>
+         <critic>Jack Mathews</critic>
+      </review>
+      <review>
+         <snippet>Has the kind of soulful subject matter that will strike some as profoundly emotional, but it gets a flag for roughing the tear ducts. This isn't football - it's cornball.</snippet>
+         <url>http://www.nypost.com/seven/12222006/entertainment/movies/dead_end_zone_movies_kyle_smith.htm</url>
+         <critic>Kyle Smith</critic>
+      </review>
+      <review>
+         <snippet>We can only speculate why McConaughey chose to play the role this way, but in all honesty, it's a good thing he did. His loony performance is the only surprising thing about this otherwise paint-by-numbers inspirational drama.</snippet>
+         <url>http://www.premiere.com/moviereviews/3358/we-are-marshall.html</url>
+         <critic>Ethan Alter</critic>
+      </review>
+      <review>
+         <snippet>Even by the low standards of the young-jocks-as-good-clean-soldiers movie, there's little at stake here, unless you count the kids' hunger to win one for the Gipper.</snippet>
+         <url>http://www.villagevoice.com/film/0651,film,75345,20.html</url>
+         <critic>Rob Nelson</critic>
+      </review>
+      <review>
+         <snippet>Matthew McConaughey injects some much needed life as the oddball coach who sets out to rebuild the football squad, and David Strathairn, Ian McShane, and Robert Patrick do their best with sketchy characters and artless dialogue.</snippet>
+         <url>http://onfilm.chicagoreader.com/movies/briefs/30831_WE_ARE_MARSHALL.html</url>
+         <critic>J.R. Jones</critic>
+      </review>
+      <review>
+         <snippet>There are so many emotions in We Are Marshall that there's hardly any room for football -- and when we finally get some, even THAT'S clogged with excess feeling.</snippet>
+         <url>http://www.salon.com/ent/movies/review/2006/12/22/marshall/index.html</url>
+         <critic>Stephanie Zacharek</critic>
+      </review>
+      <review>
+         <snippet>There are football movies, and then there's this 800-pound gorilla of a gridiron weepie, which should be penalized for roughing the viewer.</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A430246</url>
+         <critic>Marrit Ingman</critic>
+      </review>
+      <review>
+         <snippet>Its use of trite "Win one for the Gipper" dialogue, overbearing soaring music and conventional plot devices makes it far too formulaic to truly move us.</snippet>
+         <url>http://www.usatoday.com/life/movies/reviews/2006-12-21-marshall-review_x.htm</url>
+         <critic>Claudia Puig</critic>
+      </review>
+      <review>
+         <snippet>A movie like We Are Marshall stands or falls on its ability to make you feel the pain and loss of individuals in a place where community pride and football are one and the same. As the film, directed by McG (the "Charlie's Angels" movies) from a wooden screenplay by Jamie Linden, follows a handful of Huntington residents during the months after the accident, not one of them comes fully to life.</snippet>
+         <url>http://movies2.nytimes.com/2006/12/22/movies/22mars.html?ref=movies</url>
+         <critic>Stephen Holden</critic>
+      </review>
+      <review>
+         <snippet>No go. Marshall deserved better than this misbegotten tribute.</snippet>
+         <url>http://www.rollingstone.com/reviews/movie/9365957/review/12812344/we_are_marshall</url>
+         <critic>Peter Travers</critic>
+      </review>
+      <review>
+         <snippet>May not be a very enjoyable movie, but at least the badness is in good taste.</snippet>
+         <url>http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2006/12/22/DDGKEN39BQ1.DTL&amp;type=movies</url>
+         <critic>Peter Hartlaub</critic>
+      </review>
+   </reviews>
+   <oscar_winning_directors_present/>
+   <num_oscar_winning_directors>15</num_oscar_winning_directors>
+   <oscar_winning_director>g</oscar_winning_director>
+   <oscar_winning_director>mc</oscar_winning_director>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

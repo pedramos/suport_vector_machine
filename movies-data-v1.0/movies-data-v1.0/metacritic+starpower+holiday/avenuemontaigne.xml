@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Avenue Montaigne</name>
+   <company>ThinkFilm</company>
+   <genres>
+      <genre>Comedy</genre>
+      <genre>Drama</genre>
+      <genre>Foreign</genre>
+      <genre>Romance</genre>
+   </genres>
+   <authors>
+      <author>Christopher Thompson</author>
+      <author>Danièle Thompson</author>
+   </authors>
+   <directors>
+      <director>Danièle Thompson</director>
+   </directors>
+   <origins>
+      <origin>France</origin>
+   </origins>
+   <actors>
+      <actor>Cécile De France</actor>
+      <actor>Valérie Lemercier</actor>
+      <actor>Albert Dupontel</actor>
+      <actor>Laura Morante</actor>
+      <actor>Claude Brasseur</actor>
+      <actor>Christopher Thompson</actor>
+      <actor>Sydney Pollack</actor>
+   </actors>
+   <release_date>February 16, 2007</release_date>
+   <running_time>106</running_time>
+   <rating>PG-13</rating>
+   <reviews>
+      <review>
+         <snippet>A thoroughly enjoyably and wistfully charming ensemble drama carried off with an irresistible Gallic flair.</snippet>
+         <url>http://seattlepi.nwsource.com/movies/308620_montaigne23q.html</url>
+         <critic>William Arnold</critic>
+      </review>
+      <review>
+         <snippet>While this sort of thing can easily devolve into bourgeois comfort food, Thompson, a veteran of the genre, knows how to serve it up just about right.</snippet>
+         <url>http://www.oregonlive.com/movies/oregonian/index.ssf?/base/entertainment/1176936918159850.xml&amp;coll=7</url>
+         <critic>Marc Mohan</critic>
+      </review>
+      <review>
+         <snippet>Avenue Montaigne is not a film to be taken too earnestly, but it would be a mistake to miss its bittersweet undertones. The movie is as airy as a spun-sugar dessert, but Thompson's observations on the artistic life are both affectionate and knowing: Beauty and wealth, though inevitably compelling, are appreciated as means to humane ends, not goals in themselves.</snippet>
+         <url>http://www.theglobeandmail.com/servlet/story/RTGAM.20070420.wavenue20/BNStory/Entertainment/home</url>
+         <critic>Liam Lacey</critic>
+      </review>
+      <review>
+         <snippet>Director Daniele Thompson gets the point across so airily and pleasantly, in a film cast to perfection, that it's no problem accepting the message with a shrug, while profoundly enjoying the messenger.</snippet>
+         <url>http://www.baltimoresun.com/entertainment/movies/bal-to.avenue23mar23,0,4418878.story?coll=bal-artslife-movies</url>
+         <critic>Chris Kaltenbach</critic>
+      </review>
+      <review>
+         <snippet>That the film succeeds as well as it does despite a series of coincidences that strain credibility is a credit to a fine cast and a joie de vivre that pervades even the most implausible moments.</snippet>
+         <url>http://sfgate.com/cgi-bin/article.cgi?f=/c/a/2007/03/16/DDGIGOLBIJ1.DTL&amp;type=movies</url>
+         <critic>Ruthe Stein</critic>
+      </review>
+      <review>
+         <snippet>The film uses effective acting, deft dialogue, and a sly wit to entertain, if not educate.</snippet>
+         <url>http://www.reelviews.net/movies/a/avenue_montaigne.html</url>
+         <critic>James Berardinelli</critic>
+      </review>
+      <review>
+         <snippet>Thompson's stories are familiar, but she weaves them together with such assurance and good humor that they're equally soothing and thoroughly enjoyable.</snippet>
+         <url>http://tvguide.com/detail/movie.aspx?tvobjectid=285616&amp;more=ucmoviereview</url>
+         <critic>Maitland McDonagh</critic>
+      </review>
+      <review>
+         <snippet>All of the actors are on point (Dupontel and Morante are particularly good), the individual story arcs are involving, if not exactly complex, and Thompson keeps the proceedings moving along at a comfortable clip.</snippet>
+         <url>http://www.premiere.com/moviereviews/3529/avenue-montaigne.html</url>
+         <critic>Ethan Alter</critic>
+      </review>
+      <review>
+         <snippet>Rarely has Paris seemed more enchanting than in Danièle Thompson's optimistic ode to Gallic romance.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/moviereviews/story/498047p-419666c.html</url>
+         <critic>Elizabeth Weitzman</critic>
+      </review>
+      <review>
+         <snippet>Avenue Montaigne transforms an overwhelming metropolis into a user-friendly village with quirkily appealing characters.</snippet>
+         <url>http://www.washingtonpost.com/ac2/wp-dyn?node=cityguide/profile&amp;id=1128792&amp;categories=Movies&amp;nm=1</url>
+         <critic>Desson Thomson</critic>
+      </review>
+      <review>
+         <snippet>Avenue Montaigne may not be a centimeter deeper than it needs to be, but you also won't be feeling that your pocket was picked when it's over.</snippet>
+         <url>http://www.calendarlive.com/printedition/calendar/cl-et-avenue2mar02,0,3631239.story</url>
+         <critic>Kenneth Turan</critic>
+      </review>
+      <review>
+         <snippet>Avenue Montaigne, is a delicious French pastry, tart and sweet, steeped in Parisian glamour.</snippet>
+         <url>http://www.salon.com/ent/movies/review/2007/02/15/btm/index1.html</url>
+         <critic>Andrew O&amp;#039;Hehir</critic>
+      </review>
+      <review>
+         <snippet>Avenue Montaigne is a bonbon, not a bouillabaisse. But because this is finally a film about desire, it carries a bittersweet tang.</snippet>
+         <url>http://movies2.nytimes.com/2007/02/16/movies/16aven.html?ref=movies</url>
+         <critic>Manohla Dargis</critic>
+      </review>
+      <review>
+         <snippet>Effortlessly interlinking the stories through the jaunty perambulations of a fresh-faced waitress from a local cafe, Thomson's crowd-pleaser makes up in refined schmaltz what it lacks in innovation or profundity.</snippet>
+         <url>http://onfilm.chicagoreader.com/movies/capsules/30550_AVENUE_MONTAIGNE</url>
+         <critic>Ronnie Scheib</critic>
+      </review>
+      <review>
+         <snippet>Bookending the film is the relationship between Jessica and the grandmother who raised her. This role is delightfully played by Suzanne Flon, who recently died at age 87. The film is dedicated to the veteran actress.</snippet>
+         <url>http://www.hollywoodreporter.com/hr/imdb/reviews/article_display.jsp?rid=1002385813&amp;vnu_special_account_code=thrsiteimdbpro</url>
+         <critic>Kirk Honeycutt</critic>
+      </review>
+      <review>
+         <snippet>A well-oiled script is nicely served by a multigenerational cast, a bittersweet and consistently entertaining mainstream comedy that tackles the big themes of Life and Art with unpretentious brio.</snippet>
+         <url>http://www.variety.com/review/VE1117929610.html?categoryid=31&amp;cs=1&amp;p=0</url>
+         <critic>Lisa Nesselson</critic>
+      </review>
+      <review>
+         <snippet>Not that Thompson's films lack for romance. She shoots Paris like Woody Allen shoots New York--ritzy, golden, and packed with chance meetings between highly strung arty types.</snippet>
+         <url>http://www.villagevoice.com/film/0707,taylor,75802,20.html</url>
+         <critic>Ella Taylor</critic>
+      </review>
+      <review>
+         <snippet>For Yank color in her soap-bubbly movie, director Daniele Thompson has her pal Sydney Pollack appear as...a famous director.</snippet>
+         <url>http://www.ew.com/ew/article/0,,20011872,00.html</url>
+         <critic>Lisa Schwarzbaum</critic>
+      </review>
+      <review>
+         <snippet>With her lithe frame and insouciantly boyish mop of blond hair, De France is a particularly French sort of film heroine.</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A466609</url>
+         <critic>Josh Rosenblatt</critic>
+      </review>
+      <review>
+         <snippet>Originally titled "Orchestra Seats," Montaigne takes a page from the "Amelie" playbook, without the fancy visuals or magical realism.</snippet>
+         <url>http://metromix.chicagotribune.com/movies/mmx-070316-movies-review-avenue,0,5669698.story?coll=mmx-movies_top_heds</url>
+         <critic>Michael Phillips</critic>
+      </review>
+      <review>
+         <snippet>Has a breezy, Altmanesque air, as it tracks the mini-dramas of its crisscrossing characters.</snippet>
+         <url>http://www.philly.com/inquirer/columnists/steven_rea/20070323_Meeting_French_folk_on_the_avenue.html</url>
+         <critic>Steven Rea</critic>
+      </review>
+      <review>
+         <snippet>Aside from pretty people behaving cutely,  there's just not much here, and even devoted Francophiles may nod into their cafe crèmes.</snippet>
+         <url>http://www.boston.com/movies/display?display=movie&amp;id=9750</url>
+         <critic>Ty Burr</critic>
+      </review>
+      <review>
+         <snippet>It's formula stuff, to be sure, but full of feeling for the sweep of the past as well as for the unsettled, yearning present.</snippet>
+         <url/>
+         <critic>Joe Morgenstern</critic>
+      </review>
+      <review>
+         <snippet>Avenue Montaigne would be difficult to stomach if it weren't so light and uninsistent, and if its actors weren't so charming. I still rolled my eyes--but sometimes I do that when I get a really good croissant.</snippet>
+         <url>http://nymag.com/movies/reviews/28144/index1.html</url>
+         <critic>David Edelstein</critic>
+      </review>
+      <review>
+         <snippet>A lightweight French comedy worth watching only for Cecile de France. The gamine actress - decked out in short reddish hair, black tights and a thigh-high mini - is charming as Jessica.</snippet>
+         <url>http://www.nypost.com/seven/02162007/entertainment/movies/chic_femme__slow_street_movies_v_a__musetto.htm</url>
+         <critic>V.A. Musetto</critic>
+      </review>
+   </reviews>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

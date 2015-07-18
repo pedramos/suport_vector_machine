@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>What Just Happened?</name>
+   <company>Magnolia Pictures</company>
+   <genres>
+      <genre>Comedy</genre>
+      <genre>Drama</genre>
+   </genres>
+   <authors>
+      <author>Art Linson</author>
+   </authors>
+   <directors>
+      <director>Barry Levinson</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Robert De Niro</actor>
+      <actor>Catherine Keener</actor>
+      <actor>Stanley Tucci</actor>
+      <actor>Robin Wright Penn</actor>
+      <actor>John Turturro</actor>
+      <actor>Michael Wincott</actor>
+      <actor>Bruce Willis</actor>
+      <actor>Sean Penn</actor>
+   </actors>
+   <release_date>October 17, 2008</release_date>
+   <running_time>107</running_time>
+   <rating>R</rating>
+   <reviews>
+      <review>
+         <snippet>De Niro has never been more sneakily inventive.</snippet>
+         <url>http://www.baltimoresun.com/entertainment/movies/reviews/bal-to.what17oct17,0,1022519.story</url>
+         <critic>Michael Sragow</critic>
+      </review>
+      <review>
+         <snippet>What Just Happened raises the tantrum to the level of an art form</snippet>
+         <url>http://www.csmonitor.com/2008/1018/p25s02-almo.html</url>
+         <critic>Peter Rainer</critic>
+      </review>
+      <review>
+         <snippet>There's no denying the talent behind the film; unfortunately, almost everyone involved seems to know the system so well that they've neglected to inject their stereotypical caricatures with even a trace amount of personality.</snippet>
+         <url>http://movies.tvguide.com/just-happened/review/294811</url>
+         <critic>Jason Buchanan</critic>
+      </review>
+      <review>
+         <snippet>Rambles a bit, but it has dryly obscene, laugh-out-loud lines, and its portrait of Hollywood as a giant anxiety attack is fused by De Niro.</snippet>
+         <url>http://www.ew.com/ew/article/0,,20233333,00.html</url>
+         <critic>Owen Gleiberman</critic>
+      </review>
+      <review>
+         <snippet>Deviates greatly from Linson's winning little book in its particulars, but retains its sustained melancholy mood of low-key existential dread and dyspeptic wit.</snippet>
+         <url>http://www.avclub.com/content/cinema/what_just_happened</url>
+         <critic>Nathan Rabin</critic>
+      </review>
+      <review>
+         <snippet>Makes Hollywood looks like a very expensive, lethal version of high school, but lots of fun from a safe distance.</snippet>
+         <url>http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2008/10/16/DDAE13GPM4.DTL&amp;type=movies</url>
+         <critic>Mick LaSalle</critic>
+      </review>
+      <review>
+         <snippet>The movie is brilliant at portraying the incredibly high stakes of the seemingly inconsequential and the tremendous amounts of money spent on it.</snippet>
+         <url>http://www.latimes.com/entertainment/news/reviews/la-et-happened17-2008oct17,0,960237.story</url>
+         <critic>Carina Chocano</critic>
+      </review>
+      <review>
+         <snippet>A finely observed and occasionally outright hilarious glimpse at the most treacherous inner workings of Tinseltown.</snippet>
+         <url>http://www.washingtonpost.com/ac2/wp-dyn?node=cityguide/profile&amp;id=1146074&amp;categories=Movies</url>
+         <critic>Ann Hornaday</critic>
+      </review>
+      <review>
+         <snippet>Deep Hollywood inside-baseball, and for a while it cooks along with malevolent glee.</snippet>
+         <url>http://www.boston.com/movies/display?display=movie&amp;id=11434</url>
+         <critic>Ty Burr</critic>
+      </review>
+      <review>
+         <snippet>This isn't a bad movie; it simply makes the mistake of believing that it has a wider appeal than is actually the case.</snippet>
+         <url>http://www.reelviews.net/php_review_template.php?identifier=1376</url>
+         <critic>James Berardinelli</critic>
+      </review>
+      <review>
+         <snippet>Think of it as old Hollywood's version of "Entourage," an insider's take on the greed and vanity that make Tinseltown tick.</snippet>
+         <url>http://www.rollingstone.com/reviews/movie/15087372/review/23638497/what_just_happened</url>
+         <critic>Peter Travers</critic>
+      </review>
+      <review>
+         <snippet>What Just Happened? is a doodle, but its aura of dread seems earned.</snippet>
+         <url>http://nymag.com/movies/reviews/51152/index1.html</url>
+         <critic>David Edelstein</critic>
+      </review>
+      <review>
+         <snippet>A playful industry satire made by victors. That's actually pretty cold when you think about it.</snippet>
+         <url>http://www.empireonline.com/reviews/reviewcomplete.asp?FID=135738</url>
+         <critic>Andrew Male</critic>
+      </review>
+      <review>
+         <snippet>What Just Happened? is an industry in-joke between director Barry Levinson and his friends, who just happen to be Hollywood's heavy weights.</snippet>
+         <url>http://www.filmthreat.com/index.php?section=reviews&amp;Id=10652</url>
+         <critic>Jamie Tipps</critic>
+      </review>
+      <review>
+         <snippet>The question is: What has Levinson and Linson brought to this re-make that is exciting, new and different? Not much.</snippet>
+         <url>http://www.hollywoodreporter.com/hr/film/reviews/article_display.jsp?rid=10487</url>
+         <critic>Kirk Honeycutt</critic>
+      </review>
+      <review>
+         <snippet>This is scarcely the first time prominent industry insiders have turned their lenses on their own kind to hold them up to public scrutiny, even ridicule, and in the annals of pictures about the film capital, writer-producer Art Linson and director Barry Levinson's rates somewhere in the midrange, both in quality and viciousness.</snippet>
+         <url>http://www.variety.com/review/VE1117935873.html?categoryid=31&amp;cs=1&amp;query=what+just+happened</url>
+         <critic>Todd McCarthy</critic>
+      </review>
+      <review>
+         <snippet>It remains to be seen whether audiences will have the time or the inclination, just now, to sympathize with the stresses that beset a Hollywood producer and his pals.</snippet>
+         <url>http://www.newyorker.com/arts/critics/cinema/2008/10/20/081020crci_cinema_lane?currentPage=2</url>
+         <critic>Anthony Lane</critic>
+      </review>
+      <review>
+         <snippet>This isn't a Hollywood satire, it's a sitcom. The flywheels of the plot machine keep it churning around, but it chugs off onto the back lot and doesn't hit anybody in management.</snippet>
+         <url>http://rogerebert.suntimes.com/apps/pbcs.dll/article?AID=/20081015/REVIEWS/810150283</url>
+         <critic>Roger Ebert</critic>
+      </review>
+      <review>
+         <snippet>Small, mild, easy to watch and easier to forget, this adaptation of producer Art Linson’s Hollywood memoirs has the virtue of breeziness, and of Robert De Niro unwinding, after one too many tense performances.</snippet>
+         <url>http://chicago.metromix.com/movies/movie_review/movie-review-what-just/687655/content</url>
+         <critic>Michael Phillips</critic>
+      </review>
+      <review>
+         <snippet>The film strains to achieve the comedic gait of "Wag the Dog" or the improvised, overlapping style that so defined Robert Altman's Hollywood movie, "The Player."</snippet>
+         <url>http://seattlepi.nwsource.com/movies/383643_happened17q.html</url>
+         <critic>Paula Nechak</critic>
+      </review>
+      <review>
+         <snippet>"Tropic Thunder" did a better and more comical job of mocking the absurdities of the film business. Only sporadically funny, What Just Happened? has little to add to the canon of Hollywood-focused satires.</snippet>
+         <url>http://www.usatoday.com/life/movies/reviews/2008-10-16-what-just-happened_N.htm</url>
+         <critic>Claudia Puig</critic>
+      </review>
+      <review>
+         <snippet>De Niro carries this with the sighing, shambling-bear persona that's defined him in middle age. If you're looking for the sort of edge he had in the 70s, you'll have to settle for Catherine Keener doing her castrating-bitch routine as an icy studio chief.</snippet>
+         <url>http://onfilm.chicagoreader.com/movies/briefs/33699_WHAT_JUST_HAPPENED.html</url>
+         <critic>J.R. Jones</critic>
+      </review>
+      <review>
+         <snippet>A fairly toothless Tinseltown exposé.</snippet>
+         <url>http://www.nypost.com/seven/10172008/entertainment/movies/movied_to_tears_133919.htm</url>
+         <critic>Lou Lumenick</critic>
+      </review>
+      <review>
+         <snippet>There are cutting laughs along the way, and Keener plays the hard-nosed studio chief with an insider's acumen, but, really, "Entourage" is better than this.</snippet>
+         <url>http://www.philly.com/inquirer/columnists/steven_rea/20081030_What_Just_Happened_.html</url>
+         <critic>Steven Rea</critic>
+      </review>
+      <review>
+         <snippet>I come not to bury What Just Happened? the movie, but to praise "What Just Happened?" the book. Well, and to bury What Just Happened? the movie, which director Barry Levinson has rendered drab and humorless in the way the source material really, really isn't.</snippet>
+         <url>http://www.oregonlive.com/movies/index.ssf/2008/10/movie_review_hollywood_swingin.html</url>
+         <critic>M. E. Russell</critic>
+      </review>
+      <review>
+         <snippet>The real tragedy of What Just Happened isn't that it succumbs to predictable pseudo-satirical farce but that when it does, it loses sight of the very thing that could have made it a film worth caring about: the story of a man perpetually caught between art and business, between strength and weakness, between adoration and loneliness, between success and failure, between the movies and reality.</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A695363</url>
+         <critic>Josh Rosenblatt</critic>
+      </review>
+      <review>
+         <snippet>What Just Happened ends up feeling thoroughly pointless and more than a little dull.</snippet>
+         <url>http://www.miamiherald.com/entertainment/movies/reviews/story/747756.html</url>
+         <critic>Rene Rodriguez</critic>
+      </review>
+      <review>
+         <snippet>All of them, under the pretext of offering a behind-the-scenes peek into the inner workings of the industry, do little more than kick around a heap of tired clichés.</snippet>
+         <url>http://www.theglobeandmail.com/servlet/story/RTGAM.20081031.whappened31/BNStory/Entertainment/home</url>
+         <critic>Rick Groen</critic>
+      </review>
+      <review>
+         <snippet>More self-congratulatory than it is vicious, or even illuminating, and it dawdles when it needs to crack along at a clip.</snippet>
+         <url>http://www.salon.com/ent/movies/review/2008/10/17/what/</url>
+         <critic>Stephanie Zacharek</critic>
+      </review>
+      <review>
+         <snippet>Willis hits the right level of parody - he, too, looks like he's having fun - yet even his "egomaniacal Bruce Willis" feels less like a necessary part of this forgettable movie and more like a clip from the gossip pages.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/2008/10/16/2008-10-16_what_just_happened_shouldnt_have_happene.html</url>
+         <critic>Joe Neumaier</critic>
+      </review>
+      <review>
+         <snippet>Who, exactly, do Mr. Levinson and the screenwriter, Art Linson, expect to invest time and interest -- to say nothing of thought or feeling -- in this meandering, passive-aggressive comedy of Hollywood inconsequence?</snippet>
+         <url>http://movies.nytimes.com/2008/10/17/movies/17what.html?ref=movies</url>
+         <critic>A.O. Scott</critic>
+      </review>
+      <review>
+         <snippet>Begging for sympathy, What Just Happened? invites only schadenfreude.</snippet>
+         <url>http://www.villagevoice.com/2008-10-15/film/robert-de-niro-and-bruce-willis-star-in-what-just-happened-another-pity-the-producer-caper/</url>
+         <critic>Ella Taylor</critic>
+      </review>
+   </reviews>
+   <oscar_winning_actors_present/>
+   <num_oscar_winning_actors>1</num_oscar_winning_actors>
+   <oscar_winning_actor>sean penn</oscar_winning_actor>
+   <oscar_winning_directors_present/>
+   <num_oscar_winning_directors>1</num_oscar_winning_directors>
+   <oscar_winning_director>barry levinson</oscar_winning_director>
+   <highest_grossing_actors_present/>
+   <num_highest_grossing_actors>1</num_highest_grossing_actors>
+   <highest_grossing_actor>bruce willis</highest_grossing_actor>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Perfect Crime</name>
+   <company>Vitagraph Films</company>
+   <genres>
+      <genre>Comedy</genre>
+      <genre>Crime</genre>
+      <genre>Foreign</genre>
+   </genres>
+   <authors>
+      <author>Jorge GuerricaechevarríaÁlex de la Iglesia</author>
+   </authors>
+   <directors>
+      <director>Álex de la Iglesia</director>
+   </directors>
+   <origins>
+      <origin>SpainItaly</origin>
+   </origins>
+   <actors>
+      <actor>Guillermo Toledo</actor>
+      <actor>Mónica Cervera</actor>
+      <actor>Luis Varela</actor>
+      <actor>Ferno Tejero</actor>
+      <actor>Kira Miró</actor>
+      <actor>Enrique Villén</actor>
+   </actors>
+   <release_date>August 19, 2005</release_date>
+   <running_time>105</running_time>
+   <rating>Not</rating>
+   <reviews>
+      <review>
+         <snippet>De la Iglesia is a mercilessly agile talent.</snippet>
+         <url>http://www.oregonlive.com/movies/oregonian/index.ssf?/base/entertainment/112738704936470.xml&amp;coll=7</url>
+         <critic>M. E. Russell</critic>
+      </review>
+      <review>
+         <snippet>A wicked good time.</snippet>
+         <url>http://www.filmthreat.com/Reviews.asp?Id=7910</url>
+         <critic>Eric Campos</critic>
+      </review>
+      <review>
+         <snippet>It's great fun, propelled by a terrific musical score by Roque Banos that combines the hammering doom of Bernard Herrmann, the antic jollity of Nino Rota and the urgent sprints of Lalo "Mission: Impossible" Schifrin--often in the same crazy scene.</snippet>
+         <url>http://metromix.chicagotribune.com/movies/mmx-050902-movies-review-crimen,0,3244859.story?coll=mmx-movies_top_heds</url>
+         <critic>Michael Phillips</critic>
+      </review>
+      <review>
+         <snippet>Tremendously funny and entertaining.</snippet>
+         <url>http://listings.dallasobserver.com/gyrobase/Film/ShowFilm</url>
+         <critic>Luke Y. Thompson</critic>
+      </review>
+      <review>
+         <snippet>El Crimen Perfecto is a joyride that leaves you feeling drunk and dizzy and swearing that you haven't touched a drop.</snippet>
+         <url>http://www.salon.com/ent/movies/review/2005/08/26/crimen_perfecto/index.html?sid=1381901</url>
+         <critic>Stephanie Zacharek</critic>
+      </review>
+      <review>
+         <snippet>Writer-director Alex de la Iglesia's bouncy, swaggering satire of ethics-deficient, survival-of-the-fittest free enterprise, peopled by broad grotesques and hysterical caricatures, adds Chabrolian callousness to a cartoonish worldview reminiscent of Frank Tashlin or Joe Dante at their most frenzied.</snippet>
+         <url>http://www.laweekly.com/film/film_results.php?showid=3520&amp;Sumbit.x=59&amp;Sumbit.y=12</url>
+         <critic>John Patterson</critic>
+      </review>
+      <review>
+         <snippet>Perfectly delightful.</snippet>
+         <url>http://www.calendarlive.com/movies/reviews/cl-et-perfecto26aug26,0,1961663.story</url>
+         <critic>Kevin Thomas</critic>
+      </review>
+      <review>
+         <snippet>With his caustic humor, director de la Iglesia is being billed as "the next Almodovar."</snippet>
+         <url>http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2005/09/09/DDGM5EK0OI1.DTL&amp;type=movies</url>
+         <critic>Walter Addiego</critic>
+      </review>
+      <review>
+         <snippet>If anyone is capable of pulling off a deviled screwball with cheeky panache, it's de la Iglesia, who's one of the world's great nutty directors yet to find the American following he so richly deserves.</snippet>
+         <url>http://www.boston.com/movies/display?display=movie&amp;id=8109</url>
+         <critic>Wesley Morris</critic>
+      </review>
+      <review>
+         <snippet>Fits nicely among the contemporary comedies that teeter at the brink of delivering messages of one sort or another, but are in fact, nothing more than lots of fun. Which is no small achievement.</snippet>
+         <url/>
+         <critic>Jim Fusilli</critic>
+      </review>
+      <review>
+         <snippet>A seamless mix of satire and suspense, with inspired performances by Toledo and Monica Cervera.</snippet>
+         <url>http://spacefinder.chicagoreader.com/movies/briefs/28458_CRIMEN_PERFECTO_PERFECT_CRIME.html</url>
+         <critic>J.R. Jones</critic>
+      </review>
+      <review>
+         <snippet>Mr. Toledo's performance as the shallow and cowardly, yet strangely sympathetic Rafael is a wonder of comic timing, while Ms. Cervera is unforgettable as Lourdes, the ugly duckling who becomes not a swan, but a monster.</snippet>
+         <url>http://movies2.nytimes.com/2005/08/19/movies/19crim.html</url>
+         <critic>Lawrence Van Gelder</critic>
+      </review>
+      <review>
+         <snippet>As it progresses from black comedy to something approaching surreal horror, El Crimen Perfecto swells into a nightmare reminiscent of Griffin Dunne's journey through Soho hell in "After Hours."</snippet>
+         <url>http://avclub.com/content/node/40145</url>
+         <critic>Scott Tobias</critic>
+      </review>
+      <review>
+         <snippet>Far from perfect, but it only commits minor infractions of inconsistency and zeal for every plot twist.</snippet>
+         <url>http://seattlepi.nwsource.com/movies/241849_crimen23q.html</url>
+         <critic>Gianni Truzzi</critic>
+      </review>
+      <review>
+         <snippet>Hitchcock and Almodóvar this film isn't, but it's a worthwhile and fairly amusing effort.</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A288203</url>
+         <critic>Marjorie Baumgarten</critic>
+      </review>
+      <review>
+         <snippet>Fast, frantic and furious, but it is not steadily funny. While not boring, it is too light to be taken seriously.</snippet>
+         <url>http://ae.miami.com/entertainment/ui/miami/movie.html?id=410680&amp;reviewId=19042</url>
+         <critic>Marta Barber</critic>
+      </review>
+      <review>
+         <snippet>My advice is to choose the first half, where things are really funny until they aren't.</snippet>
+         <url>http://www.theglobeandmail.com/servlet/ArticleNews/TPStory/LAC/20051118/CRIME18/TPEntertainment/Film</url>
+         <critic>Rick Groen</critic>
+      </review>
+      <review>
+         <snippet>The first 60 minutes of this black comedy are brilliantly sustained, but then director and co-writer de la Iglesia loses his way.</snippet>
+         <url>http://www.washingtonpost.com/wp-dyn/content/article/2005/09/22/AR2005092200542.html</url>
+         <critic>Desson Thomson</critic>
+      </review>
+      <review>
+         <snippet>El Crimen Perfecto has energy, color, spirit and lively performances, but what it does not have are very many laughs.</snippet>
+         <url>http://www.rogerebert.com/apps/pbcs.dll/article?AID=/20050901/REVIEWS/50831002/1023</url>
+         <critic>Roger Ebert</critic>
+      </review>
+      <review>
+         <snippet>At its most ludicrously self-referential, the film achieves the perfect meta-moment when Toledo, seeking pointers on how to get away with murder, buys a copy of "Dial M for Murder" (released in Spain as Perfect Crime) and notices the title scans incorrectly as Ferpect Crime.</snippet>
+         <url>http://www.villagevoice.com/film/0533,tracking1,66895,20.html</url>
+         <critic>Jorge Morales</critic>
+      </review>
+      <review>
+         <snippet>There's not enough good material to fill the film's overlong 105 minutes. Is there an editor in the house?</snippet>
+         <url>http://www.nypost.com/movies/51397.htm</url>
+         <critic>V.A. Musetto</critic>
+      </review>
+   </reviews>
+   <summer_release>true</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

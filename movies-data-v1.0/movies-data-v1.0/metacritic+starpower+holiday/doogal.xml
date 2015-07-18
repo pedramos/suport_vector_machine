@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Doogal</name>
+   <company>The Weinstein Company LLC</company>
+   <genres>
+      <genre>Adventure</genre>
+      <genre>Animation</genre>
+      <genre>FamilyKids</genre>
+   </genres>
+   <authors>
+      <author>Paul Bassett Davies</author>
+      <author>Butch Hartman</author>
+   </authors>
+   <directors>
+      <director>Dave Borthwick</director>
+      <director>Jean-Philippe Duval</director>
+      <director>Frank Passingham</director>
+   </directors>
+   <origins>
+      <origin>FranceUKUSA</origin>
+   </origins>
+   <actors>
+      <actor>Daniel Tay</actor>
+      <actor>Chevy Chase</actor>
+      <actor>Judi Dench</actor>
+      <actor>Jimmy Fallon</actor>
+      <actor>Whoopi Goldberg</actor>
+      <actor>William H. Macy</actor>
+      <actor>Ian McKellen</actor>
+      <actor>Kevin Smith</actor>
+      <actor>Jon Stewart</actor>
+   </actors>
+   <release_date>February 24, 2006</release_date>
+   <running_time>85</running_time>
+   <rating>G</rating>
+   <reviews>
+      <review>
+         <snippet>The original English scripts certainly were peppered with sly, topical asides aimed squarely at adults. Paul Bassett Davies' updated screenplay attempts to follow suit, but what passes for topical these days is pretty much limited to industry inside jokes and constant allusions other movies. Thankfully, the animation itself is thoroughly inspired.</snippet>
+         <url>http://online.tvguide.com/movies/database/Movie-Review.asp?MI=46740</url>
+         <critic>Ken Fox</critic>
+      </review>
+      <review>
+         <snippet>The slapdash dialogue and smug vocal talent -- even the presence of the much-loved host of "The Daily Show" is wearying -- detract from the visual appeal of the most energetic sequences (like a raucous train chase) and what's left of Danot's designs.</snippet>
+         <url>http://www.theglobeandmail.com/servlet/story/LAC.20060224.DOOGAL24/TPStory/TPEntertainment/</url>
+         <critic>Jason Anderson</critic>
+      </review>
+      <review>
+         <snippet>Strictly for the small-fry set, lacking the visual style, wit or imagination necessary to entice adult viewers.</snippet>
+         <url>http://www.hollywoodreporter.com/thr/reviews/review_display.jsp?vnu_content_id=1002074876</url>
+         <critic>Frank Scheck</critic>
+      </review>
+      <review>
+         <snippet>Doogal is one of those pickup-and-redub jobs, the original version having been made by European studio Pathé based on a 1960s British children’s show, "The Magic Roundabout." And lacking even the minimal pop-cultural pizzazz of "Hoodwinked," the story, dialogue and animation here really are for-kids-only.</snippet>
+         <url>http://www.laweekly.com/film-reviews/12754/new-film-reviews/</url>
+         <critic>Mark Olsen</critic>
+      </review>
+      <review>
+         <snippet>A dreadful animated movie stuffed with bad puns and little internal logic. More dangerous than the world icing over is the danger of eyeballs rolling back into the heads of parents accompanying kids to this.</snippet>
+         <url>http://www.nydailynews.com/02-25-2006/entertainment/col/story/394408p-334407c.html</url>
+         <critic>Jami Bernard</critic>
+      </review>
+      <review>
+         <snippet>An animated clunker.</snippet>
+         <url>http://movies2.nytimes.com/2006/02/25/movies/25doog.html</url>
+         <critic>Neil Genzlinger</critic>
+      </review>
+      <review>
+         <snippet>Charm-free, incoherent, and heartlessly sentimental, this woodenly animated co-production by American, British, and French companies offers boredom and irritation for parents, needlessly scary images for tots, and, for the pubescent boys who apparently run mass culture, a flatulent blue moose. It's ugly to look at, too.</snippet>
+         <url>http://www.boston.com/ae/movies/articles/2006/02/25/incoherent_doogal_isnt_even_kid_stuff/</url>
+         <critic>Louise Kennedy</critic>
+      </review>
+      <review>
+         <snippet>The polite word for all this is "repurposing," a euphemism for "hauling someone else's garbage."</snippet>
+         <url>http://metromix.chicagotribune.com/movies/mmx-060224-movies-review-doogal,0,6985002.story?coll=mmx-movies_top_heds</url>
+         <critic>Michael Phillips</critic>
+      </review>
+      <review>
+         <snippet>It's a movie that scrounges so desperately for laughs, it features both a flatulent moose and a flatulent train.</snippet>
+         <url>http://sfgate.com/cgi-bin/article.cgi?f=/c/a/2006/02/27/DDG56HDTEO1.DTL&amp;type=movies</url>
+         <critic>Peter Hartlaub</critic>
+      </review>
+      <review>
+         <snippet>William H. Macy lends a little class as a snail, but Smith nails it in the closing-credit outtakes: "Don't expect Robin Williams-caliber work."</snippet>
+         <url>http://www.nypost.com/movies/60341.htm</url>
+         <critic>Lou Lumenick</critic>
+      </review>
+      <review>
+         <snippet>The results are flat-out tedious.</snippet>
+         <url>http://onfilm.chicagoreader.com/movies/briefs/29341_DOOGAL.html</url>
+         <critic>Andrea Gronvall</critic>
+      </review>
+      <review>
+         <snippet>It'd take more than potentially lethal amounts of alcohol to make this derivative trash endurable.</snippet>
+         <url>http://www.avclub.com/content/node/45839</url>
+         <critic>Nathan Rabin</critic>
+      </review>
+      <review>
+         <snippet>A wretched experience from start to finish.</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A341214</url>
+         <critic>Steve Davis</critic>
+      </review>
+      <review>
+         <snippet>An animated movie designed with very young children in mind. And very young children should be very angry about that. Where is it written that 4-year-olds don't deserve a good story, decent characters, and a modicum of coherence?</snippet>
+         <url>http://www.ew.com/ew/article/review/movie/0,6115,1168922_1_0_,00.html</url>
+         <critic>Scott Brown</critic>
+      </review>
+   </reviews>
+   <highest_grossing_actors_present/>
+   <num_highest_grossing_actors>1</num_highest_grossing_actors>
+   <highest_grossing_actor>ian mckellen</highest_grossing_actor>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

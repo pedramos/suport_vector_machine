@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Tim Burton&amp;#039;s Corpse Bride</name>
+   <company>Warner Bros.</company>
+   <genres>
+      <genre>Animation</genre>
+      <genre>Comedy</genre>
+      <genre>Fantasy</genre>
+   </genres>
+   <authors>
+      <author>John August</author>
+      <author>Pamela Pettler</author>
+      <author>Caroline Thompson</author>
+   </authors>
+   <directors>
+      <director>Tim Burton</director>
+      <director>Mike Johnson</director>
+   </directors>
+   <origins>
+      <origin>UK</origin>
+   </origins>
+   <actors>
+      <actor>Johnny Depp</actor>
+      <actor>Helena Bonham Carter</actor>
+      <actor>Emily Watson</actor>
+      <actor>Tracey Ullman</actor>
+      <actor>Paul Whitehouse</actor>
+      <actor>Joanna Lumley</actor>
+      <actor>Albert Finney</actor>
+      <actor>Christopher Lee</actor>
+   </actors>
+   <release_date>September 16, 2005</release_date>
+   <running_time>78</running_time>
+   <rating>PG</rating>
+   <reviews>
+      <review>
+         <snippet>A wondrous flight of fancy, a stop-motion-animated treat brimming with imaginative characters, evocative sets, sly humor, inspired songs and a genuine whimsy that seldom finds its way into today's movies.</snippet>
+         <url>http://www.hollywoodreporter.com/thr/reviews/review_display.jsp?vnu_content_id=1001056380</url>
+         <critic>Kirk Honeycutt</critic>
+      </review>
+      <review>
+         <snippet>But the real marvel is that beneath the ghoulish in-jokes and horror-geek allusions, there's a core of the same bittersweet truth that makes the best fairy tales resonate from one generation to the next.</snippet>
+         <url>http://online.tvguide.com/movies/database/ShowMovie.asp?MI=46384</url>
+         <critic>Maitland McDonagh</critic>
+      </review>
+      <review>
+         <snippet>A lush, modern valentine to old-fashioned sentiment, and to old-fashioned moviemaking, too.</snippet>
+         <url>http://www.salon.com/ent/movies/review/2005/09/16/corpse_bride/</url>
+         <critic>Stephanie Zacharek</critic>
+      </review>
+      <review>
+         <snippet>One more good thing is that the movie doesn't overstay its welcome. At 76-minutes, it's wisely calculated to give us as much of its ghoulish whimsy as we can take in one sitting, and not a second more.</snippet>
+         <url>http://seattlepi.nwsource.com/movies/241835_corpse23q.html</url>
+         <critic>William Arnold</critic>
+      </review>
+      <review>
+         <snippet>Like all Burton's best work, it takes place in a distorted, vividly colored, meticulously crafted world where whimsy and gleeful ghoulishness mix freely.</snippet>
+         <url>http://avclub.com/content/node/40742</url>
+         <critic>Tasha Robinson</critic>
+      </review>
+      <review>
+         <snippet>The movie is so Burtonesque that it verges on self-parody--but it's fun and stunningly beautiful anyway.</snippet>
+         <url>http://www.slate.com/id/2126429/?nav=fo</url>
+         <critic>David Edelstein</critic>
+      </review>
+      <review>
+         <snippet>Not just great fun but high art.</snippet>
+         <url>http://dallasobserver.com/Issues/2005-09-22/film/film.html</url>
+         <critic>Bill Gallo</critic>
+      </review>
+      <review>
+         <snippet>This stop-action animated feature is downright sweet and tender, as well as all the other things we've come to expect from him -- funny, bizarre, graphically stunning and blithely necrophilic.</snippet>
+         <url/>
+         <critic>Joe Morgenstern</critic>
+      </review>
+      <review>
+         <snippet>An endearingly schizoid Frankenstein of a movie, by turns relentlessly high-spirited and darkly poignant.</snippet>
+         <url>http://www.variety.com/review/VE1117928081?categoryid=31&amp;cs=1</url>
+         <critic>Justin Chang</critic>
+      </review>
+      <review>
+         <snippet>Corpse Bride never skimps on the sass (as a good folktale shouldn't). And the variety of its cadaverous style is never less than inspired; never has the human skull's natural grin been redeployed so exhaustively for yuks.</snippet>
+         <url>http://www.villagevoice.com/film/0537,atkinson1,67747,20.html</url>
+         <critic>Michael Atkinson</critic>
+      </review>
+      <review>
+         <snippet>It's warped and wonderfully effervescent. Ditto the songs by Danny Elfman, who sings the role of Bonejangles, the frontman for a skeleton jazz band at a swinging underworld club. Best of all is the love story.</snippet>
+         <url>http://www.rollingstone.com/reviews/movie/_/id/6823663?pageid=rs.ReviewsMovieArchive&amp;pageregion=mainRegion</url>
+         <critic>Peter Travers</critic>
+      </review>
+      <review>
+         <snippet>Ghoulishness and innocence walk hand-in-hand in Tim Burton's Corpse Bride, a movie that digs into Hollywood's past to resurrect the antique art of stop-motion animation and create a fabulous bauble of a movie.</snippet>
+         <url>http://www.theglobeandmail.com/servlet/ArticleNews/TPStory/LAC/20050916/CORPSE16/TPEntertainment/Film</url>
+         <critic>Liam Lacey</critic>
+      </review>
+      <review>
+         <snippet>Features the season's most tragic heroine along with some of the liveliest dead people ever seen on film.</snippet>
+         <url>http://www.usatoday.com/life/movies/reviews/2005-09-15-corpse-bride_x.htm</url>
+         <critic>Claudia Puig</critic>
+      </review>
+      <review>
+         <snippet>The story itself is a smooth little gem.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/moviereviews/story/346949p-295875c.html</url>
+         <critic>Jack Mathews</critic>
+      </review>
+      <review>
+         <snippet>An instant classic.</snippet>
+         <url>http://www.nypost.com/movies/52744.htm</url>
+         <critic>Lou Lumenick</critic>
+      </review>
+      <review>
+         <snippet>Will be hailed for its macabre imagination and inventive farce. But it also elegantly renders an archetypal teenage tale.</snippet>
+         <url>http://www.baltimoresun.com/entertainment/movies/bal-to.corpse23sep23,1,4379726.story?coll=bal-artslife-movies</url>
+         <critic>Michael Sragow</critic>
+      </review>
+      <review>
+         <snippet>Burton, who directed the film with animator Mike Johnson, has rarely been in brisker, friskier form.</snippet>
+         <url>http://www.boston.com/movies/display?display=movie&amp;id=7231</url>
+         <critic>Wesley Morris</critic>
+      </review>
+      <review>
+         <snippet>If "Nightmare" was a jazzy pop number, "Bride" is a waltz--an elegant, deadly funny bit of macabre matrimony.</snippet>
+         <url>http://metromix.chicagotribune.com/movies/mmx-050923-movies-review-corpse,0,2912595.story?coll=mmx-movies_top_heds</url>
+         <critic>Robert K. Elder</critic>
+      </review>
+      <review>
+         <snippet>Corpse Bride had me at the maggot.</snippet>
+         <url>http://ae.charlotte.com/entertainment/ui/charlotte/movie.html?id=420099&amp;reviewId=null&amp;startDate=NEXT7</url>
+         <critic>Lawrence Toppman</critic>
+      </review>
+      <review>
+         <snippet>Easily the best stop-motion animated necrophiliac musical romantic comedy of all time. It is also just simply, wonderful: a morbid, merry tale of true love that dazzles the eyes and delights the soul.</snippet>
+         <url>http://ae.philly.com/entertainment/ui/philly/movie.html?id=420099&amp;reviewId=19081</url>
+         <critic>Steven Rea</critic>
+      </review>
+      <review>
+         <snippet>Such a treat for the eyes, ears and funny bone that you feel cheated that it clocks in at less than an hour-and-a-quarter.</snippet>
+         <url>http://www.oregonlive.com/movies/oregonian/index.ssf?/base/entertainment/1127214294239650.xml&amp;coll=7</url>
+         <critic>Shawn Levy</critic>
+      </review>
+      <review>
+         <snippet>A precious thing, if likely to please refined aesthetes and odd children rather than win over Pixar-sized crowds.</snippet>
+         <url>http://www.empireonline.co.uk/incinemas/ReviewComplete.asp?FID=10614</url>
+         <critic>Staff (Not credited)</critic>
+      </review>
+      <review>
+         <snippet>This may be light family entertainment, but it's also a pleasingly perverse celebration of Victorian morbidity.</snippet>
+         <url>http://spacefinder.chicagoreader.com/movies/briefs/28578_CORPSE_BRIDE.html</url>
+         <critic>J.R. Jones</critic>
+      </review>
+      <review>
+         <snippet>A visual triumph, and also a work of surprising warmth. No small accomplishment for a bunch of cadavers.</snippet>
+         <url>http://www.filmthreat.com/Reviews.asp?Id=7984</url>
+         <critic>Pete Vonder Haar</critic>
+      </review>
+      <review>
+         <snippet>There is something heartening about Mr. Burton's love for bones and rot here, if only because it suggests, despite some recent evidence, that he is not yet ready to abandon his own dark kingdom.</snippet>
+         <url>http://www.nytimes.com/2005/09/16/movies/16brid.html</url>
+         <critic>Manohla Dargis</critic>
+      </review>
+      <review>
+         <snippet>The dead have more fun than the living, again, in Tim Burton’s new stop-motion animated feature, a gift to gothlings everywhere and as exquisitely crafted as one of Federico’s post-mortem still lifes on "Six Feet Under," and just as melodramatically melancholic.</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A291994</url>
+         <critic>Marc Savlov</critic>
+      </review>
+      <review>
+         <snippet>Not the macabre horror story the title suggests, but a sweet and visually lovely tale of love lost.</snippet>
+         <url>http://www.rogerebert.com/apps/pbcs.dll/article?AID=/20050922/REVIEWS/50921002/1023</url>
+         <critic>Roger Ebert</critic>
+      </review>
+      <review>
+         <snippet>Deliriously original.</snippet>
+         <url>http://sfgate.com/cgi-bin/article.cgi?f=/c/a/2005/09/23/DDGMQERO6F1.DTL&amp;type=movies</url>
+         <critic>Ruthe Stein</critic>
+      </review>
+      <review>
+         <snippet>The Poe-esque story, the wonderfully twisted physical geometry of the characters, and the director’s signature sense of humor, combine to make Corpse Bride a fun movie, and one that breathes life not only into stop motion, but into animation as a whole.</snippet>
+         <url>http://www.premiere.com/article.asp?section_id=2&amp;article_id=2293</url>
+         <critic>Ryan Devlin</critic>
+      </review>
+      <review>
+         <snippet>As animated films go, this is easily the best of a weak year.</snippet>
+         <url>http://movie-reviews.colossus.net/movies/c/corpse_bride.html</url>
+         <critic>James Berardinelli</critic>
+      </review>
+      <review>
+         <snippet>As an achievement in macabre visual wizardry, Tim Burton's Corpse Bride has to be reckoned some sort of marvel.</snippet>
+         <url>http://www.ew.com/ew/article/review/movie/0,6115,1104903_1_0_,00.html</url>
+         <critic>Owen Gleiberman</critic>
+      </review>
+      <review>
+         <snippet>For all its charm, we can't quite figure out for whom the film is intended: Talking maggots and decaying bodies do not a kiddie movie make.</snippet>
+         <url>http://www.washingtonpost.com/wp-dyn/content/article/2005/09/22/AR2005092202050.html</url>
+         <critic>Teresa Wiltz</critic>
+      </review>
+      <review>
+         <snippet>Populated by all kinds of grinning skeletons and decomposing zombies, but in Burton's universe, they aren't the slightest bit threatening. It's the drab, flesh-and-blood living you have to worry about.</snippet>
+         <url>http://ae.miami.com/entertainment/ui/miami/movie.html?id=420099&amp;reviewId=19092</url>
+         <critic>Rene Rodriguez</critic>
+      </review>
+      <review>
+         <snippet>There is much clattering and clanking plus a couple of songs; some of the gothic-inspired, neo-Victorian visuals are quite arresting; and the corpse bride herself is, dare one say, surprisingly hot. But the whole thing just isn’t much fun.</snippet>
+         <url>http://www.laweekly.com/film/film_results.php?showid=3546&amp;Sumbit.x=41&amp;Sumbit.y=16</url>
+         <critic>Mark Olsen</critic>
+      </review>
+      <review>
+         <snippet>Corpse Bride has more warmth and appeal than its title would indicate, but it is finally more grotesque than good-humored. And, even at 75 minutes, it feels longer than its content can comfortably support.</snippet>
+         <url>http://www.calendarlive.com/movies/turan/cl-et-corpse16sep16,0,7169904.story</url>
+         <critic>Kenneth Turan</critic>
+      </review>
+   </reviews>
+   <highest_grossing_actors_present/>
+   <num_highest_grossing_actors>1</num_highest_grossing_actors>
+   <highest_grossing_actor>johnny depp</highest_grossing_actor>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

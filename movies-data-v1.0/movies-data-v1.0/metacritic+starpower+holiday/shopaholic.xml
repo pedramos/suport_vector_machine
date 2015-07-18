@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Confessions of a Shopaholic</name>
+   <company>Touchstone Pictures (Disney)</company>
+   <genres>
+      <genre>Comedy</genre>
+      <genre>FamilyKids</genre>
+   </genres>
+   <authors>
+      <author>Tracey Jackson</author>
+      <author>Tim Firth</author>
+      <author>Kayla Alpert</author>
+   </authors>
+   <directors>
+      <director>P.J. Hogan</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Isla Fisher</actor>
+      <actor>Hugh Dancy</actor>
+      <actor>Joan Cusack</actor>
+      <actor>John Goodman</actor>
+      <actor>John Lithgow</actor>
+      <actor>Kristin Scott Thomas</actor>
+      <actor>Leslie Bibb</actor>
+      <actor>Fred Armisen</actor>
+   </actors>
+   <release_date>February 6, 2009</release_date>
+   <running_time>minutes,</running_time>
+   <rating>PG</rating>
+   <reviews>
+      <review>
+         <snippet>Breathless and petite yet powerfully in-your-face, Fisher combines dizzy femininity and no-nonsense verve in the manner of a classic screwball heroine. She's like Carole Lombard reborn as a tiny angel-faced dynamo.</snippet>
+         <url>http://www.ew.com/ew/article/0,,20258447,00.html</url>
+         <critic>Owen Gleiberman</critic>
+      </review>
+      <review>
+         <snippet>If cheesy, feel-good riches-to-reason romantic comedies are yours, this is your fix. It's a harmless indulgence that, like shopping, may make you feel good for the short term, but later you'll need more.</snippet>
+         <url>http://seattlepi.nwsource.com/movies/399830_shopaholic13q.html</url>
+         <critic>Athima Chansanchai</critic>
+      </review>
+      <review>
+         <snippet>It glories in its silliness, and the actors are permitted the sort of goofy acting that distinguished screwball comedy. We get double takes, slow burns, pratfalls, exploding clothes wardrobes, dropped trays, tear-away dresses, missing maids of honor, overnight fame, public disgrace and not, amazingly, a single obnoxious cat or dog.</snippet>
+         <url>http://rogerebert.suntimes.com/apps/pbcs.dll/article?AID=/20090211/REVIEWS/902119993</url>
+         <critic>Roger Ebert</critic>
+      </review>
+      <review>
+         <snippet>This movie has no light to shed on the matter. It is its own contradiction: a film about confessions in which nothing much is confessed.</snippet>
+         <url>http://www.boston.com/ae/movies/articles/2009/02/13/shop_till_you_drop/</url>
+         <critic>Wesley Morris</critic>
+      </review>
+      <review>
+         <snippet>As unrealistic as the talking mannequins, but we’re pleasantly surprised by how good this movie makes us feel.</snippet>
+         <url>http://www.premiere.com/Review/Movies/Confessions-of-a-Shopaholic</url>
+         <critic>Krista Soriano</critic>
+      </review>
+      <review>
+         <snippet>The degree to which Shopaholic actually works is a testament to the looks, charm, and comedic chops of Fisher, who stole "Wedding Crashers" and has a gift for slapstick that places her somewhere between Téa Leoni and Lucille Ball in the pantheon of foxy redheaded physical comediennes.</snippet>
+         <url>http://www.avclub.com/articles/confession-of-a-shopaholic,23770/</url>
+         <critic>Nathan Rabin</critic>
+      </review>
+      <review>
+         <snippet>Rebecca may owe everybody for everything, but Fisher definitely owns the movie. She is the only one outside of Ritter who gives a bona fide performance.</snippet>
+         <url>http://www.washingtonpost.com/gog/movies/confessions_of_a_shopaholic,1155232.html</url>
+         <critic>John Anderson</critic>
+      </review>
+      <review>
+         <snippet>As a young lady who can't say no to a beautiful dress or accessory, Isla Fisher is not to be denied, and her irrepressible comic personality overcomes a number of the film's impediments.</snippet>
+         <url>http://www.variety.com/review/VE1117939667.html?categoryid=31&amp;cs=1</url>
+         <critic>Todd McCarthy</critic>
+      </review>
+      <review>
+         <snippet>The problem nipping at the designer heels of Confessions is not the state of the economy but, rather, the film's predictability.</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A738198</url>
+         <critic>Marjorie Baumgarten</critic>
+      </review>
+      <review>
+         <snippet>The film's recycled nature is most evident in director P.J. Hogan's attempt to marry the farcical hijinks of an "I Love Lucy" episode to an addiction scenario that would not be out of place in "The Lost Weekend."</snippet>
+         <url>http://www.philly.com/inquirer/columnists/carrie_rickey/20090213_Great_slapstick_in_a__Prada__knockoff.html</url>
+         <critic>Carrie Rickey</critic>
+      </review>
+      <review>
+         <snippet>Confessions is no more than a painless time-waster. But the beguiling Fisher is well worth the investment.</snippet>
+         <url>http://www.rollingstone.com/reviews/movie/20727345/review/26065412/confessions_of_a_shopaholic</url>
+         <critic>Peter Travers</critic>
+      </review>
+      <review>
+         <snippet>Though you might wonder whether there's room in a movie marketplace that already feels overstocked with romantic comedies, Confessions of a Shopaholic arrives fashionably late and dressed to kill.</snippet>
+         <url>http://www.latimes.com/entertainment/news/reviews/la-et-shopaholic13-2009feb13,0,2906762.story</url>
+         <critic>Betsy Sharkey</critic>
+      </review>
+      <review>
+         <snippet>It's not the retro attitudes in "Confessions" that bother me (at least not much). It's the lack of laughs.</snippet>
+         <url>http://www.csmonitor.com/2009/0214/p25s04-almo.html</url>
+         <critic>Peter Rainer</critic>
+      </review>
+      <review>
+         <snippet>There are some mildly amusing turns from costars like Kristin Scott Thomas, playing an icy editor, and Robert Stanton, as her frustrated debt collector.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/2009/02/12/2009-02-12_compulsive_spending_in_confessions_of_a_.html</url>
+         <critic>Elizabeth Weitzman</critic>
+      </review>
+      <review>
+         <snippet>The problem with Confessions of a Shopaholic isn't conspicuous consumption. It's ostentatious idiocy.</snippet>
+         <url>http://www.baltimoresun.com/entertainment/movies/reviews/bal-to.confessions13feb13,0,5146733.story</url>
+         <critic>Michael Sragow</critic>
+      </review>
+      <review>
+         <snippet>A thin, largely unfunny comedy that marries lazy filmmaking with bad timing.</snippet>
+         <url>http://www.chicagotribune.com/entertainment/movies/chi-0213-confessions-shopaholic-feb13,0,3679464.story</url>
+         <critic>Jessica Reaves</critic>
+      </review>
+      <review>
+         <snippet>Put this one back on the shelf, and walk away.</snippet>
+         <url>http://onfilm.chicagoreader.com/movies/briefs/34118_CONFESSIONS_OF_A_SHOPAHOLIC.html</url>
+         <critic>J.R. Jones</critic>
+      </review>
+      <review>
+         <snippet>If you spin out the unintended analogy of Confessions of a Shopaholic to the current financial crisis, the film starts to mutate from a not-that-funny comedy into a tragic allegory.</snippet>
+         <url>http://www.slate.com/id/2211154/</url>
+         <critic>Dana Stevens</critic>
+      </review>
+      <review>
+         <snippet>A loud, garish and very untimely romantic comedy.</snippet>
+         <url>http://www.salon.com/ent/movies/review/2009/02/13/confessions_shopaholic/</url>
+         <critic>Thomas Rogers</critic>
+      </review>
+      <review>
+         <snippet>The production renders totally irrelevant all hopes for a well-made movie. It's one of those ragged, pandemonious studio comedies that hammers at plot points in every contrived scene.</snippet>
+         <url>http://online.wsj.com/article/SB123448740809779879.html?mod=article-outset-box</url>
+         <critic>Joe Morgenstern</critic>
+      </review>
+      <review>
+         <snippet>The end product is surprisingly charmless -- a shrill "Devil Wears Prada"/"Bridget Jones"/"Sex and the City" knockoff that keeps threatening to fall apart at the seams.</snippet>
+         <url>http://www.hollywoodreporter.com/hr/film-reviews/film-review-confessions-of-a-shopaholic-1003940740.story</url>
+         <critic>Michael Rechtshaffen</critic>
+      </review>
+      <review>
+         <snippet>If the movie didn't pander so madly to the audience for "Sex and the City" and "Legally Blonde," it might have been a comedy touchstone instead of a cringeworthy footnote.</snippet>
+         <url>http://nymag.com/movies/reviews/54067/</url>
+         <critic>David Edelstein</critic>
+      </review>
+      <review>
+         <snippet>I think that the perfect name for the chick in a chick flick is Rebecca Bloomwood. I know that if Charles Dickens had possessed the good sense to write chick flicks, he could not have done better than Rebecca Bloomwood.</snippet>
+         <url>http://www.theglobeandmail.com/servlet/story/RTGAM.20090212.wshopaholic0213/BNStory/Entertainment/home</url>
+         <critic>Rick Groen</critic>
+      </review>
+      <review>
+         <snippet>Confessions of a Shopaholic -- a "Devil Wears Prada" for Chico's customers.</snippet>
+         <url>http://www.nypost.com/seven/02132009/entertainment/movies/unbalanced_account_154878.htm</url>
+         <critic>Kyle Smith</critic>
+      </review>
+      <review>
+         <snippet>It's a shame that "Confessions" doesn't aim higher because there is a great film to be made about the consumer bait-and-switch that has led so many Americans to live beyond their means.</snippet>
+         <url>http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2009/02/12/DDS315S35S.DTL&amp;type=movies</url>
+         <critic>Reyhan Harmanci</critic>
+      </review>
+      <review>
+         <snippet>Not only is it an unfunny movie shrilly told, it probably is the most ill-timed and appallingly insulting movie in recent memory.</snippet>
+         <url>http://www.usatoday.com/life/movies/reviews/2009-02-12-confessions-of-a-shopaholic_N.htm</url>
+         <critic>Claudia Puig</critic>
+      </review>
+      <review>
+         <snippet>Lets down both its actress and the audience.</snippet>
+         <url>http://movies.tvguide.com/detail/movie.aspx?tvobjectid=296665&amp;more=ucmoviereview</url>
+         <critic>Perry Seibert</critic>
+      </review>
+      <review>
+         <snippet>The comedy is slapstick, the colors Day Glo, the outcome inevitable.</snippet>
+         <url>http://www.miamiherald.com/entertainment/movies/reviews/story/900263.html</url>
+         <critic>Connie Ogle</critic>
+      </review>
+      <review>
+         <snippet>It has been a long time since I came as close to walking out of a movie as I did with Confessions of a Shopaholic. Not only did I find this production to be irritating, unfunny, and lacking in entertainment value, but I found its underlying slavishness to a culture of consumption to be morally repugnant.</snippet>
+         <url>http://www.reelviews.net/php_review_template.php?identifier=1478</url>
+         <critic>James Berardinelli</critic>
+      </review>
+      <review>
+         <snippet>Plays like both a supremely outmoded chick-lit adaptation and an outrageously obscene gesture as the economy continues to swallow up livelihoods, homes, and hope.</snippet>
+         <url>http://www.villagevoice.com/2009-02-11/film/bush-and-confessions-of-a-shopaholic-agree-go-shopping-wait-don-t/</url>
+         <critic>Melissa Anderson</critic>
+      </review>
+   </reviews>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

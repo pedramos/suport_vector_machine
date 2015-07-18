@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Double Dare</name>
+   <company>Balcony Releasing</company>
+   <genres>
+      <genre>Documentary</genre>
+   </genres>
+   <authors>
+      <author/>
+   </authors>
+   <directors>
+      <director>Amanda Micheli</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Jeannie Epper</actor>
+      <actor>Zoe Bell</actor>
+      <actor>Lynda Carter</actor>
+      <actor>Lucy Lawless</actor>
+      <actor>Eurlyne Epper</actor>
+      <actor>Ken Howard</actor>
+      <actor>Terry Leonard</actor>
+      <actor>Quentin Tarantino</actor>
+      <actor>Steven Spielberg</actor>
+   </actors>
+   <release_date>April 22, 2005</release_date>
+   <running_time>81</running_time>
+   <rating>Not</rating>
+   <reviews>
+      <review>
+         <snippet>Thrilling stunt footage aside, this is a film that celebrates the strength of women in the entertainment industry and these two separate stories are tied together perfectly by filmmaker Amanda Micheli.</snippet>
+         <url>http://www.filmthreat.com/Reviews.asp?Id=5744</url>
+         <critic>Eric Campos</critic>
+      </review>
+      <review>
+         <snippet>Given how well Micheli captures the personality and aspirations of two complicated professionals, it's too bad she never answers the key question: What makes one person a stuntwoman, and another a star?</snippet>
+         <url>http://www.theavclub.com/review.php?review_id=8415</url>
+         <critic>Noel Murray</critic>
+      </review>
+      <review>
+         <snippet>Fascinating, highly entertaining.</snippet>
+         <url>http://www.calendarlive.com/movies/reviews/cl-et-dare22apr22,2,7321699.story</url>
+         <critic>Kevin Crust</critic>
+      </review>
+      <review>
+         <snippet>The stuntwomen are also subject to the unbreakable law of Hollywood, that the advantage is always to the young and beautiful.</snippet>
+         <url>http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2005/04/15/DDGG0C7RVK1.DTL</url>
+         <critic>Walter Addiego</critic>
+      </review>
+      <review>
+         <snippet>Entertaining documentary about stuntwomen who do risky business for a living.</snippet>
+         <url>http://www.csmonitor.com/2005/0506/p14s02-almo.html</url>
+         <critic>David Sterritt</critic>
+      </review>
+      <review>
+         <snippet>It shows the hardship that women -- especially older women -- must endure in a male-dominated business.</snippet>
+         <url>http://www.nypost.com/movies/43479.htm</url>
+         <critic>V.A. Musetto</critic>
+      </review>
+      <review>
+         <snippet>Amanda Micheli's candid documentary introduces us to two of these real-life daredevils, and it is a genuine pleasure.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/moviereviews/story/306850p-262494c.html</url>
+         <critic>Elizabeth Weitzman</critic>
+      </review>
+      <review>
+         <snippet>Focuses on a parallel universe that moviegoers rarely consider: that of the invisible, hard-working craftspeople who put the illusion together.</snippet>
+         <url>http://www.boston.com/movies/display?display=movie&amp;id=6948</url>
+         <critic>Ty Burr</critic>
+      </review>
+      <review>
+         <snippet>It's a classic gal-pal movie, perfect for daughters, sisters, moms and the guys whose asses they kick.</snippet>
+         <url>http://www.salon.com/ent/movies/review/2005/05/12/btm/index3.html</url>
+         <critic>Andrew O&amp;#039;Hehir</critic>
+      </review>
+      <review>
+         <snippet>The more interesting woman is Epper, who comes from a highly respected family of stunt doubles and at 62 shows no signs of slowing.</snippet>
+         <url>http://spacefinder.chicagoreader.com/movies/briefs/27956_DOUBLE_DARE.html</url>
+         <critic>J.R. Jones</critic>
+      </review>
+      <review>
+         <snippet>Very entertainingly takes us into the world of stuntwomen.</snippet>
+         <url>http://www.hollywoodreporter.com/thr/search/search_display.jsp?vnu_content_id=2031022</url>
+         <critic>Kirk Honeycutt</critic>
+      </review>
+      <review>
+         <snippet>Viewers are left feeling that it's still a male-dominated profession, but that determined women like these might just effect some small change.</snippet>
+         <url>http://www.variety.com/review/VE1117922559?categoryid=31&amp;cs=1</url>
+         <critic>Lael Loewenstein</critic>
+      </review>
+      <review>
+         <snippet>Micheli's documentary finds a fresh angle via the intersecting stories of two stuntwomen.</snippet>
+         <url>http://www.villagevoice.com/film/0518,tracking1,63623,20.html</url>
+         <critic>Joshua Land</critic>
+      </review>
+      <review>
+         <snippet>Zoe is lively and an astonishing athlete, but it's Jeannie who gives this film resonance.</snippet>
+         <url>http://www.laweekly.com/film/film_results.php?showid=3363&amp;Sumbit.x=45&amp;Sumbit.y=16</url>
+         <critic>Chuck Wilson</critic>
+      </review>
+      <review>
+         <snippet>Thin but pleasantly diverting documentary</snippet>
+         <url>http://movies2.nytimes.com/2005/05/06/movies/06doub.html?adxnnl=1&amp;adxnnlx=1115352171-6/H7ZKuJFV/ejKk0vIP2dQ</url>
+         <critic>Manohla Dargis</critic>
+      </review>
+      <review>
+         <snippet>Less a history of a specialty that scarcely existed before the '70s -- men habitually donned wigs and dresses to double for women -- than a portrait of two women, one beginning her career and the other in the twilight of hers.</snippet>
+         <url>http://tvguide.com/movies/database/showmovie.asp?MI=46079</url>
+         <critic>Maitland McDonagh</critic>
+      </review>
+   </reviews>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

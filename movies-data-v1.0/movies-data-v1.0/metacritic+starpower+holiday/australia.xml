@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Australia</name>
+   <company>20th Century Fox</company>
+   <genres>
+      <genre>Adventure</genre>
+      <genre>Drama</genre>
+      <genre>War</genre>
+      <genre>Western</genre>
+   </genres>
+   <authors>
+      <author>Baz Luhrmann</author>
+      <author>Stuart Beattie</author>
+   </authors>
+   <directors>
+      <director>Baz Luhrmann</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+      <origin>Australia</origin>
+   </origins>
+   <actors>
+      <actor>Nicole Kidman</actor>
+      <actor>Hugh Jackman</actor>
+      <actor>David Wenham</actor>
+      <actor>Jack Thompson</actor>
+      <actor>Bryan Brown</actor>
+   </actors>
+   <release_date>November 14, 2008</release_date>
+   <running_time>165</running_time>
+   <rating>PG-13</rating>
+   <reviews>
+      <review>
+         <snippet>Australia goes for the absolute limit in terms of scope. And let's not be coy -- size may not matter, but it still helps.</snippet>
+         <url>http://movies.tvguide.com/australia/review/292576</url>
+         <critic>Cammila Albertson</critic>
+      </review>
+      <review>
+         <snippet>Defies all but the most cynical not to get carried away by the force of its grandiose imagery and storytelling.</snippet>
+         <url>http://www.hollywoodreporter.com/hr/film/reviews/article_display.jsp?&amp;rid=11975</url>
+         <critic>Megan Lehmann</critic>
+      </review>
+      <review>
+         <snippet>There is some elemental human desire -- lately largely denied at the cinema -- to see pretty people in handsome landscapes assuaging our need for epic romance. On that level, Australia delivers with real panache.</snippet>
+         <url>http://www.time.com/time/arts/article/0,8599,1862279,00.html</url>
+         <critic>Richard Schickel</critic>
+      </review>
+      <review>
+         <snippet>A wildly ambitious, luridly indulgent spectacle of romance, action, melodrama and historic revisionism, Australia is windy, overblown, utterly preposterous and insanely entertaining.</snippet>
+         <url>http://www.washingtonpost.com/gog/movies/australia,1147078.html</url>
+         <critic>Ann Hornaday</critic>
+      </review>
+      <review>
+         <snippet>Australia is a shameless—and shamelessly entertaining--pastiche. It works because Luhrmann, a true believer in movie-movie magic, stamps it all with the force of his own extravagant, generous personality.</snippet>
+         <url>http://www.newsweek.com/id/171193</url>
+         <critic>David Ansen</critic>
+      </review>
+      <review>
+         <snippet>It is exuberantly old-fashioned, and I mean that as a compliment.</snippet>
+         <url>http://rogerebert.suntimes.com/apps/pbcs.dll/article?AID=/20081125/REVIEWS/811259991</url>
+         <critic>Roger Ebert</critic>
+      </review>
+      <review>
+         <snippet>Deliberately anachronistic in its heightened style of romance, villainy and destiny, the epic lays an Aussie accent on colorful motifs drawn from Hollywood Westerns, war films, love stories and socially conscious dramas. Some of it plays, some doesn't, and it is long.</snippet>
+         <url>http://www.variety.com/review/VE1117939080.html?categoryid=31&amp;cs=1</url>
+         <critic>Todd McCarthy</critic>
+      </review>
+      <review>
+         <snippet>[Luhrmann's] movie is all over the map. But what a gorgeous map it is. The too-muchness, like the too-longness, befits the Northern Territory's vastness. In its heart of hearts Australia is an old-fashioned Western -- a Northern, if you will -- and all the more enjoyable for it.</snippet>
+         <url>http://online.wsj.com/article/SB122781826191262117.html</url>
+         <critic>Joe Morgenstern</critic>
+      </review>
+      <review>
+         <snippet>With measured visual flash, Luhrmann highlights the delightful presence of his two stars and realizes an unlikely feelgood film, in spite of its grave matters.</snippet>
+         <url>http://www.filmthreat.com/index.php?section=reviews&amp;Id=11383</url>
+         <critic>Matthew Sorrento</critic>
+      </review>
+      <review>
+         <snippet>If you are willing to take the plunge and view things through Luhrmann's prism, "Australia" does deliver the classic dramatic and romantic satisfactions its ambitious advertising campaign promises.</snippet>
+         <url>http://www.latimes.com/entertainment/news/reviews/la-et-australia26-2008nov26,0,7724277.story</url>
+         <critic>Kenneth Turan</critic>
+      </review>
+      <review>
+         <snippet>A testament to movie love at its most devout, cinematic spectacle at its most extreme, and kitsch as an act of aesthetic communion.</snippet>
+         <url>http://movies.nytimes.com/2008/11/26/movies/26aust.html?ref=movies</url>
+         <critic>Manohla Dargis</critic>
+      </review>
+      <review>
+         <snippet>Jackman, who stepped in after a cranky Russell Crowe walked away in a salary dispute, strikes just the right chord as a scruffy romantic hero.</snippet>
+         <url>http://seattlepi.nwsource.com/movies/389364_australia26q.html</url>
+         <critic>William Arnold</critic>
+      </review>
+      <review>
+         <snippet>It's an epic pretender, not an epic contender.</snippet>
+         <url>http://www.reelviews.net/php_review_template.php?identifier=1404</url>
+         <critic>James Berardinelli</critic>
+      </review>
+      <review>
+         <snippet>Luhrmann is working a tricky game: He's trying to come to terms with modern Australia's racist legacy while telling a ripping yarn while also making fun of ripping yarns - but not too much.</snippet>
+         <url>http://www.boston.com/movies/display?display=movie&amp;id=11577</url>
+         <critic>Ty Burr</critic>
+      </review>
+      <review>
+         <snippet>Baz Luhrmann's Australia has it all - unfortunately. With four major story lines and more endings than "The Return of the King," this ambitious 165-minute epic is the movie equivalent of an all-you-can-eat buffet.</snippet>
+         <url>http://www.nypost.com/seven/11262008/entertainment/movies/glossy_aussie_140892.htm</url>
+         <critic>Lou Lumenick</critic>
+      </review>
+      <review>
+         <snippet>The result is mostly a woodenly derivative melding of '40s maternal melodramas, oaters, and World War II actioners.</snippet>
+         <url>http://www.villagevoice.com/2008-11-26/film/welcome-to-baz-luhrmann-s-australia/</url>
+         <critic>Ella Taylor</critic>
+      </review>
+      <review>
+         <snippet>Often beautiful but wildly inconsistent, Australia is none more Baz Luhrmann, which perhaps says it all. Worth a look on the big screen, though.</snippet>
+         <url>http://www.empireonline.com/reviews/review.asp?FID=134817</url>
+         <critic>Chris Hewitt</critic>
+      </review>
+      <review>
+         <snippet>Yes, you can enjoy bits and pieces along the way, more than a few, even. At the end of this journey, though, you feel more exhaustion and relief than catharsis or satisfaction.</snippet>
+         <url>http://blog.oregonlive.com/madaboutmovies/2008/11/review_australia_big_pretty_ar.html</url>
+         <critic>Shawn Levy</critic>
+      </review>
+      <review>
+         <snippet>Luhrmann's squirrelly, five-exclamation-point stylings mercifully subside after the first 20 minutes or so, leaving behind a palatable big-screen confection.</snippet>
+         <url>http://onfilm.chicagoreader.com/movies/briefs/33894_AUSTRALIA_LUHRMANN.html</url>
+         <critic>J.R. Jones</critic>
+      </review>
+      <review>
+         <snippet>You know something's amiss when you're in the middle of a picture that runs under three hours and you're tempted to whip out your cellphone and send friends a text message that reads "Send food."</snippet>
+         <url>http://www.miamiherald.com/entertainment/movies/reviews/story/786990.html</url>
+         <critic>Rene Rodriguez</critic>
+      </review>
+      <review>
+         <snippet>Epic piffle.</snippet>
+         <url>http://www.philly.com/inquirer/columnists/steven_rea/20081126_Down_blunder.html</url>
+         <critic>Steven Rea</critic>
+      </review>
+      <review>
+         <snippet>I left Australia feeling drained and weakened, as if I'd suffered a gradual poisoning at the hands of a mad scientist.</snippet>
+         <url>http://www.salon.com/ent/movies/review/2008/11/26/australia/</url>
+         <critic>Stephanie Zacharek</critic>
+      </review>
+      <review>
+         <snippet>Like the last two "Pirates" movies, Australia is ambitious more than awe-inspiring, grandiose rather than grand, full of spectacle but not spectacular.</snippet>
+         <url>http://www.usatoday.com/life/movies/reviews/2008-11-25-australia_N.htm</url>
+         <critic>Claudia Puig</critic>
+      </review>
+      <review>
+         <snippet>It almost goes without saying that the film looks gorgeous, but the filmmaking behind it feels unsure how to work on this grand a scale. Australia is big. But it never fills the screen.</snippet>
+         <url>http://www.avclub.com/content/cinema/australia</url>
+         <critic>Keith Phipps</critic>
+      </review>
+      <review>
+         <snippet>Jackman has musical-theater chops and knows how to sell material this ham-handed; Kidman isn't quite as deft. I've always admired her gumption in working so hard to overcome a certain temperamental tightness--but that tightness has now spread to her skin.</snippet>
+         <url>http://nymag.com/movies/reviews/52432/index1.html</url>
+         <critic>David Edelstein</critic>
+      </review>
+      <review>
+         <snippet>Really should have been made 60 years ago. It would have been timelier, with its tale of life in the remote north of that country during World War II. The juicy overacting, stereotypes and dramatic exaggerations would have been more in keeping with the style of the Golden Age of Hollywood.</snippet>
+         <url>http://events.charlotteobserver.com/reviews/show/35259-review-australia</url>
+         <critic>Lawrence Toppman</critic>
+      </review>
+      <review>
+         <snippet>At times the film appears on the verge of morphing into a singing-cowboy musical.</snippet>
+         <url>http://www.chicagotribune.com/entertainment/movies/chi-australia-review-1126nov28,0,5082241.story</url>
+         <critic>Michael Phillips</critic>
+      </review>
+      <review>
+         <snippet>Luhrmann wants it all – comedy and tragedy, bombast and wet-eyed sentimentality. When it works, his kid-in-a-candy-store giddiness is infectious. When it doesn't – when he goes from silly to turgid in 60 seconds flat – he punctures Australia's proportions down from epic to simply overwrought.</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A703718</url>
+         <critic>Kimberley Jones</critic>
+      </review>
+      <review>
+         <snippet>If looks were everything, director Baz Luhrmann's epic salute to his native land would be the movie of the year. But, crikey, a padded script bloated with subplots and shameless sentimentality can wear you down.</snippet>
+         <url>http://www.rollingstone.com/reviews/movie/18724346/review/24613157/australia</url>
+         <critic>Peter Travers</critic>
+      </review>
+      <review>
+         <snippet>All in all, Australia is so damnably eager to please that it feels like being pinned down by a giant overfriendly dingo and having your face licked for about three hours: theoretically endearing but, honestly, kind of gross.</snippet>
+         <url>http://www.theglobeandmail.com/servlet/story/RTGAM.20081125.waustralia1126/BNStory/Entertainment/home</url>
+         <critic>Liam Lacey</critic>
+      </review>
+      <review>
+         <snippet>Long before the second hour of Australia (which feels like the fifth), it's clear that Luhrmann hasn't found a satisfactory way to make a movie nearly as ballsy -- or coherent -- as he wants his creation to be.</snippet>
+         <url>http://www.ew.com/ew/article/0,,20242601,00.html</url>
+         <critic>Lisa Schwarzbaum</critic>
+      </review>
+      <review>
+         <snippet>The film also seems to end at least four times, which is three times too many. Better yet, it never should have started.</snippet>
+         <url>http://www.csmonitor.com/2008/1128/p25s01-almo.html</url>
+         <critic>Peter Rainer</critic>
+      </review>
+      <review>
+         <snippet>To marvel at the purity of Australia's corniness isn't to imply that the movie functions as so-bad-it's-good camp, or guilty pleasure, or anything else involving aesthetic enjoyment.</snippet>
+         <url>http://www.slate.com/id/2205436/</url>
+         <critic>Dana Stevens</critic>
+      </review>
+      <review>
+         <snippet>With Australia, Luhrmann obviously intends to stage a grand romance against the epic backdrop of World War II. But what we get instead is an unwieldy mess that needed another six months in the editing room.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/2008/11/25/2008-11-25_baz_luhrmanns_australia_an_unwieldy_mess.html</url>
+         <critic>Elizabeth Weitzman</critic>
+      </review>
+      <review>
+         <snippet>Luhrmann steals good ideas, fair ideas and terrible ideas - anything that once moved him when he was a little boy. He's turned Australia into a more-than-you-can-eat buffet of colorful kitsch.</snippet>
+         <url>http://www.baltimoresun.com/entertainment/movies/reviews/bal-to.australia26nov26,0,1416948.story</url>
+         <critic>Michael Sragow</critic>
+      </review>
+      <review>
+         <snippet>A self-impressed epic with grandiose vistas, flat characters, and a subplot about Native Australians.</snippet>
+         <url>http://www.premiere.com/moviereviews/4843/australia.html</url>
+         <critic>Jenni Miller</critic>
+      </review>
+      <review>
+         <snippet>It's a shame that Fox entrusted Luhrmann with this project, because audiences were probably ready for a big-boned realistic movie spectacle.</snippet>
+         <url>http://www.newyorker.com/arts/critics/cinema/2008/12/08/081208crci_cinema_denby</url>
+         <critic>David Denby</critic>
+      </review>
+      <review>
+         <snippet>Australia shows all the signs of having been a labor of love for director Baz Luhrmann. One problem: It's his love, and the audience's labor.</snippet>
+         <url>http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2008/11/26/DDB714B4GG.DTL</url>
+         <critic>Mick LaSalle</critic>
+      </review>
+   </reviews>
+   <oscar_winning_actors_present/>
+   <num_oscar_winning_actors>1</num_oscar_winning_actors>
+   <oscar_winning_actor>nicole kidman</oscar_winning_actor>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

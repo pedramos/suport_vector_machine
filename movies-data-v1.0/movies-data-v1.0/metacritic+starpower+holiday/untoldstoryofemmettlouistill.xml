@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Untold Story of Emmett Louis Till, The</name>
+   <company>ThinkFilm</company>
+   <genres>
+      <genre>Documentary</genre>
+   </genres>
+   <authors>
+      <author/>
+   </authors>
+   <directors>
+      <director>Keith A. Beauchamp</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors/>
+   <release_date>August 17, 2005</release_date>
+   <running_time>70</running_time>
+   <rating>Not</rating>
+   <reviews>
+      <review>
+         <snippet>Required viewing for anyone interested in the struggle for American racial equality.</snippet>
+         <url>http://www.csmonitor.com/2005/0812/p14s01-almo.html</url>
+         <critic>David Sterritt</critic>
+      </review>
+      <review>
+         <snippet>A vital documentary in the truest sense.</snippet>
+         <url>http://www.salon.com/ent/movies/review/2005/08/11/btm/index1.html</url>
+         <critic>Andrew O&amp;#039;Hehir</critic>
+      </review>
+      <review>
+         <snippet>A triumph of documentary activism nine years in the making.</snippet>
+         <url>http://www.villagevoice.com/film/0533,land,66902,20.html</url>
+         <critic>Joshua Land</critic>
+      </review>
+      <review>
+         <snippet>There is no denying the emotional impact of the story, which is powerfully conveyed in this important, deeply moving documentary.</snippet>
+         <url>http://www.hollywoodreporter.com/thr/reviews/review_display.jsp?vnu_content_id=1001018533</url>
+         <critic>Frank Scheck</critic>
+      </review>
+      <review>
+         <snippet>It is a devastating indictment of the ruling class of Money, Miss.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/moviereviews/story/338511p-289027c.html</url>
+         <critic>Jack Mathews</critic>
+      </review>
+      <review>
+         <snippet>Expect a sequel -- perhaps one with a more satisfying conclusion.</snippet>
+         <url>http://www.nypost.com/movies/51968.htm</url>
+         <critic>Kyle Smith</critic>
+      </review>
+      <review>
+         <snippet>Stirring and haunting.</snippet>
+         <url>http://www.oregonlive.com/movies/oregonian/index.ssf?/base/entertainment/113882910357790.xml&amp;coll=7</url>
+         <critic>Shawn Levy</critic>
+      </review>
+      <review>
+         <snippet>Superior in every respect to the PBS documentary "The Murder of Emmett Till."</snippet>
+         <url>http://onfilm.chicagoreader.com/movies/capsules/27269_UNTOLD_STORY_OF_EMMETT_LOUIS_TILL_EMMETT_TILL</url>
+         <critic>Jonathan Rosenbaum</critic>
+      </review>
+      <review>
+         <snippet>Because federal indictments for conspiracy to murder have yet to be handed down, the documentary is necessarily discreet about naming names and detailing its evidence. A sequel would go a long way toward solving the documentary's many unanswered questions.</snippet>
+         <url>http://movies2.nytimes.com/2005/08/17/movies/17emme.html</url>
+         <critic>Stephen Holden</critic>
+      </review>
+      <review>
+         <snippet>Now, 50 years later, the Justice Department has decided to reopen the case, due largely to Keith Beauchamp's documentary, which contains testimony from hitherto unseen witnesses.</snippet>
+         <url>http://www.variety.com/review/VE1117925520?categoryid=31&amp;cs=1</url>
+         <critic>Ronnie Scheib</critic>
+      </review>
+      <review>
+         <snippet>The heroine of this story is the eloquent Mamie Till-Mobley, Emmett's mother, who recalls her fight to have an open-casket funeral for her son.</snippet>
+         <url>http://ae.philly.com/entertainment/ui/philly/movie.html?id=492338&amp;reviewId=19641</url>
+         <critic>Carrie Rickey</critic>
+      </review>
+      <review>
+         <snippet>Beauchamp's film has an earnest solemnity that is appropriate to the material. He has a lot of old black and white TV and newsreel footage, including shots of the accused men before, during and after their trial.</snippet>
+         <url>http://rogerebert.suntimes.com/apps/pbcs.dll/article?AID=/20050422/REVIEWS/50418002/1023</url>
+         <critic>Roger Ebert</critic>
+      </review>
+      <review>
+         <snippet>If you don't believe film can change the world, you haven't seen the documentary The Untold Story of Emmett Louis Till.</snippet>
+         <url>http://metromix.chicagotribune.com/movies/mmx-0501014-movies-review-till,0,165744.story?coll=mmx-movies_top_heds</url>
+         <critic>Robert K. Elder</critic>
+      </review>
+      <review>
+         <snippet>Thankfully, it boasts a story that doesn't require a surplus of style to be compelling.</snippet>
+         <url>http://avclub.com/content/node/25639</url>
+         <critic>Nathan Rabin</critic>
+      </review>
+      <review>
+         <snippet>Beauchamp reconstructs the actual crime with disturbing immediacy, and his treatment of how Till's death galvanized a country makes this short film a good way to commemorate the 50th anniversary of a crime that still has the power to outrage.</snippet>
+         <url>http://online.tvguide.com/movies/database/ShowMovie.asp?MI=46377</url>
+         <critic>Ken Fox</critic>
+      </review>
+      <review>
+         <snippet>You leave the theater feeling moved by a mother's courage, sickened by the crime and a little frustrated, wondering if this unquiet moment in our history will ever rest easy.</snippet>
+         <url>http://www.washingtonpost.com/wp-dyn/content/article/2005/10/13/AR2005101301896.html</url>
+         <critic>Neely Tucker</critic>
+      </review>
+   </reviews>
+   <summer_release>true</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

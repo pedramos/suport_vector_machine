@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Stormbreaker</name>
+   <company>The Weinstein Company</company>
+   <genres>
+      <genre>Action</genre>
+      <genre>Adventure</genre>
+      <genre>FamilyKids</genre>
+   </genres>
+   <authors>
+      <author>Anthony Horowitz</author>
+   </authors>
+   <directors>
+      <director>Geoffrey Sax</director>
+   </directors>
+   <origins>
+      <origin>GermanyUSAUK</origin>
+   </origins>
+   <actors>
+      <actor>Alex Pettyfer</actor>
+      <actor>Sarah Bolger</actor>
+      <actor>Robbie Coltrane</actor>
+      <actor>Stephen Fry</actor>
+      <actor>Damian Lewis</actor>
+      <actor>Ewan McGregor</actor>
+      <actor>Bill Nighy</actor>
+      <actor>Sophie Okonedo</actor>
+      <actor>Missi Pyle</actor>
+      <actor>Mickey Rourke</actor>
+      <actor>Andy Serkis</actor>
+      <actor>Alicia Silverstone</actor>
+   </actors>
+   <release_date>October 13, 2006</release_date>
+   <running_time>93</running_time>
+   <rating>PG</rating>
+   <reviews>
+      <review>
+         <snippet>It's better than some James Bond movies--no matter what your age.</snippet>
+         <url>http://metromix.chicagotribune.com/movies/mmx-061013-movies-review-stormbreaker,0,436215.story?coll=mmx-movies_top_heds</url>
+         <critic>Michael Esposito</critic>
+      </review>
+      <review>
+         <snippet>Though the film is not terribly original (and features a jarringly miscast Alicia Silverstone as Alex's nanny), the action scenes are diverting, the veteran cast is amusing and the engaging Pettyfer makes a solid debut.</snippet>
+         <url>http://www.usatoday.com/life/movies/reviews/2006-10-12-stormbreaker_x.htm</url>
+         <critic>Staff [Not Credited]</critic>
+      </review>
+      <review>
+         <snippet>Despite a relatively paltry $40 million budget, Stormbreaker has the sheen and special effects of a Bond movie, and the ambition as well.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/moviereviews/story/461089p-387900c.html</url>
+         <critic>Jack Mathews</critic>
+      </review>
+      <review>
+         <snippet>For kids strung out on Anthony Horowitz's 007-lite adventure series, this maiden adaptation is a pleasant enough diversion from having to flip the pages.</snippet>
+         <url>http://www.boston.com/movies/display?display=movie&amp;id=8722</url>
+         <critic>Wesley Morris</critic>
+      </review>
+      <review>
+         <snippet>Taken for what it is - 'tweenage escapism - Stormbreaker is moderately fun.</snippet>
+         <url>http://ae.philly.com/entertainment/ui/philly/movie.html?id=713225&amp;reviewId=21621</url>
+         <critic>Steven Rea</critic>
+      </review>
+      <review>
+         <snippet>The nonstop action in this British romp should ensure that its target audience, sugar-buzzed prepubescent boys, stay strapped in their seats.</snippet>
+         <url>http://onfilm.chicagoreader.com/movies/briefs/30437_ALEX_RIDER_OPERATION_STORMBREAKER.html</url>
+         <critic>Joshua Katzman</critic>
+      </review>
+      <review>
+         <snippet>A bland Bond.</snippet>
+         <url>http://seattlepi.nwsource.com/movies/288495_alexrider13q.html</url>
+         <critic>Sean Axmaker</critic>
+      </review>
+      <review>
+         <snippet>Mr. Pettyfer is no Sean Connery, no Roger Moore, no Pierce Brosnan, no Timothy Dalton and no George Lazenby even, but the director, Geoffrey Sax, compensates for his zero of a hero by indulging the exceedingly amused and amusing supporting cast.</snippet>
+         <url>http://movies2.nytimes.com/2006/10/13/movies/13stor.html?ref=movies</url>
+         <critic>Nathan Lee</critic>
+      </review>
+      <review>
+         <snippet>Sax keeps things moving, but the best thing about the film is the British cast.</snippet>
+         <url>http://tvguide.com/detail/movie.aspx?tvobjectid=282700&amp;more=ucmoviereview</url>
+         <critic>Maitland McDonagh</critic>
+      </review>
+      <review>
+         <snippet>Rourke's hammy, eyeliner-enhanced acting alone almost makes Alex Rider worth a look.</snippet>
+         <url>http://www.avclub.com/content/node/54030</url>
+         <critic>Keith Phipps</critic>
+      </review>
+      <review>
+         <snippet>Alex Rider: Operation Stormbreaker is "Agent Cody Banks" played British and kinda straight -- that is, as straight as you can when your villain, who dispatches foes with a giant jellyfish, is played by a toothpick-chomping Mickey Rourke in purple eye shadow.</snippet>
+         <url>http://www.ew.com/ew/article/review/movie/0,6115,1545038_1_0_,00.html</url>
+         <critic>Gregory Kirshling</critic>
+      </review>
+      <review>
+         <snippet>A lame and disappointing affair.</snippet>
+         <url>http://www.hollywoodreporter.com/thr/reviews/review_display.jsp?vnu_content_id=1002879297</url>
+         <critic>Ray Bennett</critic>
+      </review>
+      <review>
+         <snippet>The film is forever trying to balance between being for younger teenagers and keeping their parents occupied as well, and never quite gets it right.</snippet>
+         <url>http://www.calendarlive.com/printedition/calendar/cl-et-alex13oct13,0,1788104.story</url>
+         <critic>Mark Olsen</critic>
+      </review>
+      <review>
+         <snippet>This lame teenage James Bond will leave audiences neither shaken nor stirred.</snippet>
+         <url>http://www.nypost.com/seven/10132006/entertainment/movies/license_to_bore_movies_lou_lumenick.htm</url>
+         <critic>Lou Lumenick</critic>
+      </review>
+      <review>
+         <snippet>A British flick based on the first novel in a popular teenage spy-thriller series by Anthony Horowitz, looks promising but, unfortunately, doesn't measure up.</snippet>
+         <url>http://www.theglobeandmail.com/servlet/story/LAC.20061006.ALEX06/TPStory/?query=%22Alex+rider%3A+operation+stormbreaker%22</url>
+         <critic>Jennie Punter</critic>
+      </review>
+      <review>
+         <snippet>Perhaps as a publishing phenomenon the concept works, but on-screen it's pretty dull, with good actors in bad roles and bad special effects.</snippet>
+         <url>http://www.washingtonpost.com/ac2/wp-dyn?node=cityguide/profile&amp;id=1120678&amp;categories=Movies&amp;nm=1</url>
+         <critic>Stephen Hunter</critic>
+      </review>
+      <review>
+         <snippet>A shake 'n' bake Brit teen-spy actioner, without a smidgeon of originality, humor or involving characterization, Stormbreaker is a high-profile bust.</snippet>
+         <url>http://www.variety.com/review/VE1117931206?categoryid=31&amp;cs=1&amp;s=h&amp;p=0</url>
+         <critic>Derek Elley</critic>
+      </review>
+      <review>
+         <snippet>It's ostensibly an action movie, and the action is so poorly shot as to be embarrassing.</snippet>
+         <url>http://www.laweekly.com/film+tv/film-reviews/film-reviews/14769/</url>
+         <critic>Luke Y. Thompson</critic>
+      </review>
+      <review>
+         <snippet>While it's filled with quality actors, this James Bond tale for tweens feels like something you should be getting for free on television.</snippet>
+         <url>http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2006/10/13/DDGV9LNK4F1.DTL&amp;type=movies</url>
+         <critic>Peter Hartlaub</critic>
+      </review>
+      <review>
+         <snippet>About as clunky as a movie gets. It lurches from scene to scene with no sense of narrative grace, gives its roster of prominent actors nothing to work with and screeches to a halt with all the grace of a sprinter whose shoelaces have been tied together.</snippet>
+         <url>http://www.baltimoresun.com/entertainment/movies/bal-to.stormbreaker13oct13,0,7899231.story?coll=bal-movies-storyutil</url>
+         <critic>Chris Kaltenbach</critic>
+      </review>
+   </reviews>
+   <highest_grossing_actors_present/>
+   <num_highest_grossing_actors>1</num_highest_grossing_actors>
+   <highest_grossing_actor>ewan mcgregor</highest_grossing_actor>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

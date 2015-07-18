@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Black Christmas</name>
+   <company>Dimension Films / Metro-Goldwyn-Mayer</company>
+   <genres>
+      <genre>Horror</genre>
+      <genre>SuspenseThriller</genre>
+   </genres>
+   <authors>
+      <author>Glen Morgan</author>
+      <author>Roy Moore</author>
+   </authors>
+   <directors>
+      <director>Glen Morgan</director>
+   </directors>
+   <origins>
+      <origin>CanadaUSA</origin>
+   </origins>
+   <actors>
+      <actor>Katie Cassidy</actor>
+      <actor>Michelle Trachtenberg</actor>
+      <actor>Kristen Cloke</actor>
+      <actor>Crystal Lowe</actor>
+      <actor>Mary Elizabeth Winstead</actor>
+      <actor>Oliver Hudson</actor>
+      <actor>Lacey Chabert</actor>
+      <actor>Andrea Martin</actor>
+   </actors>
+   <release_date>December 25, 2006</release_date>
+   <running_time>84</running_time>
+   <rating>R</rating>
+   <reviews>
+      <review>
+         <snippet>The flashbacks are wittily gothic, and the present-day murder scenes have the absurdist, chain-reaction intricacy of the "Final Destination" deaths.</snippet>
+         <url>http://www.laweekly.com/film+tv/film-reviews/film-reviews/15313/</url>
+         <critic>Chuck Wilson</critic>
+      </review>
+      <review>
+         <snippet>This film is an evocative, effective entry into the holiday blood-spray subgenre in its own right. And if it doesn't make your skin crawl ... you probably ate too much Christmas dinner.</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A430304</url>
+         <critic>Marc Savlov</critic>
+      </review>
+      <review>
+         <snippet>Morgan borrows Christmas-specific nastiness from a wide range of fright flicks, but the result is less than the sum of its parts.</snippet>
+         <url>http://tvguide.com/detail/movie.aspx?tvobjectid=285028&amp;more=ucmoviereview</url>
+         <critic>Maitland McDonagh</critic>
+      </review>
+      <review>
+         <snippet>Where the first film was a seminal forerunner of early stalker classics like "Halloween," this version feels as stale as old gingerbread.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/moviereviews/story/483366p-406869c.html</url>
+         <critic>Elizabeth Weitzman</critic>
+      </review>
+      <review>
+         <snippet>Silly, obvious, clumsy, and just gruesome enough to keep jaded genre fans from angrily throwing popcorn at the screen.</snippet>
+         <url>http://www.boston.com/ae/movies/blog/2006/12/review_of_black.html</url>
+         <critic>Ty Burr</critic>
+      </review>
+      <review>
+         <snippet>There are a couple clever touches here and there, including one sequence in which the end of a candy cane has been carefully licked into a highly lethal weapon, but for the most part the accompanying histrionics feel more regressive than retro.</snippet>
+         <url>http://www.hollywoodreporter.com/hr/film/reviews/article_display.jsp?JSESSIONID=FJnvGr8Lls9fpJtBRxLQdhg0TPMXR1Xjcv1QR4JKl8Q0v5V1NYLB!-1027460448&amp;&amp;rid=8578</url>
+         <critic>Michael Rechtshaffen</critic>
+      </review>
+      <review>
+         <snippet>Like an ugly tie or a pair of slipper socks, Black Christmas is destined to be forgotten the instant it's unwrapped, gathering dust until the season rolls around again.</snippet>
+         <url>http://www.calendarlive.com/printedition/calendar/cl-et-black26dec26,0,4707326.story</url>
+         <critic>Sam Adams</critic>
+      </review>
+      <review>
+         <snippet>It exchanges the police subplot that gave the earlier film its steady pace for a lot of pointless backstory about the mother-fixated stalker.</snippet>
+         <url>http://onfilm.chicagoreader.com/movies/briefs/30891_BLACK_CHRISTMAS_MORGAN.html</url>
+         <critic>J.R. Jones</critic>
+      </review>
+      <review>
+         <snippet>Twice as many accidental laughs as scares.</snippet>
+         <url>http://www.ew.com/ew/article/review/movie/0,6115,1573718_1_0_,00.html</url>
+         <critic>Gregory Kirshling</critic>
+      </review>
+      <review>
+         <snippet>Seems to go out of its way to obliterate all the elements that made the original so special.</snippet>
+         <url>http://www.avclub.com/content/node/57160</url>
+         <critic>Scott Tobias</critic>
+      </review>
+      <review>
+         <snippet>Props to the Weinstein Brothers for having the guts to release a slasher film on Christmas Day. Too bad this one is the cinematic equivalent of tryptophan.</snippet>
+         <url>http://sfgate.com/cgi-bin/article.cgi?f=/c/a/2006/12/27/DDG49N56P81.DTL&amp;Type=movies</url>
+         <critic>Peter Hartlaub</critic>
+      </review>
+      <review>
+         <snippet>Lazy, perfunctory and free of tension, the new version will satisfy neither the admirers of the original nor anyone looking for a gory respite from seasonal good cheer.</snippet>
+         <url>http://www.theglobeandmail.com/servlet/story/RTGAM.20061222.wblack22/BNStory/Entertainment/home</url>
+         <critic>Jason Anderson</critic>
+      </review>
+      <review>
+         <snippet>With a peephole-riddled set and a flashback-heavy screenplay, Black Christmas smothers terror beneath a blanket of unnecessary information, revealing too much and teasing too little.</snippet>
+         <url>http://movies2.nytimes.com/2006/12/27/movies/27blac.html?ref=movies</url>
+         <critic>Jeannette Catsoulis</critic>
+      </review>
+      <review>
+         <snippet>Bad film fans will think Christmas has come early, everyone else should ask for the receipt.</snippet>
+         <url>http://www.empireonline.com/reviews/review.asp?FID=133219</url>
+         <critic>Kat Brown</critic>
+      </review>
+      <review>
+         <snippet>It's debatable whether the original 1974 "Black Christmas" is, as its most rabid fans claim, the mother of all slasher movies. But there can be no argument regarding the scant merits of its slapdash, soporifically routine remake, suitable only for the least discriminating of gore hounds.</snippet>
+         <url>http://www.variety.com/review/VE1117932362.html?categoryid=31&amp;cs=1</url>
+         <critic>Joe Leydon</critic>
+      </review>
+      <review>
+         <snippet>The remake neither pays perceptive tribute to the original nor updates it in anything but hackneyed form.</snippet>
+         <url>http://www.washingtonpost.com/wp-dyn/content/article/2006/12/25/AR2006122500699.html</url>
+         <critic>Desson Thomson</critic>
+      </review>
+      <review>
+         <snippet>The product itself isn't so much afterthought as afterbirth -- a bloody mess to be dumped discreetly.</snippet>
+         <url>http://www.villagevoice.com/film/0701,ridley,75455,20.html</url>
+         <critic>Jim Ridley</critic>
+      </review>
+   </reviews>
+   <summer_release>false</summer_release>
+   <christmas_release>true</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

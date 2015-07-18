@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Not Quite Hollywood: The Wild, Untold Story of Ozploitation!</name>
+   <company>Magnet Releasing</company>
+   <genres>
+      <genre>Documentary</genre>
+   </genres>
+   <authors>
+      <author>Mark Hartley</author>
+   </authors>
+   <directors>
+      <director>Mark Hartley</director>
+   </directors>
+   <origins>
+      <origin>Australia</origin>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Phillip Adams</actor>
+      <actor>Christine Amor</actor>
+      <actor>Glory Annen</actor>
+   </actors>
+   <release_date>July 31, 2009</release_date>
+   <running_time>103</running_time>
+   <rating>R</rating>
+   <reviews>
+      <review>
+         <snippet>You might not want to watch all of "The ABC of Love and Sex Australian Style," "Turkey Shoot" or "The True Story of Eskimo Nell," but the clips on view in "Not Quite Hollywood" are a hoot.</snippet>
+         <url>http://www.nypost.com/seven/07312009/entertainment/movies/a_gday_for_movies_182153.htm</url>
+         <critic>Lou Lumenick</critic>
+      </review>
+      <review>
+         <snippet>Think of Not Quite Hollywood as a vividly illustrated catalogue of astonishing smut.</snippet>
+         <url>http://www.avclub.com/articles/not-quite-hollywood-the-wild-untold-story-of-ozplo,31089/</url>
+         <critic>Noel Murray</critic>
+      </review>
+      <review>
+         <snippet>A survey of the week wouldn't be complete without a left-handed salute--not to be confused with a backhanded compliment--to the gleeful rubbish of Not Quite Hollywood: The Wild, Untold Story of Ozploitation!</snippet>
+         <url>http://online.wsj.com/article/film_review.html</url>
+         <critic>Joe Morgenstern</critic>
+      </review>
+      <review>
+         <snippet>All in all, this is a celebration of Australian exuberance, a national ethic of adventurousness and enormous charisma.</snippet>
+         <url>http://www.washingtonpost.com/gog/movies/not-quite-hollywood-the-wild-untold-story-of-ozploitation,1156572/critic-review.html#reviewNum1</url>
+         <critic>Desson Thomson</critic>
+      </review>
+      <review>
+         <snippet>It's a kicky, slightly exhausting look at a bygone era of low-rent moviemaking, whose colorful trove of film clips should delight fans of cinematic esoterica, nostalgic schlock and high octane drive-in fare.</snippet>
+         <url>http://www.calendarlive.com/movies/reviews/cl-et-capsules31-2009jul31,0,6258234.story</url>
+         <critic>Gary Goldstein</critic>
+      </review>
+      <review>
+         <snippet>Plays like a fever dream that won't quit until you lose consciousness or your lunch, whichever goes first.</snippet>
+         <url>http://www.filmthreat.com/index.php?section=reviews&amp;Id=11678</url>
+         <critic>Matthew Sorrento</critic>
+      </review>
+      <review>
+         <snippet>Aussie genre pics of the 1970s and '80s get a rip-roaring salute in Not Quite Hollywood, complete with endorsement by Quentin Tarantino as chief onscreen fanboy.</snippet>
+         <url>http://www.variety.com/review/VE1117938447.html?categoryid=31&amp;cs=1&amp;query=Not+quite+hollywood</url>
+         <critic>Dennis Harvey</critic>
+      </review>
+      <review>
+         <snippet>The rise of video and the death of the drive-ins would eventually bring the curtain down on the Aussie schlock industry, but for two glorious hours, Not Quite Hollywood returns us to a time when the price of admission was cheap and the thrills even cheaper.</snippet>
+         <url>http://www.villagevoice.com/2009-07-28/film/not-quite-hollywood-sings-praises-of-australian-grindhouse-classics/</url>
+         <critic>Scott Foundas</critic>
+      </review>
+      <review>
+         <snippet>Of course, there's a kind of reverse snobbery in touting cheap movies over polished ones. But if Not Quite Hollywood is not quite convincing, it is quite entertaining.</snippet>
+         <url>http://www.stltoday.com/stltoday/entertainment/reviews.nsf/movie/story/AD58EC2E3717F8BC8625761100009C5D?OpenDocument</url>
+         <critic>Joe Williams</critic>
+      </review>
+      <review>
+         <snippet>It's all very foul, and completely entertaining.</snippet>
+         <url>http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2009/08/13/MV32196PO2.DTL&amp;type=movies</url>
+         <critic>Peter Hartlaub</critic>
+      </review>
+      <review>
+         <snippet>It’s as slickly enjoyable as anything you’d see on VH1.</snippet>
+         <url>http://www.boston.com/ae/movies/articles/2009/08/21/not_quite_hollywood_an_over_the_top_look_at_films_from_down_under/</url>
+         <critic>Wesley Morris</critic>
+      </review>
+      <review>
+         <snippet>An affectionate, rollicking guide to the drive-in classics of Australian filmmaking from the 1970s and ’80s.</snippet>
+         <url>http://movies.nytimes.com/2009/07/31/movies/31holly.html?ref=movies</url>
+         <critic>Jeannette Catsoulis</critic>
+      </review>
+      <review>
+         <snippet>Beyond mere titillation -- and some good-natured laughs at the expense of genre cliches -- Not Quite Hollywood has a sociological edge.</snippet>
+         <url>http://www.hollywoodreporter.com/hr/film/reviews/article_display.jsp?rid=11514</url>
+         <critic>Megan Lehmann</critic>
+      </review>
+      <review>
+         <snippet>Although Not Quite Hollywood was clearly put together with fanatical love, the suspicion remains, as often with genre cinema, that these trash-rich movies are a lot more fun to hear about, and to watch in snatches, than to sit through.</snippet>
+         <url>http://www.newyorker.com/arts/critics/cinema/2009/08/10/090810crci_cinema_lane?currentPage=2</url>
+         <critic>Anthony Lane</critic>
+      </review>
+      <review>
+         <snippet>What's cool and always kicky is seeing a country's irreverent movie trash being treated with such, well, reverence.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/2009/08/03/2009-08-03_not_quite_hollywood_documentary_about_australian_film_industry_revels_in_trashy_.html</url>
+         <critic>Joe Neumaier</critic>
+      </review>
+   </reviews>
+   <summer_release>true</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

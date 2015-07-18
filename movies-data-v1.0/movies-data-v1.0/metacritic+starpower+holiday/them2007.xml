@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Them</name>
+   <company>Dark Sky Films</company>
+   <genres>
+      <genre>Horror</genre>
+      <genre>Mystery</genre>
+      <genre>SuspenseThriller</genre>
+   </genres>
+   <authors>
+      <author>David Moreau</author>
+      <author>Xavier Palud</author>
+   </authors>
+   <directors>
+      <director>David Moreau</director>
+      <director>Xavier Palud</director>
+   </directors>
+   <origins>
+      <origin>France</origin>
+   </origins>
+   <actors>
+      <actor>Olivia Bonamy</actor>
+      <actor>Michaël Cohen</actor>
+      <actor>Adriana Mocca</actor>
+      <actor>Maria Roman</actor>
+      <actor>Camelia Maxim</actor>
+      <actor>Alexru Boghiu</actor>
+   </actors>
+   <release_date>August 17, 2007</release_date>
+   <running_time>77</running_time>
+   <rating>R</rating>
+   <reviews>
+      <review>
+         <snippet>At a lean - and decidedly mean - 77 minutes, the suspense-horror hybrid Them by French writer-directors David Moreau and Xavier Palud is nothing short of revelatory.</snippet>
+         <url>http://www.philly.com/philly/entertainment/movies/20070831_French_suspense-horror_film_truly__intensely_terrifying.html</url>
+         <critic>Tirdad Derakhshani</critic>
+      </review>
+      <review>
+         <snippet>Eschewing special effects, Moreau and Palud reinvigorate the classic haunted house premise by paring the plot down to its essentials.</snippet>
+         <url>http://onfilm.chicagoreader.com/movies/critic.html#31952</url>
+         <critic>Joshua Katzman</critic>
+      </review>
+      <review>
+         <snippet>One of the most intelligent and unnerving horror films in recent memory.</snippet>
+         <url>http://metromix.chicagotribune.com/movies/mmx-070824-movies-review-them,0,5387931.story?coll=mmx-movies_top_heds</url>
+         <critic>Jessica Reaves</critic>
+      </review>
+      <review>
+         <snippet>There's no time wasted and no showy effects to detract from the situation -- just sheer tension.</snippet>
+         <url>http://www.tvguide.com/detail/movie.aspx?tvobjectid=289882&amp;more=ucmoviereview</url>
+         <critic>Maitland McDonagh</critic>
+      </review>
+      <review>
+         <snippet>A welcome change from horror movies like "Hostel' and "Saw" and their mind-numbing gore and violence.</snippet>
+         <url>http://www.nypost.com/seven/08172007/entertainment/movies/more_gaul__less_gore_movies_v_a__musetto.htm</url>
+         <critic>V.A. Musetto</critic>
+      </review>
+      <review>
+         <snippet>If you want an hour or so of terror, put your faith in Them.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/2007/08/17/2007-08-17_short_takes_more_movies_this_week-1.html</url>
+         <critic>Jack Mathews</critic>
+      </review>
+      <review>
+         <snippet>The movie is scarier if you know nothing about it going in. It has no larger agenda. It’s not an allegory, a satire or a commentary. It’s just a modestly relentless suspense picture that propels its characters through a series of dreamscapes.</snippet>
+         <url>http://movies.nytimes.com/2007/08/17/movies/17them.html?ref=movies</url>
+         <critic>Matt Zoller Seitz</critic>
+      </review>
+      <review>
+         <snippet>Romania-set scare-fest deploys the full cinematic vocabulary of creepy sounds and hostile intruders.</snippet>
+         <url>http://www.variety.com/review/VE1117931256.html?categoryid=31&amp;cs=1&amp;p=0</url>
+         <critic>Lisa Nesselson</critic>
+      </review>
+      <review>
+         <snippet>Them is surprisingly tight, efficient and economical, conjuring a super-creepy atmosphere and incredible tension seemingly out of nothing at all.</snippet>
+         <url>http://www.calendarlive.com/movies/reviews/cl-et-them21sep21,0,4146035.story?coll=cl-mreview</url>
+         <critic>Mark Olsen</critic>
+      </review>
+      <review>
+         <snippet>The characters in Them are paper-thin: They're mere props to be manipulated by co-directors David Moreau and Xavier Palud, who want nothing more than to scare you sh--less in what, with its nonstop chase sequences and booby traps, often comes off as a live-action video game.</snippet>
+         <url>http://www.villagevoice.com/film/0733,hardy,77514,20.html</url>
+         <critic>Ernest Hardy</critic>
+      </review>
+      <review>
+         <snippet>You'd better deliver the goods. And Them, despite some moody imagery out of the "Blair Witch" school, never does.</snippet>
+         <url>http://www.ew.com/ew/article/0,,20051862,00.html</url>
+         <critic>Owen Gleiberman</critic>
+      </review>
+      <review>
+         <snippet>The ending underscores the old cliche about the banality of evil but getting there is meant to be the whole fun. For some people at least.</snippet>
+         <url>http://www.hollywoodreporter.com/hr/film/reviews/article_display.jsp?&amp;rid=9650</url>
+         <critic>Kirk Honeycutt</critic>
+      </review>
+      <review>
+         <snippet>Them knows something the makers of the "Hostel" and "Saw" movies apparently don't: Subtlety and suggestion are every bit as terrifying as slashing and sawing.</snippet>
+         <url>http://www.washingtonpost.com/ac2/wp-dyn?node=cityguide/profile&amp;id=1141111&amp;categories=Movies&amp;nm=1</url>
+         <critic>Desson Thomson</critic>
+      </review>
+      <review>
+         <snippet>Technique is all you have to admire. There's nothing underneath the formal exercise. The film's coyness about what's happening is cheap.</snippet>
+         <url>http://www.boston.com/movies/display?display=movie&amp;id=10594</url>
+         <critic>Wesley Morris</critic>
+      </review>
+      <review>
+         <snippet>For a while, it works, until it suddenly decides to abandon the "what you don't see is scarier than what you do see" for a ridiculous and ultimately insulting explanatory ending.</snippet>
+         <url>http://www.premiere.com/moviereviews/4015/them.html</url>
+         <critic>Eric Alt</critic>
+      </review>
+      <review>
+         <snippet>A gruelingly dull slog through basic horror-movie conventions, should be dumped in the Seine.</snippet>
+         <url>http://seattlepi.nwsource.com/movies/328790_them24q.html</url>
+         <critic>Bill White</critic>
+      </review>
+   </reviews>
+   <summer_release>true</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

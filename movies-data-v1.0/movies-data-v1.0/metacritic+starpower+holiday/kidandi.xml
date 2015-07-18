@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Kid &amp; I, The</name>
+   <company>Slow Hand Releasing</company>
+   <genres>
+      <genre>Comedy</genre>
+   </genres>
+   <authors>
+      <author>Tom Arnold</author>
+   </authors>
+   <directors>
+      <director>Penelope Spheeris</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Tom Arnold</actor>
+      <actor>Eric Gores</actor>
+      <actor>Richard Edson</actor>
+      <actor>Joe Mantegna</actor>
+      <actor>Henry Winkler</actor>
+      <actor>Shannon Elizabeth</actor>
+      <actor>Linda Hamilton</actor>
+      <actor>Arielle Kebbel</actor>
+      <actor>Yvette Nicole Brown</actor>
+      <actor>Brenda Strong</actor>
+   </actors>
+   <release_date>December 2, 2005</release_date>
+   <running_time>93</running_time>
+   <rating>PG-13</rating>
+   <reviews>
+      <review>
+         <snippet>Not a great film, but you know what? It achieves what it sets out to achieve, and it isn't boring, and it kept me intrigued and involved. As an actor, Eric Gores creates an engaging and convincing character that I liked and cared about -- and believed.</snippet>
+         <url>http://www.rogerebert.com/apps/pbcs.dll/article?AID=/20051201/REVIEWS/51128001/1023</url>
+         <critic>Roger Ebert</critic>
+      </review>
+      <review>
+         <snippet>It is difficult to imagine anyone but Spheeris pulling off this movie, undercutting all mawkishness, bringing to it nuance and shading, not to mention wit. The result is an enjoyable family movie.</snippet>
+         <url>http://www.calendarlive.com/movies/reviews/cl-et-kid2dec02,0,3917242.story</url>
+         <critic>Kevin Thomas</critic>
+      </review>
+      <review>
+         <snippet>It's the weird proximity of fact and fiction that could push this Penelope Spheeris-directed comedy into another cultish realm entirely.</snippet>
+         <url>http://www.variety.com/review/VE1117929014?categoryid=31&amp;cs=1</url>
+         <critic>John Anderson</critic>
+      </review>
+      <review>
+         <snippet>Wayne's World's Penelope Spheeris directs and also plays herself, in a movie with a message as self-congratulatory as it is meta: All problems are surmountable when selfless Hollywooders work extra, extra hard, pulling together ''for the kid.''</snippet>
+         <url>http://www.ew.com/ew/article/review/movie/0,6115,1136111_1_0_,00.html</url>
+         <critic>Lisa Schwarzbaum</critic>
+      </review>
+      <review>
+         <snippet>Shamelessly manipulating his audience, wallowing in his highly questionable premise, and above all mocking himself, Arnold bulls ahead enthusiastically and without reservation, and in the process, he brings something like dignity to one of the least dignified movies in recent history.</snippet>
+         <url>http://avclub.com/content/node/43063</url>
+         <critic>Tasha Robinson</critic>
+      </review>
+      <review>
+         <snippet>Qualifies as the most indulgent kind of homemade project, laden with tediously inspirational dialogue and visuals that seem shot through half-fizzled Yuengling. Kudos to Gores, at least, for acquitting himself as an actor.</snippet>
+         <url>http://www.villagevoice.com/film/0548,kenigsberg,70465,20.html</url>
+         <critic>Ben Kenigsberg</critic>
+      </review>
+      <review>
+         <snippet>Gores certainly seems to be enjoying himself, and diplomacy and plain old good taste prevent one from saying much of anything about his screen performance. Arnold doesn't merit such kindness, nor does producer and director Penelope Spheeris, whose work barely rates above the level of rote competence.</snippet>
+         <url>http://www.laweekly.com/film/film_results.php?showid=3678&amp;Sumbit.x=50&amp;Sumbit.y=8</url>
+         <critic>Mark Olsen</critic>
+      </review>
+      <review>
+         <snippet>Though The Kid &amp; I falters as both a comedy and an After School Special, it works as a rather touching episode of "This is Your Life," with a parade of cameos from Arnold's career that'll coax a sniffle or two from his family.</snippet>
+         <url>http://metromix.chicagotribune.com/movies/mmx-0501201-movies-review-kid,0,2877955.story?coll=mmx-movies_top_heds</url>
+         <critic>Robert K. Elder</critic>
+      </review>
+      <review>
+         <snippet>Arnold's heart is in the right place, but somebody needs to save him from himself - and soon.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/moviereviews/story/370953p-315370c.html</url>
+         <critic>Elizabeth Weitzman</critic>
+      </review>
+      <review>
+         <snippet>Arnold Schwarzenegger and Jamie Lee Curtis must have a soft spot for the disabled kids of billionaires, because both have cameos near the end of this vulgar and dreadfully dopey enterprise; more impressively savvy is director Penelope Spheeris, who plays herself directing the movie-within-a-movie and manages to seem superfluous in both roles.</snippet>
+         <url>http://spacefinder.chicagoreader.com/movies/briefs/29083_KID_AND_I.html</url>
+         <critic>Jonathan Rosenbaum</critic>
+      </review>
+      <review>
+         <snippet>Good intentions do not guarantee good movies, or even watchable ones. A sad case in point is The Kid and I.</snippet>
+         <url>http://movies2.nytimes.com/2005/12/01/movies/02kid.html</url>
+         <critic>Stephen Holden</critic>
+      </review>
+      <review>
+         <snippet>No matter how you parse it, the film is a bizarre muddle.</snippet>
+         <url>http://online.tvguide.com/movies/database/ShowMovie.asp?MI=46518</url>
+         <critic>Maitland McDonagh</critic>
+      </review>
+      <review>
+         <snippet>THE mesmerizingly awful The Kid &amp; I is a historic first: a comedy about the making of a vanity production that is ITSELF a vanity production.</snippet>
+         <url>http://www.nypost.com/movies/58731.htm</url>
+         <critic>Lou Lumenick</critic>
+      </review>
+   </reviews>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

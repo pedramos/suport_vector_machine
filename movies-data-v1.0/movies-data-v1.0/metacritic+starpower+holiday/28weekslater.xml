@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>28 Weeks Later...</name>
+   <company>Fox Atomic / 20th Century Fox</company>
+   <genres>
+      <genre>Foreign</genre>
+      <genre>Horror</genre>
+      <genre>Scifi</genre>
+      <genre>SuspenseThriller</genre>
+   </genres>
+   <authors>
+      <author>Rowan Joffe</author>
+      <author>Juan Carlos Fresnadillo</author>
+      <author>Jesús Olmo</author>
+   </authors>
+   <directors>
+      <director>Juan Carlos Fresnadillo</director>
+   </directors>
+   <origins>
+      <origin>UK</origin>
+   </origins>
+   <actors>
+      <actor>Catherine McCormack</actor>
+      <actor>Robert Carlyle</actor>
+      <actor>Ama Walker</actor>
+      <actor>Shahid Ahmed</actor>
+      <actor>Garfield Morgan</actor>
+      <actor>Emily Beecham</actor>
+      <actor>Beans El-Balawi</actor>
+      <actor>Chris Ryman</actor>
+   </actors>
+   <release_date>May 11, 2007</release_date>
+   <running_time>99</running_time>
+   <rating>R</rating>
+   <reviews>
+      <review>
+         <snippet>A ferociously entertaining thriller with sympathetic characters, stunning set pieces and pulsating excitement.</snippet>
+         <url>http://www.hollywoodreporter.com/hr/film/reviews/article_display.jsp?&amp;rid=9157</url>
+         <critic>Ray Bennett</critic>
+      </review>
+      <review>
+         <snippet>As viscerally compelling as smash-mouth filmmaking gets.</snippet>
+         <url>http://www.washingtonpost.com/ac2/wp-dyn?node=cityguide/profile&amp;id=1132311&amp;categories=Movies&amp;nm=1</url>
+         <critic>Desson Thomson</critic>
+      </review>
+      <review>
+         <snippet>28 Weeks Later is not for the faint of heart or the weak of stomach. It is brutal and almost exhaustingly terrifying, as any respectable zombie movie should be. It is also bracingly smart, both in its ideas and in its techniques.</snippet>
+         <url>http://movies2.nytimes.com/2007/05/11/movies/11late.html?ref=movies</url>
+         <critic>A.O. Scott</critic>
+      </review>
+      <review>
+         <snippet>There's no better fun for movie lovers than a small, unheralded film that turns out to be terrific -- unless it's a small, unheralded sequel that trumps the original.</snippet>
+         <url>http://online.wsj.com/article/SB117883611736999139.html</url>
+         <critic>Joe Morgenstern</critic>
+      </review>
+      <review>
+         <snippet>A full-bore zombie romp that more than delivers the genre goods.</snippet>
+         <url>http://www.variety.com/review/VE1117933571.html?categoryid=31&amp;cs=1</url>
+         <critic>Derek Elley</critic>
+      </review>
+      <review>
+         <snippet>Swift, vicious and grimly imaginative, the zombie film 28 Weeks Later exceeds its predecessor, "28 Days Later," in every way.</snippet>
+         <url>http://metromix.chicagotribune.com/movies/mmx-070511-movies-review-later,0,5961694.story?coll=mmx-movies_top_heds</url>
+         <critic>Michael Phillips</critic>
+      </review>
+      <review>
+         <snippet>The script is biting and timely.</snippet>
+         <url>http://www.boston.com/movies/display?display=movie&amp;id=9377</url>
+         <critic>Erin Meister</critic>
+      </review>
+      <review>
+         <snippet>Those rigorously moral and humanistic underpinnings give 28 Weeks Later a kind of power that 100 Saws and Texas Chainsaw Massacre remakes could never achieve.</snippet>
+         <url>http://www.miamiherald.com/224/story/101963.html</url>
+         <critic>Rene Rodriguez</critic>
+      </review>
+      <review>
+         <snippet>28 Weeks Later has a stronger story line, equally fine performances, greater tension, enough gore to satisfy the most hard-core zombie fan, and a narrative pace that flings us from the opening scenes to the very last image.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/2007/05/11/2007-05-11_thrills_and_ills_epidemic_as_sequel_prov.html</url>
+         <critic>Jack Mathews</critic>
+      </review>
+      <review>
+         <snippet>Under Fresnadillo's assured direction, 28 Weeks Later blurs the line between genre entertainment and a photojournalist's shots of the next urban catastrophe.</snippet>
+         <url>http://www.avclub.com/content/cinema/28_weeks_later</url>
+         <critic>Scott Tobias</critic>
+      </review>
+      <review>
+         <snippet>I give the slight edge to the first movie because I prefer Boyle's craft to Fresnadillo's, but the action is more intense here, and I greeted the thought of a third film -- virtually assured in the closing shots -- with a little yip of "Yes!" Likely you will, too.</snippet>
+         <url>http://www.oregonlive.com/movies/oregonian/index.ssf?/base/entertainment/1178738731286230.xml&amp;coll=7</url>
+         <critic>Shawn Levy</critic>
+      </review>
+      <review>
+         <snippet>Excels at creating a keen, creepy sense of a civilization stopped dead in its tracks -- vaporized, almost, except for those disemboweled bodies left still undisposed.</snippet>
+         <url>http://www.ew.com/ew/article/0,,20038336,00.html</url>
+         <critic>Lisa Schwarzbaum</critic>
+      </review>
+      <review>
+         <snippet>The ending is a set-up for yet another sequel: Can "28 Months Later" be very far away?</snippet>
+         <url>http://www.csmonitor.com/2007/0511/p14s01-almo.html</url>
+         <critic>Peter Rainer</critic>
+      </review>
+      <review>
+         <snippet>28 Weeks Later lacks the streamlined thrust of its predecessor but makes for compelling, adrenaline-fueled viewing just the same.</snippet>
+         <url>http://www.calendarlive.com/printedition/calendar/cl-et-weeks11may11,0,7052868.story</url>
+         <critic>Carina Chocano</critic>
+      </review>
+      <review>
+         <snippet>Blistering and nihilistic--a vision to reduce you to a puddle of despair.</snippet>
+         <url>http://nymag.com/movies/reviews/31524/</url>
+         <critic>David Edelstein</critic>
+      </review>
+      <review>
+         <snippet>Bigger action, more amazing deserted (and devastated) London sequences and biting contemporary relevance, if a touch less heart than the original.</snippet>
+         <url>http://www.empireonline.com/reviews/review.asp?FID=133187</url>
+         <critic>Kim Newman</critic>
+      </review>
+      <review>
+         <snippet>The first hour of this lean, mean, 95-minute scream machine is so tasty that it redeems the predictable conclusion.</snippet>
+         <url>http://www.slate.com/id/2165990/fr/flyout</url>
+         <critic>Grady Hendrix</critic>
+      </review>
+      <review>
+         <snippet>The sequel trumps its predecessor for sustained doomsday gloom and suggests this might be the man to adapt Cormac McCarthy's post-apocalyptic novel The Road.</snippet>
+         <url>http://www.villagevoice.com/film/0719,lee,76591,20.html</url>
+         <critic>Nathan Lee</critic>
+      </review>
+      <review>
+         <snippet>This sequel to the apocalyptic splatter flick "28 Days Later" . . . (2002) is still well equipped to rip your face off.</snippet>
+         <url>http://onfilm.chicagoreader.com/movies/briefs/31585_TWENTY_EIGHT_WEEKS_LATER.html</url>
+         <critic>J.R. Jones</critic>
+      </review>
+      <review>
+         <snippet>t's an exciting, well-directed thriller that, while providing more than enough action and gore to satisfy genre fans, also offers the political commentary that has characterized zombie movies going back at least as far as "Night of the Living Dead."</snippet>
+         <url>http://www.nypost.com/seven/05112007/entertainment/movies/london_crawling_movies_lou_lumenick.htm</url>
+         <critic>Lou Lumenick</critic>
+      </review>
+      <review>
+         <snippet>Holds the audience captive and unusually vulnerable to psycho- and viscero-terror.</snippet>
+         <url>http://www.philly.com/philly/entertainment/movies/20070511_Happy_undead_Mothers_Day.html</url>
+         <critic>Carrie Rickey</critic>
+      </review>
+      <review>
+         <snippet>Hold on for a hell of a ride.</snippet>
+         <url>http://www.rollingstone.com/reviews/movie/10962794/review/14454054/28_weeks_later</url>
+         <critic>Peter Travers</critic>
+      </review>
+      <review>
+         <snippet>The biggest sin of 28 Weeks Later is that it's not in the same league as the near-perfect movie that came before it.</snippet>
+         <url>http://www.sfgate.com/cgi-bin/article.cgi?file=/c/a/2007/05/11/DDGF5POF0R1.DTL&amp;type=movies</url>
+         <critic>Peter Hartlaub</critic>
+      </review>
+      <review>
+         <snippet>A gruelingly tense, deftly plotted, and slyly intelligent piece of work. And also it's really really disgusting.</snippet>
+         <url>http://www.premiere.com/moviereviews/3790/28-weeks-later.html</url>
+         <critic>Glenn Kenny</critic>
+      </review>
+      <review>
+         <snippet>Relentlessly grim and grisly, 28 Weeks Later is not for the faint of heart. But its provocative post-apocalyptic theme makes for a smart and deeply unsettling film.</snippet>
+         <url>http://www.usatoday.com/life/movies/reviews/2007-05-10-28weeks-later_N.htm</url>
+         <critic>Claudia Puig</critic>
+      </review>
+      <review>
+         <snippet>28 Weeks Later is flawed -- the constant reappearance of one key character verges on the absurd -- but it knows where it's going, and it gets there in a chilling blaze of fire, blood and poisonous fog.</snippet>
+         <url>http://www.tvguide.com/movies/28-weeks-later/review/285369</url>
+         <critic>Maitland McDonagh</critic>
+      </review>
+      <review>
+         <snippet>Where the original gave you something to chew on, the sequel is more interested in chewing on you.</snippet>
+         <url>http://www.msnbc.msn.com/id/18602972/site/newsweek/</url>
+         <critic>David Ansen</critic>
+      </review>
+      <review>
+         <snippet>Director Juan Carlos Fresnadillo, who was essentially handpicked by now-executive producer Danny Boyle, gives us a more depressing look at humanity while retaining several of his predecessor’s moves. This isn’t always a good thing, since Fresnadillo can’t seem to get his fill of low-light hyper-edited fight scenes or frenetic hand-held shots of people running, but when used right it adds to the sense of claustrophobia and impending doom.</snippet>
+         <url>http://www.filmthreat.com/index.php?section=reviews&amp;Id=9996</url>
+         <critic>Pete Vonder Haar</critic>
+      </review>
+      <review>
+         <snippet>The mayhem is presented sparingly enough to be suspenseful, some of the sequences are genuinely terrifying and, compared with Hollywood's last zombie movie, the Robert Rodriguez half of "Grindhouse," it's a masterpiece.</snippet>
+         <url>http://seattlepi.nwsource.com/movies/315198_28weeks11q.html</url>
+         <critic>William Arnold</critic>
+      </review>
+      <review>
+         <snippet>While 28 Weeks Later ultimately falls shy of classic status (it's no Panic in Year Zero!), there are several hard-to-shake scenes -- nightmare visions, really -- that reveal the infected populace to be far less dangerous to the fabric of a civilized society than, perhaps, the very notion of civilization itself.</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A472782</url>
+         <critic>Marc Savlov</critic>
+      </review>
+      <review>
+         <snippet>Only occasionally does Fresnadillo rise above the mundane, but, to his credit, the exceptions are worth savouring.</snippet>
+         <url>http://www.theglobeandmail.com/servlet/story/RTGAM.20070511.wweeks11/BNStory/Entertainment/home</url>
+         <critic>Rick Groen</critic>
+      </review>
+      <review>
+         <snippet>Doesn't match the impact of its predecessor, which both revived and reimagined the zombie-film genre.</snippet>
+         <url>http://www.baltimoresun.com/entertainment/movies/bal-to.later11may11,0,5787060.story?coll=bal-artslife-movies</url>
+         <critic>Chris Kaltenbach</critic>
+      </review>
+      <review>
+         <snippet>Deals with emotional concerns for half an hour. Then it turns into a mindless bloodfest, where it's impossible to care which characters end on the zombie gore-gasbord.</snippet>
+         <url>http://ae.charlotte.com/entertainment/ui/charlotte/movie.html?id=873052&amp;reviewId=22436&amp;startDate=NEXT7</url>
+         <critic>Lawrence Toppman</critic>
+      </review>
+      <review>
+         <snippet>"28 Days Later," while not terribly original, was suspenseful and involving. 28 Weeks Later is neither. The characters aren't as sympathetic or interesting.</snippet>
+         <url>http://www.reelviews.net/movies/t/28_weeks_later.html</url>
+         <critic>James Berardinelli</critic>
+      </review>
+   </reviews>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

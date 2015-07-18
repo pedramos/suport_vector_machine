@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Paris</name>
+   <company>IFC Films</company>
+   <genres>
+      <genre>Comedy</genre>
+      <genre>Drama</genre>
+      <genre>Romance</genre>
+   </genres>
+   <authors>
+      <author>Cédric Klapisch</author>
+   </authors>
+   <directors>
+      <director>Cédric Klapisch</director>
+   </directors>
+   <origins>
+      <origin>France</origin>
+   </origins>
+   <actors>
+      <actor>Juliette Binoche</actor>
+      <actor>Romain Duris</actor>
+      <actor>Fabrice Luchini</actor>
+      <actor>Albert Dupontel</actor>
+      <actor>François Cluzet</actor>
+      <actor>Karin Viard</actor>
+      <actor>Gilles Lellouche</actor>
+      <actor>Mélanie Laurent</actor>
+   </actors>
+   <release_date>September 18, 2009</release_date>
+   <running_time>130</running_time>
+   <rating>R</rating>
+   <reviews>
+      <review>
+         <snippet>Klapisch's masterstroke was to place at the center of a movie a man, forced by circumstances, to stop and simply observe.</snippet>
+         <url>http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2009/09/24/MV2S19RDHV.DTL</url>
+         <critic>Mick LaSalle</critic>
+      </review>
+      <review>
+         <snippet>Paris is a funny, sad, romantic and deeply felt love letter to a great city. If you can't book a trip now, it's the next best thing.</snippet>
+         <url>http://www.washingtonpost.com/gog/movies/paris,1139136/critic-review.html#reviewNum1</url>
+         <critic>Ann Hornaday</critic>
+      </review>
+      <review>
+         <snippet>Every character has life and depth. It's unusual for an episodic film to involve us so well in individual lives; as the narrative circles through their stories, we're genuinely curious about what will happen next.</snippet>
+         <url>http://rogerebert.suntimes.com/apps/pbcs.dll/article?AID=/20090923/REVIEWS/909239995</url>
+         <critic>Roger Ebert</critic>
+      </review>
+      <review>
+         <snippet>This is a kaleidoscopic valentine to a great city from a director who knows and loves his subject.</snippet>
+         <url>http://www.stltoday.com/stltoday/entertainment/reviews.nsf/movie/story/13704A7DE30C8F7C86257648006F7377?OpenDocument</url>
+         <critic>Joe Williams</critic>
+      </review>
+      <review>
+         <snippet>Has a mature tapestry of characters, a welcome sense of humor and, most crucially, a lovely Juliette Binoche.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/2009/09/18/2009-09-18_short_movie_reviews_bright_star_the_burning_plain_paris_and_more.html</url>
+         <critic>Joe Neumaier</critic>
+      </review>
+      <review>
+         <snippet>The new film Paris by writer-director Cédric Klapisch was originally supposed to carry the subtitle "An Ephemeral Portrait of an Eternal City." That kind of sums it up.</snippet>
+         <url>http://www.csmonitor.com/2009/0925/p16s01-almo.html</url>
+         <critic>Peter Rainer</critic>
+      </review>
+      <review>
+         <snippet>Not much happens during the course of the movie but, as with all good dramas, the protagonists are richly drawn and the events of their lives become of interest.</snippet>
+         <url>http://www.reelviews.net/php_review_template.php?identifier=1804</url>
+         <critic>James Berardinelli</critic>
+      </review>
+      <review>
+         <snippet>The actors, remarkable and seasoned, take care of their end of things, stylishly and (when and where it can be arranged) truthfully.</snippet>
+         <url>http://featuresblogs.chicagotribune.com/talking_pictures/</url>
+         <critic>Michael Phillips</critic>
+      </review>
+      <review>
+         <snippet>It pulls together diverse residents of the city, from produce vendors to academics, and trains a loving eye on their unique environments and the urban landscapes they all share.</snippet>
+         <url>http://www.baltimoresun.com/entertainment/movies/bal-ae.mo.paris09oct09,0,5692722.story</url>
+         <critic>Michael Sragow</critic>
+      </review>
+      <review>
+         <snippet>If the idea of interconnectedness feels secondhand, what's fresh and affecting is the way Binoche's and Duris' characters navigate life and death.</snippet>
+         <url>http://www.latimes.com/entertainment/news/reviews/la-et-capsules18-2009sep18,0,3567906.story?page=2</url>
+         <critic>Sheri Linden</critic>
+      </review>
+      <review>
+         <snippet>As a whole, though, Paris pulses with a contemporary version of the energy that animated Balzac's novels, or Colette's accounts of the life she observed from the window of her apartment in the Palais Royal.</snippet>
+         <url>http://online.wsj.com/article/film_review.html</url>
+         <critic>Joe Morgenstern</critic>
+      </review>
+      <review>
+         <snippet>There are enough intersecting characters from different classes and backgrounds in Paris to evoke the city as a complex, healthy organism, whose parts are all connected. If it is too lighthearted to show the actual political and economic machinery behind it, its celebration of how well that machinery works produces a pleasant afterglow.</snippet>
+         <url>http://movies.nytimes.com/2009/09/18/movies/18paris.html?ref=movies</url>
+         <critic>Stephen Holden</critic>
+      </review>
+      <review>
+         <snippet>Paris flits from story to story and character to character without doing justice to any of them.</snippet>
+         <url>http://www.avclub.com/articles/paris,33013/</url>
+         <critic>Nathan Rabin</critic>
+      </review>
+      <review>
+         <snippet>There are too many secondhand characters roving through Paris.</snippet>
+         <url>http://www.ew.com/ew/article/0,,20309086,00.html</url>
+         <critic>Owen Gleiberman</critic>
+      </review>
+      <review>
+         <snippet>To a one, they're terrific. But in this overpacked ensemble cast, it's Binoche you want to see more of.</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A890102</url>
+         <critic>Kimberley Jones</critic>
+      </review>
+      <review>
+         <snippet>The best armchair holiday going - the cast is lovely to behold and the plot dips in and out of the arrondissements with panache. You almost don’t mind that none of it adds up to terribly much.</snippet>
+         <url>http://www.boston.com/ae/movies/articles/2009/09/25/paris_takes_a_loving_look_at_the_city_through_the_eyes_of_some_lovely_characters/</url>
+         <critic>Ty Burr</critic>
+      </review>
+      <review>
+         <snippet>Paris is a bittersweet film containing rare moments of comedy.</snippet>
+         <url>http://www.hollywoodreporter.com/hr/film/reviews/article_display.jsp?rid=10790</url>
+         <critic>Gregory Valens</critic>
+      </review>
+      <review>
+         <snippet>At a 124-minute runtime, though, the writer-director has stretched a wide canvas, and only sporadically found anything worth filling it with.</snippet>
+         <url>http://www.villagevoice.com/2009-09-15/film/paris-feels-like-an-obligatory-visit/</url>
+         <critic>Nick Pinkerton</critic>
+      </review>
+      <review>
+         <snippet>Soggy stuff from French director Cedric Klapisch (When the Cat’s Away), set in the title city and collecting the routine travails of various urbanites.</snippet>
+         <url>http://www.chicagoreader.com/chicago/MovieTimes?film=977937</url>
+         <critic>J.R. Jones</critic>
+      </review>
+      <review>
+         <snippet>The tales mostly drift along and wrap up unresolved. If this is an accurate slice of Paris life, I'll take the relative excitement of Topeka.</snippet>
+         <url>http://www.nypost.com/p/entertainment/canned_paris_in_syrup_L6LyyOspYPzAze4hhRHSaM</url>
+         <critic>Kyle Smith</critic>
+      </review>
+      <review>
+         <snippet>This could have been a true urban mosaic. Instead, we simply get a vision of Paris as the city of lite.</snippet>
+         <url>http://newyork.timeout.com/articles/film/78635/paris-film-review</url>
+         <critic>David Fear</critic>
+      </review>
+   </reviews>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

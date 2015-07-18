@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Caterina in the Big City</name>
+   <company>Empire Pictures</company>
+   <genres>
+      <genre>Comedy</genre>
+      <genre>Drama</genre>
+      <genre>Foreign</genre>
+   </genres>
+   <authors>
+      <author>Francesco Bruni</author>
+      <author>Paolo Virzì</author>
+   </authors>
+   <directors>
+      <director>Paolo Virzì</director>
+   </directors>
+   <origins>
+      <origin>Italy</origin>
+   </origins>
+   <actors>
+      <actor>Alice Teghil</actor>
+      <actor>Sergio Castellitto</actor>
+      <actor>Margherita Buy</actor>
+      <actor>Antonio Carnevale</actor>
+      <actor>Silvio Vannucci</actor>
+      <actor>Federica Sbrenna</actor>
+      <actor>Carolina Iaquaniello</actor>
+      <actor>Zach Wallen</actor>
+   </actors>
+   <release_date>June 3, 2005</release_date>
+   <running_time>90</running_time>
+   <rating>Not</rating>
+   <reviews>
+      <review>
+         <snippet>Paolo Virzi's film looks at school as the microcosm of society and at fathers too self-absorbed to be there for their daughters. He combines the themes played in "Mean Girls" and "Look at Me" and makes them vibrant.</snippet>
+         <url>http://ae.philly.com/entertainment/ui/philly/movie.html?id=290388&amp;reviewId=18577</url>
+         <critic>Carrie Rickey</critic>
+      </review>
+      <review>
+         <snippet>A blend of gentle comedy and poignant drama.</snippet>
+         <url>http://www.washingtonpost.com/wp-dyn/content/article/2005/07/14/AR2005071400430.html</url>
+         <critic>Michael O&amp;#039;Sullivan</critic>
+      </review>
+      <review>
+         <snippet>Pitch-perfect performances and a light-handed but razor-sharp script keep this satire brisk and biting.</snippet>
+         <url>http://www.villagevoice.com/film/0522,tracking2,64449,20.html</url>
+         <critic>Leslie Camhi</critic>
+      </review>
+      <review>
+         <snippet>Despite outward appearances, Paolo Virzi's utterly charming fable is actually a razor-sharp political satire.</snippet>
+         <url>http://tvguide.com/movies/database/showmovie.asp?MI=46146</url>
+         <critic>Ken Fox</critic>
+      </review>
+      <review>
+         <snippet>Smart, sassy, compassionate and critical.</snippet>
+         <url>http://www.calendarlive.com/movies/reviews/cl-et-caterina10jun10,0,5837474.story</url>
+         <critic>Kevin Thomas</critic>
+      </review>
+      <review>
+         <snippet>This dramatic comedy is an Italian style "Mean Girls" when Castellito isn't stealing the show as a dysfunctional dad.</snippet>
+         <url>http://www.csmonitor.com/2005/0617/p14s02-almo.html</url>
+         <critic>David Sterritt</critic>
+      </review>
+      <review>
+         <snippet>A charming and wise film.</snippet>
+         <url>http://sfgate.com/cgi-bin/article.cgi?f=/c/a/2005/06/24/DDGEKDDAVI1.DTL&amp;type=movies</url>
+         <critic>Mick LaSalle</critic>
+      </review>
+      <review>
+         <snippet>A fluffy and fun coming-of-age-in-Rome comedy, with a sparkling turn by its 16-year-old star, Alice Teghil.</snippet>
+         <url>http://www.nypost.com/movies/44849.htm</url>
+         <critic>V.A. Musetto</critic>
+      </review>
+      <review>
+         <snippet>Though "Caterina" is unusually well-acted and crafted for this kind of movie--and both more than casually insightful and irreverent about modern Italian school life, teenage mores and politics--Giancarlo is the one character who makes the movie special.</snippet>
+         <url>http://metromix.chicagotribune.com/movies/mmx-050909-movies-review-caterina,0,5469699.story?coll=mmx-movies_top_heds</url>
+         <critic>Michael Wilmington</critic>
+      </review>
+      <review>
+         <snippet>Teghil is a winning lead.</snippet>
+         <url>http://avclub.com/content/node/40359</url>
+         <critic>Keith Phipps</critic>
+      </review>
+      <review>
+         <snippet>Its rich, wide-angle view of Italian politics and society stays with you. The details may vary from nation to nation in the industrialized West, but the big picture is pretty much the same everywhere.</snippet>
+         <url>http://movies2.nytimes.com/2005/06/03/movies/03cate.html</url>
+         <critic>Stephen Holden</critic>
+      </review>
+      <review>
+         <snippet>The tug of war for Caterina's political soul is left open-ended, and her relationship with her difficult father is resolved with a plot twist that feels completely out of character. Caterina deserved better.</snippet>
+         <url>http://www.miami.com/mld/miamiherald/entertainment/movies/12470150.htm</url>
+         <critic>Rene Rodriguez</critic>
+      </review>
+      <review>
+         <snippet>Checks in somewhere between a delight and a diversion.</snippet>
+         <url>http://www.washingtonpost.com/wp-dyn/content/article/2005/07/14/AR2005071401959.html</url>
+         <critic>Stephen Hunter</critic>
+      </review>
+      <review>
+         <snippet>As much as the director andco-writer, Paolo Virzi, might try, he can't bring any of these people into focus. The movie is shapeless, too.</snippet>
+         <url>http://www.boston.com/movies/display?display=movie&amp;id=8241</url>
+         <critic>Wesley Morris</critic>
+      </review>
+      <review>
+         <snippet>Ultimately neither funny nor touching enough to make much of an impact, but it does offer many small, insightful moments along the way.</snippet>
+         <url>http://www.hollywoodreporter.com/thr/reviews/review_display.jsp?vnu_content_id=1000720481</url>
+         <critic>Frank Scheck</critic>
+      </review>
+      <review>
+         <snippet>This dyspeptic 2003 coming-of-age story from Italy often seems on the verge of nervous collapse, veering from giddy adolescent romps to adult shenanigans and shrill political discord.</snippet>
+         <url>http://onfilm.chicagoreader.com/movies/capsules/27511_CATERINA_IN_THE_BIG_CITY_CATERINA_VA_IN_CITTA</url>
+         <critic>Andrea Gronvall</critic>
+      </review>
+      <review>
+         <snippet>Director Paolo Virzi (who co-wrote the script with Francesco Bruni) errs badly by creating totems and types in lieu of characters.</snippet>
+         <url>http://www.laweekly.com/film/film_results.php?showid=3429&amp;Sumbit.x=44&amp;Sumbit.y=13</url>
+         <critic>Ernest Hardy</critic>
+      </review>
+   </reviews>
+   <summer_release>true</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

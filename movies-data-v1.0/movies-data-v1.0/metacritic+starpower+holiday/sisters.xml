@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Sisters, The</name>
+   <company>Arclight Films</company>
+   <genres>
+      <genre>Drama</genre>
+   </genres>
+   <authors>
+      <author>Richard Alfieri</author>
+      <author>Anton Chekhov</author>
+   </authors>
+   <directors>
+      <director>Arthur Allan Seidelman</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Maria Bello</actor>
+      <actor>Mary Stuart Masterson</actor>
+      <actor>Erika Christensen</actor>
+      <actor>Eric McCormack</actor>
+      <actor>Chris O&amp;#039;Donnell</actor>
+      <actor>Tony Goldwyn</actor>
+      <actor>Steven Culp</actor>
+      <actor>Alessro Nivola</actor>
+      <actor>Elizabeth Banks</actor>
+      <actor>Rip Torn</actor>
+   </actors>
+   <release_date>April 14, 2006</release_date>
+   <running_time>113</running_time>
+   <rating>R</rating>
+   <reviews>
+      <review>
+         <snippet>Intelligent, observant entertainment designed for an adult audience.</snippet>
+         <url>http://sfgate.com/cgi-bin/article.cgi?f=/c/a/2006/05/19/DDGVQITK931.DTL&amp;type=movies</url>
+         <critic>Mick LaSalle</critic>
+      </review>
+      <review>
+         <snippet>Bello is phenomenally good as the embittered Marcia, while Stuart and Christensen do their best with their less complex roles, but they're all undermined by Alfieri's shrill, mannered dialogue and cliched backstories that wouldn't be out of place in a dysfunction-family-of-the-week movie.</snippet>
+         <url>http://online.tvguide.com/movies/database/Movie-Review.asp?MI=46870</url>
+         <critic>Maitland McDonagh</critic>
+      </review>
+      <review>
+         <snippet>Family gatherings in the movies are shorthand for brutal trips down mine-strewn memory lanes. The Sisters doesn't disappoint in that regard.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/moviereviews/story/408852p-345871c.html</url>
+         <critic>Jami Bernard</critic>
+      </review>
+      <review>
+         <snippet>The Sisters is still somewhat compelling thanks to Bello, whose unguarded, provocative work continually resuscitates this corpse of a melodrama whenever it lays fallow.</snippet>
+         <url>http://www.avclub.com/content/node/47316</url>
+         <critic>Scott Tobias</critic>
+      </review>
+      <review>
+         <snippet>The Sisters may be worth a look, however, for the work of the magnificent Bello and Tony Goldwyn, who's never been better than as the married man with whom Marcia has an affair. Their final clench is pure, guilty-pleasure melodrama, which means it's not the least bit Chekhovian.</snippet>
+         <url>http://www.laweekly.com/film+tv/film-reviews/film-reviews/13131/</url>
+         <critic>Chuck Wilson</critic>
+      </review>
+      <review>
+         <snippet>Projects like this bring out the best in actors, who take salary cuts to work in Chekhov (even at one remove). What we can guess, watching the film, is that the same players would make a good job of "Three Sisters" but are undermined by the faculty club, which works like a hotel lobby. There's no way to sustain dramatic momentum here.</snippet>
+         <url>http://rogerebert.suntimes.com/apps/pbcs.dll/article?AID=/20060518/REVIEWS/60509004/1001</url>
+         <critic>Roger Ebert</critic>
+      </review>
+      <review>
+         <snippet>Even a magnificently inspired Maria Bello proves insufficiently daring to save Richard Alfieri and Arthur Allan Seidelman's Chekhov-based chamber piece Sisters from pretentious psychodrama.</snippet>
+         <url>http://www.variety.com/review/VE1117927031?categoryid=31&amp;cs=1&amp;s=h&amp;p=0</url>
+         <critic>Ronnie Scheib</critic>
+      </review>
+      <review>
+         <snippet>Insufferable characters make for an insufferable play or movie.  The Sisters, a grueling family feud conceived by Richard Alfieri, proves the point.</snippet>
+         <url>http://movies2.nytimes.com/2006/04/14/movies/14sist.html</url>
+         <critic>Neil Genzlinger</critic>
+      </review>
+      <review>
+         <snippet>A pompous, overwrought and itchingly claustrophobic psychodrama.</snippet>
+         <url>http://www.calendarlive.com/movies/chocano/cl-et-thesisters14apr14,0,5660498.story</url>
+         <critic>Carina Chocano</critic>
+      </review>
+      <review>
+         <snippet>Pretentious, stagy and over-the-top update of Chekov's "The Three Sisters."</snippet>
+         <url>http://www.nypost.com/movies/67007.htm</url>
+         <critic>Lou Lumenick</critic>
+      </review>
+      <review>
+         <snippet>A clumsy graft of Chekhovian high dudgeon and harsh, Albee-esque psychological realism that probably worked better onstage.</snippet>
+         <url>http://www.villagevoice.com/film/0615,tk,72850,20.html</url>
+         <critic>Mark Holcomb</critic>
+      </review>
+      <review>
+         <snippet>Lifeless and irredeemably sour. It is difficult to imagine much of an audience embracing it, despite a cast of well-knowns and up-and-comers.</snippet>
+         <url>http://www.hollywoodreporter.com/thr/reviews/review_display.jsp?vnu_content_id=1002344137</url>
+         <critic>John DeFore</critic>
+      </review>
+      <review>
+         <snippet>The Sisters isn't just bad Chekhov; it's bad Chekhov modernized and then plunked in front of a camera.</snippet>
+         <url>http://metromix.chicagotribune.com/movies/mmx-060519-movies-review-sisters,0,6613714.story?coll=mmx-movies_top_heds</url>
+         <critic>Michael Phillips</critic>
+      </review>
+      <review>
+         <snippet>The result is an insufferable academic cocktail party of declamatory speeches coaxed to life in its middle stretch by the incredible Maria Bello, who wades in like a paramedic at a disaster scene.</snippet>
+         <url>http://onfilm.chicagoreader.com/movies/briefs/29617_SISTERS_ALFIERI.html</url>
+         <critic>J.R. Jones</critic>
+      </review>
+   </reviews>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

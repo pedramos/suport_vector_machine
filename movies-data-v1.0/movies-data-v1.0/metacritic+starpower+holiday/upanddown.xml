@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Up and Down</name>
+   <company>Sony Pictures Classics</company>
+   <genres>
+      <genre>Comedy</genre>
+      <genre>Foreign</genre>
+   </genres>
+   <authors>
+      <author>Jan Hrebejk</author>
+      <author>Petr Jarchovský</author>
+   </authors>
+   <directors>
+      <director>Jan Hrebejk</director>
+   </directors>
+   <origins>
+      <origin>CzechRepublic</origin>
+   </origins>
+   <actors>
+      <actor>Petr Forman</actor>
+      <actor>Emília Vásáryová</actor>
+      <actor>Jan Triska</actor>
+      <actor>Ingrid Timková</actor>
+      <actor>Kristýna Boková</actor>
+      <actor>Jirí Machácek</actor>
+      <actor>Natasa Burger</actor>
+      <actor>Jaroslav Dusek</actor>
+   </actors>
+   <release_date>February 25, 2005</release_date>
+   <running_time>108</running_time>
+   <rating>R</rating>
+   <reviews>
+      <review>
+         <snippet>Always hard-hitting and often grimly, revealingly satirical.</snippet>
+         <url>http://www.csmonitor.com/2005/0225/p14s02-almo.html</url>
+         <critic>David Sterritt</critic>
+      </review>
+      <review>
+         <snippet>Foreign films can be as enchanting as ever, and perspective-expanding too. The latest proof is Up and Down, a wonderfully funny, giddily intricate Czech comedy.</snippet>
+         <url/>
+         <critic>Joe Morgenstern</critic>
+      </review>
+      <review>
+         <snippet>Up and Down captures Prague life with a fervor that's comical but a longing that's serious; no one is easy to pigeonhole.</snippet>
+         <url>http://www.ew.com/ew/article/review/movie/0,6115,1030659_1_0_,00.html</url>
+         <critic>Lisa Schwarzbaum</critic>
+      </review>
+      <review>
+         <snippet>This fluidly paced film, with its keen observation of the confused longing for love, family and stability in an inherently unstable world, nonetheless keeps faith with the Czech genius for holding the tonal line between tragedy and the absurd.</snippet>
+         <url>http://www.laweekly.com/film/film_results.php?showid=3290&amp;Sumbit.x=68&amp;Sumbit.y=16</url>
+         <critic>Ella Taylor</critic>
+      </review>
+      <review>
+         <snippet>A powerful Czech drama with comic flourishes.</snippet>
+         <url>http://www.salon.com/ent/movies/review/2005/02/17/btm/index.html?CP=IMD&amp;DN=110</url>
+         <critic>Andrew O&amp;#039;Hehir</critic>
+      </review>
+      <review>
+         <snippet>Ought to gain some viewers here with its dark sense of humor and stylish cinematography by Jan Malir. Director Jan Hrebejk names Mike Leigh as an influence, but frankly he's way cooler.</snippet>
+         <url>http://listings.dallasobserver.com/gyrobase/Film/ShowFilm</url>
+         <critic>Luke Y. Thompson</critic>
+      </review>
+      <review>
+         <snippet>All of these folks are damaged souls, trying their best to find purpose and forgiveness.</snippet>
+         <url>http://metromix.chicagotribune.com/movies/mmx-050324-movies-review-ao-upanddown.story</url>
+         <critic>Achy Obejas</critic>
+      </review>
+      <review>
+         <snippet>A bruising, dark comedy.</snippet>
+         <url>http://ae.miami.com/entertainment/ui/miami/movie.html?id=267991&amp;reviewId=17629</url>
+         <critic>Steven Rea</critic>
+      </review>
+      <review>
+         <snippet>Haunting little film, whose chaotic universe is churned up by the conflict between the haves and the have-nots.</snippet>
+         <url>http://www.washingtonpost.com/wp-dyn/content/article/2005/04/28/AR2005042800669.html</url>
+         <critic>Michael O&amp;#039;Sullivan</critic>
+      </review>
+      <review>
+         <snippet>Provocative and entertaining.</snippet>
+         <url>http://spacefinder.chicagoreader.com/movies/critic.html#27595</url>
+         <critic>Jonathan Rosenbaum</critic>
+      </review>
+      <review>
+         <snippet>It's agreeable to see a picture that holds us without perspiring to do so. We are treated not as an audience but as café chums to whom a story is being told</snippet>
+         <url>http://www.tnr.com/doc.mhtml?i=20050228&amp;s=kauffmann022805</url>
+         <critic>Stanley Kauffmann</critic>
+      </review>
+      <review>
+         <snippet>A vibrant, immediate treatise on love and cultural identity in a complex new world of fluid borders and deep suspicions in the stunning new Czech drama Up and Down.</snippet>
+         <url>http://www.variety.com/review/VE1117924466?categoryid=31&amp;cs=1</url>
+         <critic>Eddie Cockrell</critic>
+      </review>
+      <review>
+         <snippet>It skips from buoyant satire to domestic melodrama, leaving behind a curious mix of emotions.</snippet>
+         <url>http://movies2.nytimes.com/2005/02/25/movies/25down.html?</url>
+         <critic>Dana Stevens</critic>
+      </review>
+      <review>
+         <snippet>Accomplished and affecting art house fare.</snippet>
+         <url>http://www.hollywoodreporter.com/thr/reviews/review_display.jsp?vnu_content_id=1000817374</url>
+         <critic>Sheri Linden</critic>
+      </review>
+      <review>
+         <snippet>Buoyed by an unreserved humanism and a cheerful sense of the absurd.</snippet>
+         <url>http://www.calendarlive.com/movies/reviews/cl-et-upanddown25feb25,2,6231923.story</url>
+         <critic>Carina Chocano</critic>
+      </review>
+      <review>
+         <snippet>The result is an absorbing look at a country still struggling to adjust more than a decade after the fall of communism.</snippet>
+         <url>http://www.nypost.com/movies/41182.htm</url>
+         <critic>V.A. Musetto</critic>
+      </review>
+      <review>
+         <snippet>Absurdity and poignancy merge in the carefully observed Czech film Up and Down.</snippet>
+         <url>http://sfgate.com/cgi-bin/article.cgi?f=/c/a/2005/03/11/DDG82BN2KH1.DTL&amp;type=movies</url>
+         <critic>Carla Meyer</critic>
+      </review>
+      <review>
+         <snippet>Lacks any formulas or solutions, and is content to show us its complicated characters, their tangled lives, and the way that our need to love and be loved can lead us in opposite directions.</snippet>
+         <url>http://rogerebert.suntimes.com/apps/pbcs.dll/article?AID=/20050324/REVIEWS/50301006/1001</url>
+         <critic>Roger Ebert</critic>
+      </review>
+      <review>
+         <snippet>An accomplished film that uses dark humor to leaven its serious topics.</snippet>
+         <url>http://movie-reviews.colossus.net/movies/u/up_down.html</url>
+         <critic>James Berardinelli</critic>
+      </review>
+      <review>
+         <snippet>The film bears a resemblance to such multicharacter dramas as Robert Altman's ''Short Cuts" and Paul Thomas Anderson's ''Magnolia" -- like them, it's a portrait of a society straining at the seams -- but it manages the neat trick of being both charming and bilious.</snippet>
+         <url>http://www.boston.com/movies/display?display=movie&amp;id=7441</url>
+         <critic>Ty Burr</critic>
+      </review>
+      <review>
+         <snippet>Not an ordinary film.</snippet>
+         <url>http://ae.miami.com/entertainment/ui/miami/movie.html?id=267991&amp;reviewId=17625</url>
+         <critic>Marta Barber</critic>
+      </review>
+      <review>
+         <snippet>Up and Down is not exactly the toughest movie on the block, but especially compared to most American comedies, it conveys a sense of scrofulous rue.</snippet>
+         <url>http://www.villagevoice.com/film/0508,hoberman1,61296,20.html</url>
+         <critic>J. Hoberman</critic>
+      </review>
+      <review>
+         <snippet>Has the look and feel of Euro-Altman (vastly superior to Euro-Disney, mind you).</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A269037</url>
+         <critic>Marc Savlov</critic>
+      </review>
+      <review>
+         <snippet>Uneven and erratic and far too busy, its flashes of brilliance dimmed by overambitious meanderings.</snippet>
+         <url>http://www.theglobeandmail.com/servlet/ArticleNews/TPStory/LAC/20050325/UP25/TPEntertainment/Film</url>
+         <critic>Rick Groen</critic>
+      </review>
+      <review>
+         <snippet>Sags into a dreary, humorless family melodrama.</snippet>
+         <url>http://www.theavclub.com/review_pop.php?review_id=8335</url>
+         <critic>Scott Tobias</critic>
+      </review>
+      <review>
+         <snippet>Hrebejk's film remains clear-eyed and satisfyingly complex right to the bitter end.</snippet>
+         <url>http://tvguide.com/movies/database/showmovie.asp?MI=45940</url>
+         <critic>Ken Fox</critic>
+      </review>
+      <review>
+         <snippet>The screenplay is chock-full of political and social observation tarnished by uneven ­acting and editing. The clumsy humor doesn't translate well.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/moviereviews/story/284459p-243456c.html</url>
+         <critic>Jami Bernard</critic>
+      </review>
+   </reviews>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

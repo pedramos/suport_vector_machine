@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Two for the Money</name>
+   <company>Universal Pictures</company>
+   <genres>
+      <genre>Drama</genre>
+      <genre>SuspenseThriller</genre>
+   </genres>
+   <authors>
+      <author>Dan Gilroy</author>
+   </authors>
+   <directors>
+      <director>D.J. Caruso</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Al Pacino</actor>
+      <actor>Matthew McConaughey</actor>
+      <actor>Rene Russo</actor>
+      <actor>Arm Assante</actor>
+      <actor>Jeremy Piven</actor>
+      <actor>Jaime King</actor>
+      <actor>Kevin Chapman</actor>
+      <actor>Ralph Garman</actor>
+   </actors>
+   <release_date>October 7, 2005</release_date>
+   <running_time>122</running_time>
+   <rating>R</rating>
+   <reviews>
+      <review>
+         <snippet>In D.J. Caruso's Two for the Money, you can see Al Pacino doing something he's done a lot lately: Having a terrific time being an actor.</snippet>
+         <url>http://www.rogerebert.com/apps/pbcs.dll/article?AID=/20051006/REVIEWS/510070306/1023</url>
+         <critic>Roger Ebert</critic>
+      </review>
+      <review>
+         <snippet>Too long by about 20 minutes, and takes itself too seriously near the end. But if you're looking for a movie for a boys' night
+out, it's a winner.</snippet>
+         <url>http://www.nydailynews.com/10-07-2005/entertainment/col/story/353356p-301100c.html</url>
+         <critic>Jack Mathews</critic>
+      </review>
+      <review>
+         <snippet>Big, loud, glossy and entertaining.</snippet>
+         <url>http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2005/10/07/DDGRNF31LO1.DTL&amp;type=movies</url>
+         <critic>G. Allen Johnson</critic>
+      </review>
+      <review>
+         <snippet>For all its swaggering bravado, Pacino's turn in Two For The Money is the reverse image of his "Devil's Advocate" character: Instead of the omniscient, all-powerful operator he presents himself as, he's a gambler grasping at a lifestyle that's always just beyond his means.</snippet>
+         <url>http://avclub.com/content/node/41432</url>
+         <critic>Scott Tobias</critic>
+      </review>
+      <review>
+         <snippet>While it's focused on the people -- on men who never had mentors struggling to mentor themselves and each other -- the movie works as a smart B film.</snippet>
+         <url>http://www.oregonlive.com/movies/oregonian/index.ssf?/base/entertainment/1128603659112860.xml&amp;coll=7</url>
+         <critic>M. E. Russell</critic>
+      </review>
+      <review>
+         <snippet>Over the years, Pacino's Method has become his madness, and now, whether he's playing Shylock or Satan, he doesn't become the part so much as the part becomes him.</snippet>
+         <url>http://www.premiere.com/article.asp?section_id=2&amp;article_id=2353</url>
+         <critic>Peter Debruge</critic>
+      </review>
+      <review>
+         <snippet>A sloppy and ridiculous movie that Pacino makes oddly entertaining.</snippet>
+         <url>http://www.nypost.com/movies/53378.htm</url>
+         <critic>Kyle Smith</critic>
+      </review>
+      <review>
+         <snippet>Marginally worth seeing if you're a Pacino fan but, even then, waiting for the DVD is the smart bet.</snippet>
+         <url>http://movie-reviews.colossus.net/movies/t/two_money.html</url>
+         <critic>James Berardinelli</critic>
+      </review>
+      <review>
+         <snippet>It's a compelling drama, if only a little hollow. For my money, Pacino's bark is ultimately better than Two For the Money's bite.</snippet>
+         <url>http://metromix.chicagotribune.com/movies/mmx-0501007-movies-review-money,0,2237651.story?coll=mmx-movies_top_heds</url>
+         <critic>Robert K. Elder</critic>
+      </review>
+      <review>
+         <snippet>It says in the beginning of the film that Two for the Money is "inspired by a true story." Problem is, it's just not that inspired.</snippet>
+         <url>http://ae.philly.com/entertainment/ui/philly/movie.html?id=432002&amp;reviewId=19216</url>
+         <critic>Steven Rea</critic>
+      </review>
+      <review>
+         <snippet>McConaughey will never be an actor who lets you into his soul, but he's credible as a good ole boy.</snippet>
+         <url>http://www.usatoday.com/life/movies/reviews/2005-10-06-two-for-the-money_x.htm</url>
+         <critic>Mike Clark</critic>
+      </review>
+      <review>
+         <snippet>Silly but enjoyable drama.</snippet>
+         <url>http://spacefinder.chicagoreader.com/movies/briefs/28645_TWO_FOR_THE_MONEY.html</url>
+         <critic>J.R. Jones</critic>
+      </review>
+      <review>
+         <snippet>Has its rollicking moments and snappy lines but even Pacino can't elevate them into more than a fleetingly juicy treat. This is a movie that desperately wishes it had been written by David Mamet.</snippet>
+         <url>http://www.filmthreat.com/Reviews.asp?Id=8047</url>
+         <critic>Rick Kisonak</critic>
+      </review>
+      <review>
+         <snippet>It never quite adds up to anything. It's engaging enough while it's going on, but has little visceral impact or resonance.</snippet>
+         <url>http://seattlepi.nwsource.com/movies/243647_twoforthemoney07.html</url>
+         <critic>William Arnold</critic>
+      </review>
+      <review>
+         <snippet>Sports betting is a great subject for a movie, but Two for the Money is short on the number-crunching nitty-gritty.</snippet>
+         <url>http://www.ew.com/ew/article/review/movie/0,6115,1114317_1_0_,00.html</url>
+         <critic>Owen Gleiberman</critic>
+      </review>
+      <review>
+         <snippet>Dramatic failings are only exacerbated by D.J. Caruso's direction: He composes every frame as if for television -- despite the fact that the film is shot in widescreen -- and his visual style is about as cinematic as sports talk radio.</snippet>
+         <url>http://www.laweekly.com/film/film_results.php?showid=3597&amp;Sumbit.x=42&amp;Sumbit.y=5</url>
+         <critic>James C. Taylor</critic>
+      </review>
+      <review>
+         <snippet>A muddled melodrama about the shady and questionable though not quite illegal world of "sports advisers."</snippet>
+         <url>http://www.hollywoodreporter.com/thr/reviews/review_display.jsp?vnu_content_id=1001262228</url>
+         <critic>Kirk Honeycutt</critic>
+      </review>
+      <review>
+         <snippet>Despite nice touches, pic meanders in the middle and ends flatly.</snippet>
+         <url>http://www.variety.com/review/VE1117928440?categoryid=31&amp;cs=1</url>
+         <critic>Brian Lowry</critic>
+      </review>
+      <review>
+         <snippet>A confusion of tones, intentions and allusions, Two for the Money lurches from upbeat to downbeat without ever settling into a coherent groove.</snippet>
+         <url>http://movies2.nytimes.com/2005/10/07/movies/07mone.html</url>
+         <critic>Manohla Dargis</critic>
+      </review>
+      <review>
+         <snippet>Pure, unself-conscious macho camp, but it's not like Pacino and McConaughey don't know it. They're pitching tents and romping around in the grass like Jerry Maguire on steroids.</snippet>
+         <url>http://www.calendarlive.com/movies/chocano/cl-et-money7oct07,0,4225412.story</url>
+         <critic>Carina Chocano</critic>
+      </review>
+      <review>
+         <snippet>It's as if a version of Oliver Stone's movie has been frozen in some fraternity house beer cooler since 1987 and thawed for the age of plasma screen TVs.</snippet>
+         <url>http://www.boston.com/movies/display?display=movie&amp;id=7804</url>
+         <critic>Wesley Morris</critic>
+      </review>
+      <review>
+         <snippet>Pacino is a one-man three-ring circus, blustering, capering, cursing, raging and weaseling his way through this predictable morality play like a trickster Satan on speed.</snippet>
+         <url>http://online.tvguide.com/Movies/database/ShowMovie.asp?MI=46056</url>
+         <critic>Maitland McDonagh</critic>
+      </review>
+      <review>
+         <snippet>If you expect anything more substantive from a movie - characters of more than one dimension, storylines that at the least play new riffs on old themes, plot developments that flow from the narrative - you'd best look elsewhere.</snippet>
+         <url>http://www.baltimoresun.com/entertainment/movies/bal-to.money07oct07,1,2298741.story?coll=bal-movies-utility</url>
+         <critic>Chris Kaltenbach</critic>
+      </review>
+      <review>
+         <snippet>A preposterous, steroidal mess.</snippet>
+         <url>http://www.empireonline.com/incinemas/ReviewComplete.asp?FID=133040</url>
+         <critic>Simon Braund</critic>
+      </review>
+      <review>
+         <snippet>In keeping with his apparent ambition to play each character more berserk than the last, Pacino can't discuss wine choice without sounding on the brink of aneurysm.</snippet>
+         <url>http://www.villagevoice.com/film/0540,tracking3,68570,20.html</url>
+         <critic>Ben Kenigsberg</critic>
+      </review>
+      <review>
+         <snippet>The direction by Caruso adds little to the dynamics, although the script by Dan Gilroy offers the occasional gem. Nevertheless, Two for the Money is hardly a cineplex bargain.</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A295566</url>
+         <critic>Marjorie Baumgarten</critic>
+      </review>
+      <review>
+         <snippet>Falls somewhere on that aesthetic scale between mediocre and flat-out bad.</snippet>
+         <url>http://www.theglobeandmail.com/servlet/ArticleNews/TPStory/LAC/20051007/MONEY07/TPEntertainment/Film</url>
+         <critic>Rick Groen</critic>
+      </review>
+      <review>
+         <snippet>The fight between good and evil feels fixed in favor of Hollywood redemption.</snippet>
+         <url>http://www.washingtonpost.com/wp-dyn/content/article/2005/10/06/AR2005100600679.html</url>
+         <critic>Desson Thomson</critic>
+      </review>
+      <review>
+         <snippet>Two for the Money, which was written by Dan Gilroy (Freejack, Chasers), is so badly constructed and illogical that its inanities manage to drown the actor (Pacino) out.</snippet>
+         <url>http://ae.miami.com/entertainment/ui/miami/movie.html?id=432002&amp;reviewId=19226</url>
+         <critic>Rene Rodriguez</critic>
+      </review>
+   </reviews>
+   <oscar_winning_actors_present/>
+   <num_oscar_winning_actors>1</num_oscar_winning_actors>
+   <oscar_winning_actor>al pacino</oscar_winning_actor>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

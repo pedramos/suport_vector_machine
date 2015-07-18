@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Tyler Perry&amp;#039;s Meet the Browns</name>
+   <company>Lionsgate</company>
+   <genres>
+      <genre>Comedy</genre>
+      <genre>Drama</genre>
+   </genres>
+   <authors>
+      <author>Tyler Perry</author>
+   </authors>
+   <directors>
+      <director>Tyler Perry</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Tyler Perry</actor>
+      <actor>David Mann</actor>
+      <actor>Tamela Mann</actor>
+      <actor>Angela Bassett</actor>
+      <actor>Lance Gross</actor>
+      <actor>Chloe Bailey</actor>
+      <actor>Mariana Tolbert</actor>
+      <actor>Rick Fox</actor>
+   </actors>
+   <release_date>March 21, 2008</release_date>
+   <running_time>100</running_time>
+   <rating>PG-13</rating>
+   <reviews>
+      <review>
+         <snippet>The importance of faith, church, kin, staying off drugs, sharing food, repenting from sin, forgiving sinners, appreciating a good black man, rejecting a bad one, and honoring black matriarchy is enumerated with typical, reassuring Perry broadness.</snippet>
+         <url>http://www.ew.com/ew/article/0,,20186216,00.html</url>
+         <critic>Lisa Schwarzbaum</critic>
+      </review>
+      <review>
+         <snippet>The women of Perry's army will come out feeling they've been well-served, and for the rest of us there's Bassett, getting her groove back after a spate of less than worthy roles. Perry's getting his groove, too - I give him two more films and an A-list cameraman.</snippet>
+         <url>http://www.boston.com/movies/display?display=movie&amp;id=11149</url>
+         <critic>Ty Burr</critic>
+      </review>
+      <review>
+         <snippet>What he serves up -- a mixture of moralism and forgiveness, semibawdy humor and cautionary drama, mockery and affection -- may sometimes lack coherence, but never integrity.</snippet>
+         <url>http://movies.nytimes.com/2008/03/22/movies/22tyle.html?ref=movies</url>
+         <critic>A.O. Scott</critic>
+      </review>
+      <review>
+         <snippet>Often plays more like "Tyler Perry's Greatest Hits" as it recycles various elements from the writer-director's earlier works.</snippet>
+         <url>http://www.variety.com/review/VE1117936586.html?categoryid=31&amp;cs=1</url>
+         <critic>Joe Leydon</critic>
+      </review>
+      <review>
+         <snippet>Many of the cast members originated their roles onstage, and the ensemble scenes capture the spirited sense of fun that is Perry's trademark.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/2008/03/21/2008-03-21_tyler_perrys_meet_the_browns_is_a_bit_of.html</url>
+         <critic>Elizabeth Weitzman</critic>
+      </review>
+      <review>
+         <snippet>Features a fine performance by Angela Bassett, but her work is the sole subtle element.</snippet>
+         <url>http://www.hollywoodreporter.com/hr/film/reviews/article_display.jsp?&amp;rid=10857</url>
+         <critic>Frank Scheck</critic>
+      </review>
+      <review>
+         <snippet>The playwright, actor, director and drag queen (yes, his bewigged and be wild Madea makes a brief and totally gratuitous appearance in his new film) knows how to give human dimension, and a dimension of humor, to the cliches and stereotypes.</snippet>
+         <url>http://www.philly.com/inquirer/columnists/steven_rea/20080321_There_s_nothing_subtle_about_Tyler_Perry_and_his_NO_HEAD_SPECIFIED.html</url>
+         <critic>Steven Rea</critic>
+      </review>
+      <review>
+         <snippet>Surprisingly half-decent--surprising because Perry’s not about to switch up his hardly revelatory but consistently bankable box-office signature:</snippet>
+         <url>http://www.villagevoice.com/film/0812,tyler-perry-s-meet-the-browns,388532,20.html</url>
+         <critic>Aaron Hillis</critic>
+      </review>
+      <review>
+         <snippet>Even his brief appearance onscreen as his most popular character, Madea, the sassy, tough-talking grandma, feels like a calculated addition rather than an organic necessity.</snippet>
+         <url>http://www.calendarlive.com/movies/reviews/cl-et-browns24mar24,0,6267436.story</url>
+         <critic>Mark Olsen</critic>
+      </review>
+      <review>
+         <snippet>Meet the Browns, like the rest of Tyler Perry's movies and plays, will find its audience. His talent lies in knowing what people will buy. He's a marketer, not a filmmaker.</snippet>
+         <url>http://www.salon.com/ent/movies/review/2008/03/21/browns/</url>
+         <critic>Stephanie Zacharek</critic>
+      </review>
+      <review>
+         <snippet>Perry's methods are never subtle, but no contemporary filmmaker works harder to make sure ribs are tickled and tears are jerked.</snippet>
+         <url>http://www.theglobeandmail.com/servlet/story/RTGAM.20080324.wbrown24/BNStory/Entertainment/home</url>
+         <critic>Jason Anderson</critic>
+      </review>
+      <review>
+         <snippet>Browns is ultimately a victim of its creator's success: What once felt novel now feels well-worn, following the success of Perry's films and imitators like "First Sunday."</snippet>
+         <url>http://www.avclub.com/content/cinema/meet_the_browns</url>
+         <critic>Nathan Rabin</critic>
+      </review>
+      <review>
+         <snippet>Perry tosses everything at his disposal into his movie gumbo, even a completely gratuitous appearance by his signature, self-performed, alter-ego in drag Madea – most likely to set up the premise for his next film "Madea Goes to Jail."</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A602676</url>
+         <critic>Marjorie Baumgarten</critic>
+      </review>
+      <review>
+         <snippet>There are a few laughs and some touching moments, but nothing you couldn't get by watching episodes of "Good Times" and "Little House on the Prairie" back to back.</snippet>
+         <url>http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2008/03/24/DD91VOGNJ.DTL</url>
+         <critic>Peter Hartlaub</critic>
+      </review>
+   </reviews>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

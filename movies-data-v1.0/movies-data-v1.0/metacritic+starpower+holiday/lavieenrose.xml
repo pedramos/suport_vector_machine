@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>La Vie en Rose</name>
+   <company>Picturehouse Entertainment</company>
+   <genres>
+      <genre>Drama</genre>
+      <genre>Foreign</genre>
+      <genre>Musical</genre>
+   </genres>
+   <authors>
+      <author>Olivier Dahan</author>
+      <author>Isabelle Sobelman</author>
+   </authors>
+   <directors>
+      <director>Olivier Dahan</director>
+   </directors>
+   <origins>
+      <origin>FranceUKCzechRepublic</origin>
+   </origins>
+   <actors>
+      <actor>Marion Cotillard</actor>
+      <actor>Sylvie Testud</actor>
+      <actor>Pascal Greggory</actor>
+      <actor>Emmanuelle Seigner</actor>
+      <actor>Jean-Paul Rouve</actor>
+      <actor>Gérard Depardieu</actor>
+      <actor>Clotilde Courau</actor>
+      <actor>Jean-Pierre Martins</actor>
+   </actors>
+   <release_date>June 8, 2007</release_date>
+   <running_time>140</running_time>
+   <rating>PG-13</rating>
+   <reviews>
+      <review>
+         <snippet>Olivier Dahan's La Vie en Rose, one of the best biopics I've seen, tells Piaf's life story through the extraordinary performance of Marion Cotillard, who looks like the singer.</snippet>
+         <url>http://rogerebert.suntimes.com/apps/pbcs.dll/article?AID=/20070614/REVIEWS/706140301</url>
+         <critic>Roger Ebert</critic>
+      </review>
+      <review>
+         <snippet>For Piaf fans, La Vie en Rose is a must-see. For fans yet-to-be, Dahan and Cotillard's film is an opportunity rich with discovery.</snippet>
+         <url>http://www.philly.com/inquirer/columnists/steven_rea/20070615_Becoming_singer_Edith_Piaf__A_brilliant_portrayal_beyond_acting.html</url>
+         <critic>Steven Rea</critic>
+      </review>
+      <review>
+         <snippet>Olivier Dahan's sprawling portrait of the life of Edith Piaf is the kind of grand, passionate historical drama that no one seems to be able to pull off any more.</snippet>
+         <url>http://seattlepi.nwsource.com/movies/320761_rose22q.html</url>
+         <critic>Sean Axmaker</critic>
+      </review>
+      <review>
+         <snippet>Dahan's impressionistic heartbreaker of a movie gets it all in. And Marion Cotillard, lip-syncing Piaf's songs and digging into her soul with gale-force urgency, gives a performance for the ages.</snippet>
+         <url>http://www.rollingstone.com/reviews/movie/12887017/review/15101818/la_vie_en_rose_la_mome</url>
+         <critic>Peter Travers</critic>
+      </review>
+      <review>
+         <snippet>It's sometimes wrenching to watch, but it's too gripping to turn away from.</snippet>
+         <url>http://www.tvguide.com/detail/movie.aspx?tvobjectid=288438&amp;more=ucmoviereview</url>
+         <critic>Maitland McDonagh</critic>
+      </review>
+      <review>
+         <snippet>Hurtling and impassioned, driven by some of the greatest popular music ever recorded, this wildly overripe and unkempt biopic is a true experience.</snippet>
+         <url>http://www.ew.com/ew/article/0,,20041517,00.html</url>
+         <critic>Owen Gleiberman</critic>
+      </review>
+      <review>
+         <snippet>Cotillard brings honesty to histrionics. She makes Piaf - "the little sparrow" - soar.</snippet>
+         <url>http://www.baltimoresun.com/entertainment/movies/bal-to.rose22jun22,0,3995733.story?coll=bal-movies-utility</url>
+         <critic>Michael Sragow</critic>
+      </review>
+      <review>
+         <snippet>How do you tell the true story of a mythical woman? In epic proportions, of course.</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A493691</url>
+         <critic>Toddy Burton</critic>
+      </review>
+      <review>
+         <snippet>It's not an ideal film, but it has the virtue of the ideal star, and that counts.</snippet>
+         <url>http://www.oregonlive.com/movies/oregonian/index.ssf?/base/entertainment/118297771068340.xml&amp;coll=7</url>
+         <critic>Shawn Levy</critic>
+      </review>
+      <review>
+         <snippet>If even half of Olivier Dahan's robust film about Piaf's life is true -- and let's face it, much remains shrouded in myth and mystery -- it's a wonder she could get dressed in the morning, let alone forge a legendary singing career.</snippet>
+         <url>http://www.boston.com/movies/display?display=movie&amp;id=7751</url>
+         <critic>Wesley Morris</critic>
+      </review>
+      <review>
+         <snippet>La Vie en Rose elevates Piaf the archetype over Piaf the artist. Although I question this approach, I'm not sure it could have been done any differently, at least given the facts of Piaf's life. If there is such a way, Duhan didn't find it.</snippet>
+         <url>http://www.csmonitor.com/2007/0608/p14s03-almo.html</url>
+         <critic>Peter Rainer</critic>
+      </review>
+      <review>
+         <snippet>Surprisingly but fittingly, for a film about the life of a singer, the use of songs is generally elliptical.</snippet>
+         <url>http://www.theglobeandmail.com/servlet/story/RTGAM.20070607.wvierose08/BNStory/Entertainment/home</url>
+         <critic>Kamal AL-Solaylee</critic>
+      </review>
+      <review>
+         <snippet>Thanks to the extraordinary performance of Cotillard, who expertly lip- syncs to Piaf recordings and disappears into the part, few will regret seeing La Vie En Rose, named after a famous Piaf tune. Just brace yourself for a film of unvarying intensity that seems longer than its 140-minute running time.</snippet>
+         <url>http://www.nypost.com/seven/06082007/entertainment/movies/portrayal_softens_biopics_flaws_movies_lou_lumenick.htm</url>
+         <critic>Lou Lumenick</critic>
+      </review>
+      <review>
+         <snippet>The song for which Piaf is best-known - "Non, Je Ne Regrette Rien" ("No Regrets") - leads to a killer finale with Cotillard perfectly lip-synching Piaf's recording of it. Trust me; you'll want to own it.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/2007/06/08/2007-06-08_piaf_pic_strikes_a_vocal_cord.html</url>
+         <critic>Jack Mathews</critic>
+      </review>
+      <review>
+         <snippet>The film is long and sometimes harrowing, but also enthralling.</snippet>
+         <url>http://online.wsj.com/article/SB118125770736228406.html</url>
+         <critic>Joe Morgenstern</critic>
+      </review>
+      <review>
+         <snippet>Marion Cotillard astonishes as Edith Piaf in 'La Vie en Rose.</snippet>
+         <url>http://www.calendarlive.com/movies/reviews/cl-et-vieenrose8jun08,0,3511610.story?coll=cl-mreview</url>
+         <critic>Carina Chocano</critic>
+      </review>
+      <review>
+         <snippet>Cotillard leaves you loving her Piaf, wishing you could reach through the screen and steer her life a bit differently.</snippet>
+         <url>http://www.washingtonpost.com/ac2/wp-dyn?node=cityguide/profile&amp;id=1133581&amp;categories=Movies&amp;nm=1</url>
+         <critic>Philip Kennicott</critic>
+      </review>
+      <review>
+         <snippet>There's a riveting tale within this awkward litany of pivotal moments. Still, despite the film's uneven nature, Cotillard's extraordinary performance is worth experiencing.</snippet>
+         <url>http://www.usatoday.com/life/movies/reviews/2007-06-07-la-vie-en-rose_N.htm</url>
+         <critic>Staff (Not credited)</critic>
+      </review>
+      <review>
+         <snippet>Wildly uneven.</snippet>
+         <url>http://metromix.chicagotribune.com/movies/mmx-070615-movies-review-rose,0,4601508.story?coll=mmx-movies_top_heds</url>
+         <critic>Michael Phillips</critic>
+      </review>
+      <review>
+         <snippet>A far-from-rosy life story makes this lengthy biopic entertaining, but despite a strong lead performance it fails to get under Piaf’s skin.</snippet>
+         <url>http://www.empireonline.com/reviews/review.asp?FID=135020</url>
+         <critic>Anna Smith</critic>
+      </review>
+      <review>
+         <snippet>She lip-syncs convincingly to Piaf's songs. Even when she overacts like mad, she makes you think she’s Piaf overacting like mad--the little sparrow with the foghorn pipes.</snippet>
+         <url>http://nymag.com/movies/reviews/33141/</url>
+         <critic>David Edelstein</critic>
+      </review>
+      <review>
+         <snippet>The film is messy the way Piaf's life was messy: It's unafraid of extravagant gestures even when they fail to come off.</snippet>
+         <url>http://www.hollywoodreporter.com/hr/film/reviews/article_display.jsp?&amp;rid=9342</url>
+         <critic>Kirk Honeycutt</critic>
+      </review>
+      <review>
+         <snippet>A feverish, unremitting and grimly joyless film.</snippet>
+         <url>http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2007/06/08/DDGG6QACSA1.DTL&amp;type=movies</url>
+         <critic>Steven Winn</critic>
+      </review>
+      <review>
+         <snippet>Dahan's filmmaking damn near sabotages the performance.</snippet>
+         <url>http://www.salon.com/ent/movies/review/2007/06/08/la_vie/index.html</url>
+         <critic>Stephanie Zacharek</critic>
+      </review>
+      <review>
+         <snippet>La Vie en Rose, which Mr. Dahan wrote as well as directed, has an intricate structure, which is a polite way of saying that it's a complete mess... In the end, as often happens in movies of this kind, La Vie en Rose is saved by Piaf herself.</snippet>
+         <url>http://movies2.nytimes.com/2007/06/08/movies/08vie.html?em&amp;ex=1181361600&amp;en=43350787f491ca1b&amp;ei=5087%0A</url>
+         <critic>A.O. Scott</critic>
+      </review>
+      <review>
+         <snippet>Uplifted beyond its merits by a stunning performance from Marion Cotillard, the humdrum biopic of Edith Piaf, La Vie En Rose, jogs obligingly along with Piaf the legend rather than the woman.</snippet>
+         <url>http://www.villagevoice.com/film/0723,taylor,76873,20.html</url>
+         <critic>Ella Taylor</critic>
+      </review>
+      <review>
+         <snippet>Marion Cotillard tears up all the available scenery in this overblown, achronological biopic of French pop singer Edith Piaf.</snippet>
+         <url>http://onfilm.chicagoreader.com/movies/briefs/31729_VIE_EN_ROSE.html</url>
+         <critic>Jonathan Rosenbaum</critic>
+      </review>
+      <review>
+         <snippet>For all its florid pretensions and epic length, the film's overwrought take on its subject's not-so-rosy life leaves behind no lasting insight.</snippet>
+         <url>http://www.avclub.com/content/cinema/la_vie_en_rose</url>
+         <critic>Nathan Rabin</critic>
+      </review>
+      <review>
+         <snippet>There is no rhyme or reason to this jumble -- except perhaps to stress Edith's endless self-victimization. This lack of narrative coherence naturally has the effect of distancing us from her story.</snippet>
+         <url>http://www.time.com/time/arts/article/0,8599,1631022,00.html</url>
+         <critic>Richard Schickel</critic>
+      </review>
+   </reviews>
+   <summer_release>true</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

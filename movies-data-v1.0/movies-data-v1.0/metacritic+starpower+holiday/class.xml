@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Class, The</name>
+   <company>Sony Pictures Classics</company>
+   <genres>
+      <genre>Drama</genre>
+   </genres>
+   <authors>
+      <author>Robin Campillo</author>
+      <author>Laurent Cantet</author>
+   </authors>
+   <directors>
+      <director>Laurent Cantet</director>
+   </directors>
+   <origins>
+      <origin>France</origin>
+   </origins>
+   <actors>
+      <actor>François Bégaudeau</actor>
+   </actors>
+   <release_date>December 19, 2008</release_date>
+   <running_time>128</running_time>
+   <rating>PG-13</rating>
+   <reviews>
+      <review>
+         <snippet>Talky in the best sense, the film exhilarates with its lively, authentic classroom banter while its emotional undercurrents build steadily but almost imperceptibly over a swift 129 minutes. One of the most substantive and purely entertaining movies in competition at Cannes this year.</snippet>
+         <url>http://www.variety.com/review/VE1117937264.html?categoryid=31&amp;cs=1&amp;query=the+class</url>
+         <critic>Justin Chang</critic>
+      </review>
+      <review>
+         <snippet>It is hard to think of another film more tightly autobiographical than this one. It's even harder to think of other films that build so gripping a narrative out of a string of comparatively minor and disparate incidents.</snippet>
+         <url>http://www.time.com/time/arts/article/0,8599,1867216,00.html</url>
+         <critic>Richard Schickel</critic>
+      </review>
+      <review>
+         <snippet>This unassuming movie will nail you to your seat.</snippet>
+         <url>http://www.slate.com/id/2207068/</url>
+         <critic>Dana Stevens</critic>
+      </review>
+      <review>
+         <snippet>In a class by itself.</snippet>
+         <url>http://www.ew.com/ew/article/0,,20254176,00.html</url>
+         <critic>Lisa Schwarzbaum</critic>
+      </review>
+      <review>
+         <snippet>Cantet's real-time classroom scenes are revelations: They make you understand that teaching is moment to moment, an endless series of negotiations that hang on intangibles—on imagination and empathy and the struggle to stay centered. This is a remarkable movie.</snippet>
+         <url>http://nymag.com/movies/reviews/53598/</url>
+         <critic>David Edelstein</critic>
+      </review>
+      <review>
+         <snippet>The Class is clearly a microcosm of contemporary France, beset by social and economic tensions. More than that, though, it's a saga of education's struggles in many parts of the modern world. If only the film were pure fiction.</snippet>
+         <url>http://online.wsj.com/article/film_review.html</url>
+         <critic>Joe Morgenstern</critic>
+      </review>
+      <review>
+         <snippet>Wherever you were schooled, in public schools or private, in the slums or in the suburbs, you will recognize yourself in this film and laugh and beam and cower.</snippet>
+         <url>http://www.csmonitor.com/2009/0131/p25s02-almo.html</url>
+         <critic>Peter Rainer</critic>
+      </review>
+      <review>
+         <snippet>The movie is bursting with life, energy, fears, frustrations and the quick laughter of a classroom hungry for relief.</snippet>
+         <url>http://rogerebert.suntimes.com/apps/pbcs.dll/article?AID=/20090204/REVIEWS/902049991</url>
+         <critic>Roger Ebert</critic>
+      </review>
+      <review>
+         <snippet>This is one of the screen's most rewarding explorations of the teacher/student relationship in any language.</snippet>
+         <url>http://www.chicagotribune.com/entertainment/movies/chi-0206-the-class-reviewfeb06,0,6286019.story</url>
+         <critic>Michael Phillips</critic>
+      </review>
+      <review>
+         <snippet>I was much more disheartened leaving the movie the first time I saw it than I was the second. Its richness resides in its apparent objectivity. Without sacrificing a sense of hope, Cantet suggests that the school system is just like a certain vexing grammatical tense: imperfect but still fighting against irrelevance.</snippet>
+         <url>http://www.boston.com/movies/display?display=movie&amp;id=12387</url>
+         <critic>Wesley Morris</critic>
+      </review>
+      <review>
+         <snippet>I would be surprised if this brilliant and touching film didn't become required viewing for teachers all over the United States. Everyone else should see it as well--it's a wonderful movie.</snippet>
+         <url>http://www.newyorker.com/arts/critics/cinema/2008/12/22/081222crci_cinema_denby?currentPage=2</url>
+         <critic>David Denby</critic>
+      </review>
+      <review>
+         <snippet>The Class is not just the best film released thus far this year. It may be the most gripping.</snippet>
+         <url>http://www.washingtonpost.com/wp-dyn/content/article/2009/02/19/AR2009021902983.html</url>
+         <critic>John Anderson</critic>
+      </review>
+      <review>
+         <snippet>The young cast, all nonactors who developed their characters with Cantet and Bégaudeau, brings the weight of full lives to each of the students.</snippet>
+         <url>http://seattlepi.nwsource.com/movies/400734_class20q.html</url>
+         <critic>Sean Axmaker</critic>
+      </review>
+      <review>
+         <snippet>The Class ranks with the very best films ever made about teaching, and it's unlike any English or American film about teaching ever made.</snippet>
+         <url>http://www.baltimoresun.com/entertainment/movies/reviews/bal-to.theclass06mar06,0,1983746.story</url>
+         <critic>Michael Sragow</critic>
+      </review>
+      <review>
+         <snippet>The beauty of The Class is that it puts the lie to the one-teacher-can-make-a-difference myth propagated by so many other films.</snippet>
+         <url>http://www.avclub.com/content/cinema/the_class</url>
+         <critic>Scott Tobias</critic>
+      </review>
+      <review>
+         <snippet>The reality of François' classroom is so intense that it holds our interest even while the film's dramatic focus is building so quietly under the surface that we don't notice it at first.</snippet>
+         <url>http://www.latimes.com/entertainment/news/reviews/la-et-class19-2008dec19,0,6879139.story</url>
+         <critic>Kenneth Turan</critic>
+      </review>
+      <review>
+         <snippet>Here Mr. Cantet -- whose earlier features include "Human Resources" and "Time Out," two other dramas about systems of power -- has done that rarest of things in movies about children: He has allowed them to talk.</snippet>
+         <url>http://movies.nytimes.com/2008/09/26/movies/26clas.html?ref=movies</url>
+         <critic>Manohla Dargis</critic>
+      </review>
+      <review>
+         <snippet>The Class is a lovely, exhilarating work about the ways in which failure and frustration can open the pathways through which we make sense out of life.</snippet>
+         <url>http://www.salon.com/ent/movies/review/2008/09/26/class/index.html?CP=IMD&amp;DN=110</url>
+         <critic>Stephanie Zacharek</critic>
+      </review>
+      <review>
+         <snippet>For anyone who loves language, this cut-and-thrust is a heady delight, so rich and free-flowing in its rhythms that it's hard to decide whether what we're seeing is a vérité-style documentary or a realist drama.</snippet>
+         <url>http://www.villagevoice.com/2008-12-17/film/student-teacher-power-struggles-in-the-class/</url>
+         <critic>Ella Taylor</critic>
+      </review>
+      <review>
+         <snippet>The keen observations of The Class ultimately become a remedial education in themselves.</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A750897</url>
+         <critic>Marjorie Baumgarten</critic>
+      </review>
+      <review>
+         <snippet>Considering the strength of performances given by the 25-or-so teenage actors portraying the students, it's amazing that none of them have previous experience.</snippet>
+         <url>http://www.reelviews.net/php_review_template.php?identifier=1479</url>
+         <critic>James Berardinelli</critic>
+      </review>
+      <review>
+         <snippet>French movies are not so neatly resolved. In fact, the point of many French movies, such as this provocative one from director Laurent Cantet, is that some problems don't have satisfying solutions - or resolutions.</snippet>
+         <url>http://www.philly.com/inquirer/columnists/carrie_rickey/20090213_The_middle-school_tango_in_Paris.html</url>
+         <critic>Carrie Rickey</critic>
+      </review>
+      <review>
+         <snippet>The Class is a deeply moving film about the challenges of educating children in a complex and often turbulent world.</snippet>
+         <url>http://www.usatoday.com/life/movies/reviews/2009-01-29-the-class_N.htm</url>
+         <critic>Claudia Puig</critic>
+      </review>
+      <review>
+         <snippet>Fierce, funny and moving, The Class graduates with honors. It's unmissable.</snippet>
+         <url>http://www.rollingstone.com/reviews/movie/25757040/review/25757055/the_class</url>
+         <critic>Peter Travers</critic>
+      </review>
+      <review>
+         <snippet>A modestly scaled, sharply observed film.</snippet>
+         <url>http://blog.oregonlive.com/madaboutmovies/2009/02/movie_review_the_class_conflic.html</url>
+         <critic>Shawn Levy</critic>
+      </review>
+      <review>
+         <snippet>Most impressive, Cantet tracks the racial and ethnic resentments that simmer beneath the classroom discussions but become harder to quell when the parents get involved.</snippet>
+         <url>http://onfilm.chicagoreader.com/movies/briefs/34067_CLASS_ENTRE_LES_MURS.html</url>
+         <critic>J.R. Jones</critic>
+      </review>
+      <review>
+         <snippet>Skillfully straddles an intriguing line between reality and fiction.</snippet>
+         <url>http://www.miamiherald.com/entertainment/movies/reviews/story/922362.html</url>
+         <critic>Connie Ogle</critic>
+      </review>
+      <review>
+         <snippet>This is the most realistic film about teaching that you're ever likely to see.</snippet>
+         <url>http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2009/02/05/DD9U15MPRC.DTL&amp;type=movies</url>
+         <critic>Mick LaSalle</critic>
+      </review>
+      <review>
+         <snippet>The Class offers no Hollywood ending, but is rewarding for those up to the challenge.</snippet>
+         <url>http://www.nypost.com/seven/09252008/entertainment/movies/learning_his_lesson_130630.htm</url>
+         <critic>Lou Lumenick</critic>
+      </review>
+      <review>
+         <snippet>The Class is simultaneously old school and new, familiar in its themes but unique in design and, at its best, riveting in execution.</snippet>
+         <url>http://www.theglobeandmail.com/servlet/story/RTGAM.20090116.wclass16/BNStory/Entertainment/home</url>
+         <critic>Rick Groen</critic>
+      </review>
+      <review>
+         <snippet>The Class is a one-trick show: once you spot its approach, the narrative falls into a routine. To the "nsiders," the film is as familiar as an an aerial virtual reality ride would be to an airplane pilot. (This is hardly a surprise, since Bégaudeau was himself once an insider, though now safe in a film critic's chair.)</snippet>
+         <url>http://www.filmthreat.com/index.php?section=reviews&amp;Id=11583</url>
+         <critic>Matthew Sorrento</critic>
+      </review>
+   </reviews>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

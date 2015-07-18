@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>3 Needles</name>
+   <company>Wolfe Releasing</company>
+   <genres>
+      <genre>Drama</genre>
+   </genres>
+   <authors>
+      <author>Thom Fitzgerald</author>
+   </authors>
+   <directors>
+      <director>Thom Fitzgerald</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Lucy Liu</actor>
+      <actor>Shawn Ashmore</actor>
+      <actor>Chloë Sevigny</actor>
+      <actor>Sra Oh</actor>
+      <actor>Olympia Dukakis</actor>
+      <actor>Stockard Channing</actor>
+   </actors>
+   <release_date>December 1, 2006</release_date>
+   <running_time>127</running_time>
+   <rating>Not</rating>
+   <reviews>
+      <review>
+         <snippet>After reminding us that the AIDS crisis in the West is far from over in "The Event," Fitzgerald widened his scope with this much-needed perspective on the global dimensions the disease has achieved. Despite the importance and seriousness of the subject, there's plenty of Fitzgerald's brand of sly humor on hand, particularly in the scenes involving the Quebecoise porn industry.</snippet>
+         <url>http://tvguide.com/detail/movie.aspx?tvobjectid=284066&amp;more=ucmoviereview</url>
+         <critic>Ken Fox</critic>
+      </review>
+      <review>
+         <snippet>Had it taken a more hard-headed approach, 3 Needles, might have been to the AIDS epidemic what "Traffic" was to the drug trade.</snippet>
+         <url>http://movies2.nytimes.com/2006/12/01/movies/01need.html?ref=movies</url>
+         <critic>Stephen Holden</critic>
+      </review>
+      <review>
+         <snippet>Though not as coherent as it might be, 3 Needles, with its stunning cinematography by Thomas M. Harting, is never less than engaging and suggests powerfully the myriad reasons why AIDS, after a quarter of a century, remains so difficult to control and combat.</snippet>
+         <url>http://www.calendarlive.com/printedition/calendar/cl-et-needles1dec01,0,708560.story</url>
+         <critic>Kevin Thomas</critic>
+      </review>
+      <review>
+         <snippet>If good intentions were all it took to create a decent movie, Thom Fitzgerald's 3 Needles would be some kind of masterpiece.</snippet>
+         <url>http://www.boston.com/movies/display?display=movie&amp;id=8980</url>
+         <critic>Wesley Morris</critic>
+      </review>
+      <review>
+         <snippet>When 3 Needles premiered at Toronto last year, the stories were overlapping, in the style of "Babel" but without a unifying theme. It's less cumbersome as three separate stories, but they do not add up to much.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/moviereviews/story/476231p-400428c.html</url>
+         <critic>Jack Mathews</critic>
+      </review>
+      <review>
+         <snippet>This sprawling and ambitious three-part Canadian film traces the spread of AIDS on three continents, but it gets off to a confusing start… By the time the movie returned to Africa, it had lost me despite its talented cast and its noble intentions.</snippet>
+         <url>http://onfilm.chicagoreader.com/movies/capsules/30667_THREE_NEEDLES</url>
+         <critic>Jonathan Rosenbaum</critic>
+      </review>
+      <review>
+         <snippet>3 Needles is a great discussion tool for World AIDS Awareness Day that never achieves coherent shape as a three-paneled drama.</snippet>
+         <url>http://www.variety.com/review/VE1117928409.html?categoryid=31&amp;cs=1&amp;p=0</url>
+         <critic>Dennis Harvey</critic>
+      </review>
+      <review>
+         <snippet>In terms of simple provocation, nothing in this melodramatic mosaic of global suffering comes close to matching director Thom Fitzgerald's press kit prediction that "the AIDS pandemic will be seen in retrospect as much more significant than the ongoing jihad." A film about THAT could be compelling; this one is merely content to suggest, cleverly and often, that it recognizes far more than we ever could the pain and cruelty of disease.</snippet>
+         <url>http://www.villagevoice.com/film/0648,nelson,75172,20.html</url>
+         <critic>Rob Nelson</critic>
+      </review>
+      <review>
+         <snippet>Writer-director Thom Fitzgerald's ambitious but hopelessly inchoate AIDS drama is actually three separate, sequentially-told stories.</snippet>
+         <url>http://metromix.chicagotribune.com/movies/mmx-061201-movies-review-needles,0,794757.story?coll=mmx-movies_top_heds</url>
+         <critic>Michael Phillips</critic>
+      </review>
+      <review>
+         <snippet>Give Fitzgerald credit for ambition and good intentions, but for all its truth-to-power saber-rattling, 3 Needles is distressingly dim.</snippet>
+         <url>http://www.avclub.com/content/node/55935</url>
+         <critic>Noel Murray</critic>
+      </review>
+      <review>
+         <snippet>It sometimes produces moments of unexpected power. It also produces a bizarre and fatally uneven movie, veering from black comedy to utter stupidity to maudlin religiosity, which seems to have been made in total defiance of both narrative conventions and emotional logic.</snippet>
+         <url>http://www.salon.com/ent/movies/review/2006/11/30/btm/index1.html</url>
+         <critic>Andrew O&amp;#039;Hehir</critic>
+      </review>
+      <review>
+         <snippet>If nothing else, Fitzgerald has demonstrated how huge a challenge the AIDS epidemic is on a worldwide scale, and how it will take a concerted, intelligent effort to solve it. It'll take a lot more than throwing money around.</snippet>
+         <url>http://sfgate.com/cgi-bin/article.cgi?f=/c/a/2006/12/01/DDG0SMM8ER1.DTL#flick</url>
+         <critic>G. Allen Johnson</critic>
+      </review>
+   </reviews>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

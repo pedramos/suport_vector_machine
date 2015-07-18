@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Underworld: Rise of the Lycans</name>
+   <company>Screen Gems (Sony)</company>
+   <genres>
+      <genre>Adventure</genre>
+      <genre>Horror</genre>
+      <genre>SuspenseThriller</genre>
+   </genres>
+   <authors>
+      <author>Danny Mc</author>
+      <author>Bride</author>
+      <author>Robert Orr, Len Wiseman</author>
+      <author>Howard Mc</author>
+      <author>Cain, Dirk Blackman</author>
+      <author>Danny Mc</author>
+   </authors>
+   <directors>
+      <director>Patrick Tatopoulos</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Michael Sheen</actor>
+      <actor>Bill Nighy</actor>
+      <actor>Rhona Mitra</actor>
+      <actor>Steven Mackintosh</actor>
+      <actor>Kevin Grevioux</actor>
+   </actors>
+   <release_date>January 23, 2009</release_date>
+   <running_time>minutes,</running_time>
+   <rating>R</rating>
+   <reviews>
+      <review>
+         <snippet>First-time helmer Patrick Tatopoulos (who designed creatures for all three pics) offers a satisfyingly exciting monster rally that often plays like a period swashbuckler.</snippet>
+         <url>http://www.variety.com/review/VE1117939445.html?categoryid=31&amp;cs=1</url>
+         <critic>Joe Leydon</critic>
+      </review>
+      <review>
+         <snippet>Thanks to sturdy performances by holdovers Michael Sheen and Bill Nighy as well as tidy, unfussy direction by first-timer Patrick Tatopoulos, the creature designer who is taking the reins from originator Len Wiseman, the third installment in the successful franchise should be to the fan base's lycan.</snippet>
+         <url>http://www.hollywoodreporter.com/hr/film-reviews/film-review-underworld-rise-of-the-lycans-1003934181.story</url>
+         <critic>Michael Rechtshaffen</critic>
+      </review>
+      <review>
+         <snippet>The highlight of this fantasy/horror hybrid is watching a pair of the best British character actors --- Bill Nighy and Michael Sheen -- shed their thespian respectability and unleash their inner beasts.</snippet>
+         <url>http://www.usatoday.com/life/movies/reviews/2009-01-26-underworld-rise-of-the-lycans_N.htm</url>
+         <critic>Claudia Puig</critic>
+      </review>
+      <review>
+         <snippet>Although the presence of Mr. Sheen is initially distracting, it soon becomes the movie's greatest asset. There is, as it turns out, some benefit to having a real performance even in a formulaic entertainment like this.</snippet>
+         <url>http://movies.nytimes.com/2009/01/24/movies/24unde.html?ref=movies</url>
+         <critic>Manohla Dargis</critic>
+      </review>
+      <review>
+         <snippet>Sheen and Nighy do their best with the material, but this is easily the worst Underworld so far.</snippet>
+         <url>http://www.ew.com/ew/article/0,,20254583,00.html</url>
+         <critic>Clark Collis</critic>
+      </review>
+      <review>
+         <snippet>Grimly competent.</snippet>
+         <url>http://www.latimes.com/entertainment/news/reviews/la-et-underworld26-2009jan26,0,6099670.story</url>
+         <critic>Glenn Whipp</critic>
+      </review>
+      <review>
+         <snippet>The first film was significantly better and, therefore, is the place to start for anyone with a modicum of interest. Underworld: Rise of the Lycans is an also-ran that is likely to be appreciated only by completists.</snippet>
+         <url>http://www.reelviews.net/php_review_template.php?identifier=1453</url>
+         <critic>James Berardinelli</critic>
+      </review>
+      <review>
+         <snippet>The enterprise is sluggish when it's not grinding toward the preposterous.</snippet>
+         <url>http://www.time.com/time/arts/article/0,8599,1873606,00.html</url>
+         <critic>Richard Corliss</critic>
+      </review>
+      <review>
+         <snippet>While it may not be "Citizen Canine," Rise of the Lycans tells its tale competently and without the derivative nature of its predecessors.</snippet>
+         <url>http://movies.tvguide.com/underworld-rise-lycans/review/296458</url>
+         <critic>Jeremy Wheeler</critic>
+      </review>
+      <review>
+         <snippet>Mincing around like a bored old glam rocker and hissing threats from behind electric neon eyes, Nighy seems to be the only person on set who found a glint of amusement in his part. He fares better than poor Sheen, a scraggly Wolverine who made a more credible vampire-slayer opposite Frank Langella’s Nixon.</snippet>
+         <url>http://www.laweekly.com/2009-01-29/film-tv/movie-reviews-new-in-town-taken-the-uninvited/2</url>
+         <critic>Jim Ridley</critic>
+      </review>
+      <review>
+         <snippet>Clumsy, ephemeral, and wholly unnecessary.</snippet>
+         <url>http://www.avclub.com/articles/underworld-rise-of-the-lycans,23019/</url>
+         <critic>Tasha Robinson</critic>
+      </review>
+      <review>
+         <snippet>It's a testament to Bill Nighy's cadaverous panache that this third entry in the ongoing exsanguinators vs. lycanthropes franchise (that's vampires and werewolves to anyone not weaned on Famous Monsters) is as tolerable as it is.</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A727799</url>
+         <critic>Marc Savlov</critic>
+      </review>
+      <review>
+         <snippet>The movie is humorless and monotonous, but watching the talented Sheen (Frost/Nixon, The Queen) give his all to such throwaway material is weirdly diverting.</snippet>
+         <url>http://onfilm.chicagoreader.com/movies/briefs/34052_UNDERWORLD_RISE_OF_THE_LYCANS.html</url>
+         <critic>Cliff Doerksen</critic>
+      </review>
+      <review>
+         <snippet>A needless threequel. Note to director: avoid 'rise of the' titles.</snippet>
+         <url>http://www.empireonline.com/reviews/review.asp?FID=135681</url>
+         <critic>Kim Newman</critic>
+      </review>
+   </reviews>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

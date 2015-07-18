@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Summer Palace</name>
+   <company>Palm Pictures</company>
+   <genres>
+      <genre>Drama</genre>
+      <genre>Romance</genre>
+   </genres>
+   <authors>
+      <author>Ma Yingli</author>
+      <author>Feng Mei</author>
+      <author>Ye Lou</author>
+   </authors>
+   <directors>
+      <director>Ye Lou</director>
+   </directors>
+   <origins>
+      <origin>ChinaFrance</origin>
+   </origins>
+   <actors>
+      <actor>Lei Hao</actor>
+      <actor>Xiaodong Guo</actor>
+      <actor>Long Duan</actor>
+      <actor>Lin Cui</actor>
+      <actor>Xueyun Bai</actor>
+      <actor>Ling Hu</actor>
+      <actor>Chi Le</actor>
+      <actor>Xianmin Zhang</actor>
+   </actors>
+   <release_date>January 18, 2008</release_date>
+   <running_time>140</running_time>
+   <rating>Not</rating>
+   <reviews>
+      <review>
+         <snippet>In Summer Palace Lou nonetheless succeeds in finding a cinematic language that does more than summarize the important events of a confusing decade. He distills the inner confusion -- the swirl of moods, whims and needs -- that is the lived and living essence of history.</snippet>
+         <url>http://movies.nytimes.com/2008/01/18/movies/18pala.html?ref=movies</url>
+         <critic>A.O. Scott</critic>
+      </review>
+      <review>
+         <snippet>The most important mainland Chinese film this decade.</snippet>
+         <url>http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2008/03/20/DDO3VNAI0.DTL#flick</url>
+         <critic>G. Allen Johnson</critic>
+      </review>
+      <review>
+         <snippet>For director Lou Ye, who also co-wrote the script and was a student in Beijing during that crucial year, Summer Palace is the story of his particular lost generation, a story he felt so deeply about he risked his career to tell it. Search out this vivid film in a theater. Don't let the sacrifices he made be in vain.</snippet>
+         <url>http://www.calendarlive.com/movies/reviews/cl-et-summer29feb29,0,7184929.story</url>
+         <critic>Kenneth Turan</critic>
+      </review>
+      <review>
+         <snippet>It's a bit like a Chinese "Splendor In The Grass."</snippet>
+         <url>http://www.tvguide.com/movies/summer-palace/review/291858</url>
+         <critic>Ken Fox</critic>
+      </review>
+      <review>
+         <snippet>A fascinating and frustrating film in turns, created out of scorching passions and built around a fascinating performance but rambling and choppy in the telling. It can overwhelm you and puzzle and repel you, sometimes within moments.</snippet>
+         <url>http://www.oregonlive.com/movies/oregonian/index.ssf?/base/entertainment/1205967370245940.xml&amp;coll=7</url>
+         <critic>Shawn Levy</critic>
+      </review>
+      <review>
+         <snippet>Jolting narrative ellipses sometimes threatens to bring the whole house of cards tumbling down. What never lessens is the movie's rapturous eroticism, and the exquisite longing in each one of Yu Hong's sideways glances.</snippet>
+         <url>http://www.laweekly.com/film+tv/film-reviews/film-reviews-summer-palace-city-of-men-a-walk-to-beautiful/18435/?page=2</url>
+         <critic>Scott Foundas</critic>
+      </review>
+      <review>
+         <snippet>In truth, I’ve never seen so much lovemaking in an aboveground film, but the revelation, and great triumph, of Lou’s work is that these scenes are never pornographic--that is, never separated from emotion.</snippet>
+         <url>http://www.newyorker.com/arts/critics/cinema/2008/01/21/080121crci_cinema_denby</url>
+         <critic>David Denby</critic>
+      </review>
+      <review>
+         <snippet>The bureaucrats in Beijing want to get rid of the sex and full-frontial nudity and scenes of cops beating protesters in Tiananmen Square. I would keep all that but cut out some of the flab in the second half of the 140-minute drama.</snippet>
+         <url>http://www.nypost.com/seven/01182008/entertainment/movies/epic_full_of_love__naked_truth_662698.htm</url>
+         <critic>V.A. Musetto</critic>
+      </review>
+      <review>
+         <snippet>Lou's mobile camera captures the flushed energy of the faces and bodies of beautiful youths in love with all the verve and commitment of the early French New Wave.</snippet>
+         <url>http://onfilm.chicagoreader.com/movies/capsules/30548_SUMMER_PALACE</url>
+         <critic>Shelly Kraicer</critic>
+      </review>
+      <review>
+         <snippet>At the heart of the film is a powerful performance by the beautiful and most promising Hao Lei as its tempestuous, complex heroine.</snippet>
+         <url>http://www.hollywoodreporter.com/hr/imdb/reviews/article_display.jsp?rid=1002538538&amp;vnu_special_account_code=thrsiteimdbpro</url>
+         <critic>Kirk Honeycutt</critic>
+      </review>
+      <review>
+         <snippet>Fourth feature by Mainland helmer Lou Ye ("Suzhou River," "Purple Butterfly") shoots for metaphysical drama but ends up saying very little beneath all the poetic voiceovers, sexual encounters and political seasoning.</snippet>
+         <url>http://www.variety.com/review/VE1117930547.html?categoryid=31&amp;cs=1&amp;p=0</url>
+         <critic>Derek Elley</critic>
+      </review>
+      <review>
+         <snippet>The director is at his best portraying the dingy dorms and vivid idealism of college life; his film stalls when it meanders away from these particulars toward a sweeping but empty attempt at the epic.</snippet>
+         <url>http://www.villagevoice.com/film/0803,wallace,78854,20.html</url>
+         <critic>Julia Wallace</critic>
+      </review>
+   </reviews>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

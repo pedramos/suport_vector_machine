@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Delta Farce</name>
+   <company>Lions Gate Films</company>
+   <genres>
+      <genre>Action</genre>
+      <genre>Adventure</genre>
+      <genre>Comedy</genre>
+   </genres>
+   <authors>
+      <author>Bear Aderhold</author>
+      <author>Tom Sullivan</author>
+   </authors>
+   <directors>
+      <director>C.B. Harding</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Larry The Cable Guy</actor>
+      <actor>Bill Engvall</actor>
+      <actor>DJ Qualls</actor>
+      <actor>Marisol Nichols</actor>
+      <actor>Danny Trejo</actor>
+   </actors>
+   <release_date>May 11, 2007</release_date>
+   <running_time>90</running_time>
+   <rating>PG-13</rating>
+   <reviews>
+      <review>
+         <snippet>If three of "The Magnificent Seven" had been Gomer Pyle, the result might have looked like Delta Farce, a movie rife with fat, fart and Fallujah jokes, but with a subcutaneous wit that has a lot to do with Iraq war fatigue.</snippet>
+         <url>http://www.variety.com/review/VE1117933607.html?categoryid=31&amp;cs=1</url>
+         <critic>John Anderson</critic>
+      </review>
+      <review>
+         <snippet>You could make a case that any movie in which Mexicans and rednecks become best of friends is a net positive for society. But to do that, you'd have to ignore the severe boredom that sets in about halfway through this comedy.</snippet>
+         <url>http://www.laweekly.com/film+tv/film-reviews/film-reviews-chalk-the-ex-28-weeks-later-and-delta-farce/16372/</url>
+         <critic>Luke Y. Thompson</critic>
+      </review>
+      <review>
+         <snippet>Dreadfully unfunny.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/2007/05/12/2007-05-12_idiots_liberate_the_village-1.html</url>
+         <critic>Jack Mathews</critic>
+      </review>
+      <review>
+         <snippet>The hilariously dirty insult comic Lisa Lampanelli shows up all too briefly as Engvall's shrewish wife.</snippet>
+         <url>http://www.hollywoodreporter.com/hr/film/reviews/article_display.jsp?JSESSIONID=rFXJGHfMy5KylJDdBtwTkvF7rGhZHv1545T7lt1nGC3h7zpf2d29!1840090366&amp;&amp;rid=9184</url>
+         <critic>Frank Scheck</critic>
+      </review>
+      <review>
+         <snippet>Perhaps the people most insulted are white Southerners, who presumably are expected to embrace one whopping brain-dead metaphor.</snippet>
+         <url>http://movies2.nytimes.com/2007/05/12/movies/12farc.html?ref=movies</url>
+         <critic>Andy Webster</critic>
+      </review>
+      <review>
+         <snippet>Overall the movie is too stupid to offend any but the most sensitive viewer.</snippet>
+         <url>http://www.tvguide.com/movies/delta-farce/review/287653</url>
+         <critic>Ken Fox</critic>
+      </review>
+      <review>
+         <snippet>Consider this the sequel to "Ernest in the Army " that the late Jim Varney never got around to making. It's not very good but at least it's not evil.</snippet>
+         <url>http://www.boston.com/ae/movies/articles/2007/05/12/you_asked_so_well_tell_farce_misses_its_mark/</url>
+         <critic>Ty Burr</critic>
+      </review>
+      <review>
+         <snippet>Delta Farce is so relentlessly racist (and homophobic), without ever having the intelligence to pass that bigotry off as satire, that viewers will be left thinking "Borat" has a soft touch.</snippet>
+         <url>http://www.theglobeandmail.com/servlet/story/RTGAM.20070511.wfarce11/BNStory/Entertainment/home</url>
+         <critic>Michael Harris</critic>
+      </review>
+      <review>
+         <snippet>Larry the Cable Guy channels both Moe and Curly in the Three Stooges-go-to-war comedy Delta Farce.</snippet>
+         <url>http://www.nypost.com/seven/05122007/entertainment/movies/its_bagh_dud_movies_kyle_smith.htm</url>
+         <critic>Kyle Smith</critic>
+      </review>
+      <review>
+         <snippet>A mindless comedy where the blatant racial stereotypes are outnumbered only by the flatulence jokes. The best thing that can be said about this movie is it falls just short of being an international incident.</snippet>
+         <url>http://www.sfgate.com/cgi-bin/article.cgi?file=/c/a/2007/05/14/DDGNOPPIV332.DTL&amp;type=movies</url>
+         <critic>Peter Hartlaub</critic>
+      </review>
+      <review>
+         <snippet>One of those celebrations of idiocy that never seem to go out of vogue.</snippet>
+         <url>http://www.premiere.com/moviereviews/3795/delta-farce.html</url>
+         <critic>Peter Debruge</critic>
+      </review>
+      <review>
+         <snippet>The worst thing about Delta Farce is its overall feeling of contempt--for the filmmaking process, for common decency, and, most despicably, for the audience.</snippet>
+         <url>http://www.avclub.com/content/cinema/delta_farce</url>
+         <critic>Steven Hyden</critic>
+      </review>
+      <review>
+         <snippet>Here's a sobering thought: If every war gets the comedy it deserves, could Delta Farce, a strenuously unfunny "Three Amigos" knockoff, be our M*A*S*H?</snippet>
+         <url>http://www.ew.com/ew/article/0,,20039073,00.html</url>
+         <critic>Scott Brown</critic>
+      </review>
+      <review>
+         <snippet>But is it funny? Not really.</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A472787</url>
+         <critic>Marrit Ingman</critic>
+      </review>
+      <review>
+         <snippet>If Director C.B. Harding's intention was to make one of the worst films in recent memory, congratulations are in order.</snippet>
+         <url>http://www.filmthreat.com/index.php?section=reviews&amp;Id=10000</url>
+         <critic>Michael Ferraro</critic>
+      </review>
+   </reviews>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Unknown Woman</name>
+   <company>Outsider Pictures</company>
+   <genres>
+      <genre>Drama</genre>
+      <genre>Mystery</genre>
+      <genre>SuspenseThriller</genre>
+   </genres>
+   <authors>
+      <author>Giuseppe Tornatore</author>
+   </authors>
+   <directors>
+      <director>Giuseppe Tornatore</director>
+   </directors>
+   <origins>
+      <origin>Italy</origin>
+      <origin>France</origin>
+   </origins>
+   <actors>
+      <actor>Kseniya Rappoport</actor>
+      <actor>Michele Placido</actor>
+      <actor>Claudia Gerini</actor>
+      <actor>Pierfrancesco Favino</actor>
+      <actor>Clara Dossena</actor>
+   </actors>
+   <release_date>May 30, 2008</release_date>
+   <running_time>118</running_time>
+   <rating>Not</rating>
+   <reviews>
+      <review>
+         <snippet>The final act is all but guaranteed to astonish and satisfy. See this movie.</snippet>
+         <url>http://www.filmthreat.com/index.php?section=reviews&amp;Id=11198</url>
+         <critic>Rick Kisonak</critic>
+      </review>
+      <review>
+         <snippet>Sweet, however, are the uses of melodrama in the skilled hands of Tornatore, for he transcends the lurid and the coincidental with range, depth and insight, and a bold, confident, suspenseful style, to create a fable of love and redemption.</snippet>
+         <url>http://www.calendarlive.com/movies/reviews/cl-et-capsules27-2008jun27,0,2059340.story</url>
+         <critic>Kevin Thomas</critic>
+      </review>
+      <review>
+         <snippet>Russian-born Xenia Rappoport gives it her tragic-heroine all as an abused Ukraine prostitute-turned-sneaky housemaid in Italy in The Unknown Woman.</snippet>
+         <url>http://www.ew.com/ew/article/0,,20203046,00.html</url>
+         <critic>Lisa Schwarzbaum</critic>
+      </review>
+      <review>
+         <snippet>It's an elegant nail-biter.</snippet>
+         <url>http://seattlepi.nwsource.com/movies/384674_limited24.html</url>
+         <critic>William Arnold</critic>
+      </review>
+      <review>
+         <snippet>It's a spellbinder with a lot of Hitchcock touches and an Ennio Morricone score to match. But does it play fair with us?</snippet>
+         <url>http://rogerebert.suntimes.com/apps/pbcs.dll/article?AID=/20080814/REVIEWS/808140307</url>
+         <critic>Roger Ebert</critic>
+      </review>
+      <review>
+         <snippet>The melodrama form allows Tornatore to examine such current issues as human trafficking and black-market babies within a yarn that, for all its sentiment, is never less than gripping.</snippet>
+         <url>http://onfilm.chicagoreader.com/movies/capsules/32958_UNKNOWN_WOMAN</url>
+         <critic>Andrea Gronvall</critic>
+      </review>
+      <review>
+         <snippet>Brings peaks of violence and suspense to the vivid story of a young East European prostitute-turned-cleaning lady intent on carrying out a mysterious mission in Italy.</snippet>
+         <url>http://www.variety.com/review/VE1117931926.html?categoryid=31&amp;cs=1&amp;p=0</url>
+         <critic>Deborah Young</critic>
+      </review>
+      <review>
+         <snippet>The film is flat-out gorgeous and contains moments of sheer lunacy.</snippet>
+         <url>http://www.tvguide.com/movies/unknown-woman/review/293967</url>
+         <critic>Maitland McDonagh</critic>
+      </review>
+      <review>
+         <snippet>Ms. Rappoport’s sturdy performance helps keep this outlandish melodrama from collapsing into unintended comedy.</snippet>
+         <url>http://movies.nytimes.com/2008/05/30/movies/30unkn.html?ref=movies</url>
+         <critic>Stephen Holden</critic>
+      </review>
+      <review>
+         <snippet>Rappoport is a powerhouse performer but the movie is an unstable concoction of political melodrama, film noir, and weepie.</snippet>
+         <url>http://www.csmonitor.com/2008/0531/p25s02-almo.html</url>
+         <critic>Peter Rainer</critic>
+      </review>
+      <review>
+         <snippet>It's an exceptionally well-made example of the kind of delirious, semi-Gothic, overcooked melodrama filmmakers from the Boot have long specialized in.</snippet>
+         <url>http://www.salon.com/ent/movies/btm/feature/2008/05/30/unknown/</url>
+         <critic>Andrew O&amp;#039;Hehir</critic>
+      </review>
+      <review>
+         <snippet>The movie's one flaw is this: The whole movie hangs on the gradual unraveling of the central mystery and is made with the expectation that the audience is fascinated and hanging on every tidbit.</snippet>
+         <url>http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2008/07/24/DD2511S6ML.DTL&amp;type=movies</url>
+         <critic>Mick LaSalle</critic>
+      </review>
+      <review>
+         <snippet>The movie looks great at least, and the cast includes such stalwarts of Italian cinema as Claudia Gerini and Pierfrancesco Favino.</snippet>
+         <url>http://www.boston.com/movies/display?display=movie&amp;id=11582</url>
+         <critic>Ty Burr</critic>
+      </review>
+      <review>
+         <snippet>Falters when it falls into exploitation (Irena's flashbacks to scenes of depraved sexual torture) and fatal contrivance.</snippet>
+         <url>http://www.washingtonpost.com/ac2/wp-dyn?node=cityguide/profile&amp;id=1138869&amp;categories=Movies</url>
+         <critic>Ann Hornaday</critic>
+      </review>
+      <review>
+         <snippet>Repellent piece of garbage.</snippet>
+         <url>http://www.villagevoice.com/film/0822,the-unknown-woman-la-sconosciuta,451874,20.html</url>
+         <critic>Ella Taylor</critic>
+      </review>
+   </reviews>
+   <summer_release>true</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

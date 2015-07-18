@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Fallen Idol, The (re-release)</name>
+   <company>Rialto Pictures LLC</company>
+   <genres>
+      <genre>Drama</genre>
+      <genre>Foreign</genre>
+      <genre>SuspenseThriller</genre>
+   </genres>
+   <authors>
+      <author>Graham Greene</author>
+      <author>Lesley Storm</author>
+      <author>William Templeton</author>
+   </authors>
+   <directors>
+      <director>Carol Reed</director>
+   </directors>
+   <origins>
+      <origin>UK</origin>
+   </origins>
+   <actors>
+      <actor>Ralph Richardson</actor>
+      <actor>Michèle Morgan</actor>
+      <actor>Sonia Dresdel</actor>
+      <actor>Bobby Henrey</actor>
+      <actor>Denis O&amp;#039;Dea</actor>
+      <actor>Jack Hawkins</actor>
+      <actor>Walter Fitzgerald</actor>
+      <actor>Dy Nichols</actor>
+   </actors>
+   <release_date>February 10, 2006</release_date>
+   <running_time>95</running_time>
+   <rating>Not</rating>
+   <reviews>
+      <review>
+         <snippet>This is an example of a writer and director working in perfect harness, with Reed smoothly ratcheting up the story's suspense and Greene speculating on his cardinal theme of moral ambiguity. They don't make movies like The Fallen Idol anymore, all the more reason to see it now while you can.</snippet>
+         <url>http://www.washingtonpost.com/ac2/wp-dyn?node=cityguide/profile&amp;id=1105249&amp;lat=200.0&amp;lon=200.0&amp;displaySearchLocation=&amp;nm=1&amp;categories=Movies</url>
+         <critic>Ann Hornaday</critic>
+      </review>
+      <review>
+         <snippet>Cinema does not get much better than this.</snippet>
+         <url>http://seattlepi.nwsource.com/movies/264086_limited24.html</url>
+         <critic>William Arnold</critic>
+      </review>
+      <review>
+         <snippet>One of the great movies about childhood innocence accidentally violated by adults...Reed, an often inconsistent filmmaker, handles the brutal mechanics of the plot superbly, with the marbled interiors of the embassy contrasting sharply with his almost neo-realist outdoor shots of postwar London.</snippet>
+         <url>http://www.laweekly.com/good-rep/13069/the-fallen-idol/</url>
+         <critic>John Patterson</critic>
+      </review>
+      <review>
+         <snippet>Of all the movies that try to take us into the mind and viewpoint of a child, Carol Reed's 1948 The Fallen Idol, adapted by Graham Greene from his short story, is one of the most ingenious.</snippet>
+         <url>http://metromix.chicagotribune.com/movies/mmx-060825-movies-review-idol,0,2700949.story?coll=mmx-movies_top_heds</url>
+         <critic>Michael Wilmington</critic>
+      </review>
+      <review>
+         <snippet>The result is a gripping film which, despite the annoying rugrat, demonstrates how part of leaving childhood behind is learning how and when to lie, and to do it well.</snippet>
+         <url>http://www.oregonlive.com/movies/oregonian/index.ssf?/base/entertainment/1146696940101620.xml&amp;coll=7</url>
+         <critic>Marc Mohan</critic>
+      </review>
+      <review>
+         <snippet>A masterpiece of psychological suspense.</snippet>
+         <url>http://www.baltimoresun.com/entertainment/movies/bal-to.fallen11aug11,0,4821269.story?coll=bal-artslife-movies</url>
+         <critic>Michael Sragow</critic>
+      </review>
+      <review>
+         <snippet>The Fallen Idol has been overshadowed by the noir comedy, giddy style, and Cold War thematics of Reed and Greene's subsequent sensation "The Third Man," but (in similarly dealing with the nature of betrayal) The Fallen Idol is actually a superior psychological drama.</snippet>
+         <url>http://www.villagevoice.com/film/0606,hoberman,72084,20.html</url>
+         <critic>J. Hoberman</critic>
+      </review>
+      <review>
+         <snippet>This is a fine example of British commercial filmmaking at its highest level of craftsmanship.</snippet>
+         <url>http://www.salon.com/ent/movies/review/2006/02/09/btm/index3.html</url>
+         <critic>Andrew O&amp;#039;Hehir</critic>
+      </review>
+      <review>
+         <snippet>Formally, the movie's a lasting pleasure: Reed's incisive direction; Greene's easy yet weighted dialogue; the farseeing deep-focus photography of Georges Perinal; Vincent Korda's luxuriant sets.</snippet>
+         <url>http://www.boston.com/movies/display?display=movie&amp;id=6163</url>
+         <critic>Ty Burr</critic>
+      </review>
+      <review>
+         <snippet>It might be lesser known, but certainly not deservingly so. This is a cracking piece of Brit cinema.</snippet>
+         <url>http://www.empireonline.com/reviews/review.asp?FID=132914</url>
+         <critic>David Parkinson</critic>
+      </review>
+      <review>
+         <snippet>Beautifully shot by the French cinematographer Georges Périnal (whose credits include Cocteau's "Blood of a Poet"), the film soon evolves from a claustrophobic domestic affair into a mordantly discomfiting look at the betrayal of innocence.</snippet>
+         <url>http://www.nytimes.com/2006/02/10/movies/10bmovi.html</url>
+         <critic>Manohla Dargis</critic>
+      </review>
+      <review>
+         <snippet>Graham Greene's screenplay is centered on the pivotal moment when a child first discovers sin, but the boy's perspective is neglected in favor of facile suspense structures and a thuddingly conventional whodunit finale.</snippet>
+         <url>http://onfilm.chicagoreader.com/movies/briefs/3315_FALLEN_IDOL.html</url>
+         <critic>Dave Kehr</critic>
+      </review>
+   </reviews>
+   <oscar_winning_directors_present/>
+   <num_oscar_winning_directors>1</num_oscar_winning_directors>
+   <oscar_winning_director>carol reed</oscar_winning_director>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

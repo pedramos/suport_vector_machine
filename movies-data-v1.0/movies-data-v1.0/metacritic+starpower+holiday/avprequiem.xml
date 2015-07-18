@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Aliens vs. Predator: Requiem</name>
+   <company>20th Century Fox</company>
+   <genres>
+      <genre>Action</genre>
+      <genre>Horror</genre>
+      <genre>Scifi</genre>
+   </genres>
+   <authors>
+      <author>John Thomas, Jim Thomas</author>
+      <author>Ronald Shusett, Dan O&amp;#039;Bannon,Ronald Shusett, Dan O&amp;#039;Bannon</author>
+      <author>Shane Salerno</author>
+   </authors>
+   <directors>
+      <director>Greg Strause</director>
+      <director>Colin Strause</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Reiko Aylesworth</actor>
+      <actor>Steven Pasquale</actor>
+      <actor>John Ortiz</actor>
+      <actor>Shareeka Epps</actor>
+      <actor>Johnny Lewis</actor>
+      <actor>Sam Trammell</actor>
+      <actor>David Paetkau</actor>
+   </actors>
+   <release_date>December 25, 2007</release_date>
+   <running_time>86</running_time>
+   <rating>R</rating>
+   <reviews>
+      <review>
+         <snippet>Aliens vs. Predator: Requiem is a B movie that truly earns its B.</snippet>
+         <url>http://www.ew.com/ew/article/0,,20170209,00.html</url>
+         <critic>Chris Nashawaty</critic>
+      </review>
+      <review>
+         <snippet>It may not be classic sci-fi like the original “Alien,” which it has in its DNA, but it’s a perfectly respectable next step in the series.</snippet>
+         <url>http://movies.nytimes.com/2007/12/26/movies/26alie.html?ref=movies</url>
+         <critic>Neil Genzlinger</critic>
+      </review>
+      <review>
+         <snippet>Provides enough cheap thrills and modest suspense to shake a few shekels from genre fans before really blasting off as homevid product.</snippet>
+         <url>http://www.variety.com/review/VE1117935716.html?categoryid=31&amp;cs=1</url>
+         <critic>Joe Leydon</critic>
+      </review>
+      <review>
+         <snippet>Chopped down to 40 minutes, this could be a wickedly cool short; as is, it’s a passable slasher that’s still nowhere near the interspecies smackdown we geeks have long imagined.</snippet>
+         <url>http://www.laweekly.com/film+tv/film-reviews/movie-reviews-honeydripper-half-moon/17978/</url>
+         <critic>Luke Y. Thompson</critic>
+      </review>
+      <review>
+         <snippet>Aliens vs. Predator -- Requiem simply exists, nodding to the continuity of the larger series and opening the door for, yes, another entry in the franchise. In Hollywood as in outer space, spawn begets spawn.</snippet>
+         <url>http://www.calendarlive.com/movies/reviews/cl-et-avp28dec28,0,7504414.story?coll=cl-mreview</url>
+         <critic>Mark Olsen</critic>
+      </review>
+      <review>
+         <snippet>A dull actioner that looks like a bad video game.</snippet>
+         <url>http://www.hollywoodreporter.com/hr/film/reviews/article_display.jsp?&amp;rid=10384</url>
+         <critic>Kirk Honeycutt</critic>
+      </review>
+      <review>
+         <snippet>The film's major draws are R-rated gore and some nice physical effects, proof that a man in a top-of-the-line monster suit can still be more effective than CGI.</snippet>
+         <url>http://www.tvguide.com/movies/aliens-vs-predator/review/291770</url>
+         <critic>Maitland McDonagh</critic>
+      </review>
+      <review>
+         <snippet>An orgy of mindless violence, a random collection of bloody bodies, alien misanthropy, and slobbering carnage designed to bore straight into the pleasure centers of 13-year-old boys and leave the rest of us wondering when the movies got so damn loud.</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A573326</url>
+         <critic>Josh Rosenblatt</critic>
+      </review>
+      <review>
+         <snippet>--- 
+Ho, ho, ho - the joke's on anyone who pays to see this.</snippet>
+         <url>http://www.reelviews.net/movies/a/avp2.html</url>
+         <critic>James Berardinelli</critic>
+      </review>
+      <review>
+         <snippet>It's unclear whether any of the actors here have promising political careers since their only purposes are to serve as prey, adversaries and involuntary incubators to their guests.</snippet>
+         <url>http://www.theglobeandmail.com/servlet/story/RTGAM.20071228.walien1228/BNStory/Entertainment/home</url>
+         <critic>Jason Anderson</critic>
+      </review>
+      <review>
+         <snippet>The camerawork is a smidge too shaky and the lighting/color design too dark for me to relish the Predator-on-Alien butt-kicking.</snippet>
+         <url>http://www.filmthreat.com/index.php?section=reviews&amp;Id=10479</url>
+         <critic>Stina Chyn</critic>
+      </review>
+      <review>
+         <snippet>An early but strong contender for worst movie of 2008.</snippet>
+         <url>http://www.empireonline.com/reviews/reviewcomplete.asp?FID=135355</url>
+         <critic>Chris Hewitt</critic>
+      </review>
+      <review>
+         <snippet>The problem with the "Alien vs. Predator" series is that the humans keep getting in the way.</snippet>
+         <url>http://www.boston.com/movies/display?display=movie&amp;id=9070</url>
+         <critic>Ty Burr</critic>
+      </review>
+      <review>
+         <snippet>A tasteless, witless, mindlessly perfunctory bloodbath that has the discourtesy to take itself seriously. Pitting aliens against predators may be the height of frivolity, but God forbid anyone have fun with it.</snippet>
+         <url>http://www.avclub.com/content/cinema/aliens_vs_predator_requiem</url>
+         <critic>Scott Tobias</critic>
+      </review>
+   </reviews>
+   <summer_release>false</summer_release>
+   <christmas_release>true</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

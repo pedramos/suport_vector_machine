@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Sex and the City: The Movie</name>
+   <company>New Line Cinema, HBO Films</company>
+   <genres>
+      <genre>Comedy</genre>
+      <genre>Romance</genre>
+   </genres>
+   <authors>
+      <author>Michael Patrick King</author>
+      <author>Candace Bushnell</author>
+   </authors>
+   <directors>
+      <director>Michael Patrick King</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Sarah Jessica Parker</actor>
+      <actor>Kim Cattrall</actor>
+      <actor>Kristin Davis</actor>
+      <actor>Cynthia Nixon</actor>
+      <actor>Chris Noth</actor>
+      <actor>Jennifer Hudson</actor>
+      <actor>Lynn Cohen</actor>
+   </actors>
+   <release_date>May 30, 2008</release_date>
+   <running_time>135</running_time>
+   <rating>R</rating>
+   <reviews>
+      <review>
+         <snippet>The best American movie about women so far this year, and probably the best that will be made this year.</snippet>
+         <url>http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2008/05/29/DDLM10URE5.DTL&amp;type=movies</url>
+         <critic>Mick LaSalle</critic>
+      </review>
+      <review>
+         <snippet>In its cinematic incarnation, Sex and the City has lost none of its bawdiness yet gained a more profound sense of soberness. Parker, especially, who in the last season of the show bordered on insufferable in her affected squeaks and shrieks, is allowed to go to very dark places – to be, in fact, quite unfabulous.</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A626431</url>
+         <critic>Kimberley Jones</critic>
+      </review>
+      <review>
+         <snippet>Michael Patrick King's screenplay hits all the right notes, building on the warmth and familiarity of the series (which King also wrote).</snippet>
+         <url>http://chicago.metromix.com/movies/movie_review/movie-review-sex-and/434916/content</url>
+         <critic>Jessica Reaves</critic>
+      </review>
+      <review>
+         <snippet>A movie that taps directly back into the show's primal appeal, which is the sweet, sad, saucy delight of sharing these women's company.</snippet>
+         <url>http://www.ew.com/ew/article/0,,20202617,00.html</url>
+         <critic>Owen Gleiberman</critic>
+      </review>
+      <review>
+         <snippet>Can't rightly be called a romantic comedy in the dismal, contemporary sense, though it is at times romantic and is consistently very funny. It's also emotionally realistic, even brutal.</snippet>
+         <url>http://www.calendarlive.com/movies/reviews/cl-et-sex30-2008may30,0,2193684.story</url>
+         <critic>Carina Chocano</critic>
+      </review>
+      <review>
+         <snippet>The movie's beating heart is the friendship between the women, who had found some sort of happiness by the show's 2004 finale. Now they're all at a personal crossroads and need one another more than ever.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/2008/05/28/2008-05-28_great_sex_starts_with_friendship.html</url>
+         <critic>Elizabeth Weitzman</critic>
+      </review>
+      <review>
+         <snippet>In this film, the clothes and the city are characters as vital as the four leads, and they don't disappoint. But don't expect any trend-setting in the manner of the series. This is a runway that begins and ends with the movie.</snippet>
+         <url>http://seattlepi.nwsource.com/movies/365076_sex30q.html</url>
+         <critic>Athima Chansanchai</critic>
+      </review>
+      <review>
+         <snippet>Amid the style, sass and sexiness is plenty of sentimentality, especially at the satisfying conclusion.</snippet>
+         <url>http://www.usatoday.com/life/movies/reviews/2008-05-28-sex-and-the-city_N.htm</url>
+         <critic>Claudia Puig</critic>
+      </review>
+      <review>
+         <snippet>It gives you everything you ever loved about the series, and blows it out into super-size cinematic proportions.</snippet>
+         <url>http://www.premiere.com/moviereviews/4603/sex-and-the-city.html</url>
+         <critic>Emily Rems</critic>
+      </review>
+      <review>
+         <snippet>The four women couldn't be better - or better matched. As always, Parker is the standout, cracking your heart and cracking you up with equal ease.</snippet>
+         <url>http://www.philly.com/philly/entertainment/movies/20080528_Sex_and_the_City_review__Contagious_fun.html</url>
+         <critic>Carrie Rickey</critic>
+      </review>
+      <review>
+         <snippet>It's less a movie than a delivery system for sensory pleasures, sunny romance and designer-label stuff that in real life would result in diabetic shock (or at least a ruined credit rating).</snippet>
+         <url>http://www.washingtonpost.com/ac2/wp-dyn?node=cityguide/profile&amp;id=1142429&amp;categories=Movies&amp;nm=1</url>
+         <critic>Ann Hornaday</critic>
+      </review>
+      <review>
+         <snippet>Sex and the City: The Motion Picture is a joyful wallow. And it's more: In this summer of do-overs (The Incredible Hulk, a new Batman versus a new Joker), it's what the series finale should have been.</snippet>
+         <url>http://nymag.com/movies/reviews/47217/</url>
+         <critic>David Edelstein</critic>
+      </review>
+      <review>
+         <snippet>Ultimately, Sex And The City serves as a glitter-laced love letter to its fans, which is really all it needs to be.</snippet>
+         <url>http://www.avclub.com/content/cinema/sex_and_the_city</url>
+         <critic>Genevieve Koski</critic>
+      </review>
+      <review>
+         <snippet>At times, the movie resembled nothing so much as Kabuki with Cosmos.</snippet>
+         <url>http://www.csmonitor.com/2008/0531/p25s03-almo.html</url>
+         <critic>Peter Rainer</critic>
+      </review>
+      <review>
+         <snippet>Writer-director Michael Patrick King, the creative force behind the show's later seasons, can't disguise the fact that the movie is basically five TV episodes strung together (only three hit the mark). But his script is more honest about aging than anything in "Indy 4."</snippet>
+         <url>http://www.rollingstone.com/reviews/movie/18268910/review/20961901/sex_and_the_city</url>
+         <critic>Peter Travers</critic>
+      </review>
+      <review>
+         <snippet>For the moment, King has restored women to their rightful place in a genre that is nothing without them. But, sadly, that genre isn't romantic comedy. It's the chick flick.</snippet>
+         <url>http://www.boston.com/movies/display?display=movie&amp;id=10938</url>
+         <critic>Wesley Morris</critic>
+      </review>
+      <review>
+         <snippet>Unfortunately, where episodes of the series used to take their cue from a question posed by one of Carrie's columns, writer-director Michael Patrick King never finds that focus, and Sex and the City loses its tart edge in the process.</snippet>
+         <url>http://www.hollywoodreporter.com/hr/film/reviews/article_display.jsp?&amp;rid=11091</url>
+         <critic>Michael Rechtshaffen</critic>
+      </review>
+      <review>
+         <snippet>If you are immune to the charms of Carrie and co., this will do little to convert you. Still, it has more than enough sass, style and sentiment to keep the faithful satisfied. Add a star if you're a fan.</snippet>
+         <url>http://www.empireonline.com/reviews/reviewcomplete.asp?FID=135093</url>
+         <critic>William Thomas</critic>
+      </review>
+      <review>
+         <snippet>It more or less plays like a five-episode arc of the series, which is a strength and a weakness.</snippet>
+         <url>http://blog.oregonlive.com/madaboutmovies/2008/05/review_sex_and_the_city_should.html</url>
+         <critic>Shawn Levy</critic>
+      </review>
+      <review>
+         <snippet>If this fabulously decked-out foursome is self-absorbed enough to be inadvertently cruel on occasion, they also suffer lots of guilt -- though their angst is rendered somewhat less angsty for viewers by the zingers, the designers, and the cheerfully objectified men on display.</snippet>
+         <url>http://www.npr.org/templates/story/story.php?storyId=90882848</url>
+         <critic>Bob Mondello</critic>
+      </review>
+      <review>
+         <snippet>Turns out to be a more disappointment than joyful reunion, a tedious and desperately drawn-out affair that tests your patience even as it brazenly courts (and often earns) your contempt.</snippet>
+         <url>http://www.miamiherald.com/1058/story/550477.html</url>
+         <critic>Connie Ogle</critic>
+      </review>
+      <review>
+         <snippet>It's a mainstreamed, big-screen version of the bowdlerized, endlessly syndicated version of the show, not the raunchy original.</snippet>
+         <url>http://www.tvguide.com/movies/sex-city/review/290621</url>
+         <critic>Ken Fox</critic>
+      </review>
+      <review>
+         <snippet>I have the anachronistic notion that romantic comedies needn't be exclusively partial to one gender; they should be critical and loving and true to both. So I'll soldier on with my mixed, distant, defiantly ignorant review of this 142-minute trifle -- which comes close to being the longest non-musical romantic comedy in Hollywood history.</snippet>
+         <url>http://www.time.com/time/arts/article/0,8599,1810355,00.html</url>
+         <critic>Richard Corliss</critic>
+      </review>
+      <review>
+         <snippet>So much has been written about the show's emotional importance to single women that I can't possibly add anything, except to say that, in both its TV and movie incarnations, the empty materialism and sincere longing for love always manage to cancel each other out, leaving behind nothing but what this started out as--a sitcom.</snippet>
+         <url>http://onfilm.chicagoreader.com/movies/briefs/33183_SEX_AND_THE_CITY.html</url>
+         <critic>J.R. Jones</critic>
+      </review>
+      <review>
+         <snippet>For those who do not consider themselves to be among the Sex and the City faithful, this is a painful experience, perhaps the longest 148 minutes likely to be spent in a movie theater this year. Watching grass grow is more dramatically satisfying.</snippet>
+         <url>http://www.reelviews.net/movies/s/sex_city.html</url>
+         <critic>James Berardinelli</critic>
+      </review>
+      <review>
+         <snippet>Best in its small moments, the movie should find receptive gal pals congregating for the mother of all viewing parties.</snippet>
+         <url>http://www.variety.com/VE1117937145.html?query=sex+and+the+city</url>
+         <critic>Brian Lowry</critic>
+      </review>
+      <review>
+         <snippet>Though Sex and the City is every bit as busy as its HBO progenitor was, it's virtually plotless, not to mention pointless.</snippet>
+         <url>http://www.villagevoice.com/film/0822,sex-and-the-city-plotless-and-pointless,451763,20.html</url>
+         <critic>Ella Taylor</critic>
+      </review>
+      <review>
+         <snippet>Here is a 145-minute movie containing one (1) line of truly witty dialogue: "Her 40s is the last age at which a bride can be photographed without the unintended Diane Arbus subtext."</snippet>
+         <url>http://rogerebert.suntimes.com/apps/pbcs.dll/article?AID=/20080528/REVIEWS/907685264</url>
+         <critic>Roger Ebert</critic>
+      </review>
+      <review>
+         <snippet>Sex and the City, as a film, is a testament to bad faith. It wants its characters to eat their wedding cake and have it, too.</snippet>
+         <url>http://www.baltimoresun.com/entertainment/movies/reviews/bal-to.sex30may30,0,4510856.story</url>
+         <critic>Michael Sragow</critic>
+      </review>
+      <review>
+         <snippet>The real problem is that Sex and the City is, except for a few laughs, mostly just irritating.</snippet>
+         <url>http://www.filmthreat.com/index.php?section=reviews&amp;Id=10980</url>
+         <critic>Pete Vonder Haar</critic>
+      </review>
+      <review>
+         <snippet>Parker IS to blame for the self-consciousness of her performance. She spends much of the movie swanning, not acting: Nearly every movement, every gesture, seems conceived for the benefit of the camera, as opposed to the truth of the character.</snippet>
+         <url>http://www.salon.com/ent/movies/review/2008/05/30/sex_and_the_city/</url>
+         <critic>Stephanie Zacharek</critic>
+      </review>
+      <review>
+         <snippet>In contrast to the series, which was quick-witted, fast-paced and self-ironic -- oh, and sexy -- the movie is earnest, often aimless (couldn't anyone cook up a plot?), visually bland (except for the fashion shows) and, at two minutes short of 2½ hours, a decreasingly amiable meander.</snippet>
+         <url>http://online.wsj.com/article/SB121210426302230993.html?mod=2_1168_1</url>
+         <critic>Joe Morgenstern</critic>
+      </review>
+      <review>
+         <snippet>And an attempt to address the series' endemic whiteness by adding a subaltern black character--Jennifer Hudson as Carrie's designer-bag-toting Girl Friday--is a major misfire that only underscores our heroine's oblivious entitlement</snippet>
+         <url>http://www.slate.com/id/2192379/</url>
+         <critic>Dana Stevens</critic>
+      </review>
+      <review>
+         <snippet>Feels like it was written and directed by an audience focus group in Omaha?</snippet>
+         <url>http://www.nypost.com/seven/05282008/entertainment/movies/shooting_blahniks_112799.htm</url>
+         <critic>Lou Lumenick</critic>
+      </review>
+      <review>
+         <snippet>As a film, it's flabby and utterly predictable.</snippet>
+         <url>http://www.charlotte.com/434/story/645147.html</url>
+         <critic>Lawrence Toppman</critic>
+      </review>
+      <review>
+         <snippet>I wish Ms. Parker had let that bee in her bonnet go silent, because the movie that she and Mr. King have come up with is the pits, a vulgar, shrill, deeply shallow -- and, at 2 hours and 22 turgid minutes, overlong -- addendum to a show that had, over the years, evolved and expanded in surprising ways.</snippet>
+         <url>http://movies.nytimes.com/2008/05/30/movies/30sex.html?ref=movies</url>
+         <critic>Manohla Dargis</critic>
+      </review>
+      <review>
+         <snippet>Made me laugh precisely once, as a magazine editor let fly with a Diane Arbus gag. It is no coincidence that she is played by Candice Bergen, who gets just the one scene, but who is nonetheless the only bona-fide movie star on show.</snippet>
+         <url>http://www.newyorker.com/arts/critics/cinema/2008/06/09/080609crci_cinema_lane</url>
+         <critic>Anthony Lane</critic>
+      </review>
+      <review>
+         <snippet>Bad summer films, full of furious hype and signifying nothing, are hardly exceptional these days, nor is the sound they typically make: the dull scrape of a culture hitting rock bottom. Yet this one seems uniquely bad; this one is a threshold-breaker with a different sound, the crack of rock-bottom giving way to a whole deeper layer of magma.</snippet>
+         <url>http://www.theglobeandmail.com/servlet/story/RTGAM.20080529.wsex30/BNStory/Entertainment/home</url>
+         <critic>Rick Groen</critic>
+      </review>
+   </reviews>
+   <summer_release>true</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

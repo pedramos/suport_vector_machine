@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Paris 36</name>
+   <company>Sony Pictures Classics</company>
+   <genres>
+      <genre>Drama</genre>
+   </genres>
+   <authors>
+      <author>Christophe Barratier</author>
+   </authors>
+   <directors>
+      <director>Christophe Barratier</director>
+   </directors>
+   <origins>
+      <origin>France</origin>
+      <origin>Germany</origin>
+      <origin>CzechRepublic</origin>
+   </origins>
+   <actors>
+      <actor>Gerard Jugnot</actor>
+      <actor>Kad Merad</actor>
+      <actor>Nora Arnezeder</actor>
+      <actor>Nora Arnezeder</actor>
+      <actor>Pierre Richard</actor>
+      <actor>Bernard-Pierre Donnadieu</actor>
+      <actor>Maxence Perrin</actor>
+      <actor>François Morel</actor>
+   </actors>
+   <release_date>April 3, 2009</release_date>
+   <running_time>120</running_time>
+   <rating>PG-13</rating>
+   <reviews>
+      <review>
+         <snippet>A gleaming hunk of French period schmaltz expertly rendered by director Christophe Barratier.</snippet>
+         <url>http://www.nypost.com/seven/04032009/entertainment/movies/all_french__no_noir_162582.htm</url>
+         <critic>Lou Lumenick</critic>
+      </review>
+      <review>
+         <snippet>Paris 36 has a beguilingly authentic sound and offers a blend of impassioned sentiment and harsh, even brutal grit</snippet>
+         <url>http://www.latimes.com/entertainment/la-et-capsules3-2009apr03,0,5105055.story</url>
+         <critic>Kevin Thomas</critic>
+      </review>
+      <review>
+         <snippet>The film is deliberately old-fashioned in its approach; the story line is resolutely linear and the production values are deluxe. It all makes for a fairly enjoyable, if schematic, backstage extravaganza.</snippet>
+         <url>http://www.csmonitor.com/2009/0403/p17s02-almo.html</url>
+         <critic>Peter Rainer</critic>
+      </review>
+      <review>
+         <snippet>It's pleasant and amusing. If I had seen it before I was born, I would have loved it.</snippet>
+         <url>http://rogerebert.suntimes.com/apps/pbcs.dll/article?AID=/20090409/REVIEWS/904099993</url>
+         <critic>Roger Ebert</critic>
+      </review>
+      <review>
+         <snippet>The nicest that can be said of this unapologetically schmaltzy, and not unenjoyable, affair is that it is the best 1936 musical made in 2009.</snippet>
+         <url>http://www.philly.com/philly/entertainment/movies/20090417_Paris_36___1_2.html</url>
+         <critic>Carrie Rickey</critic>
+      </review>
+      <review>
+         <snippet>Barratier directs with a jaunty artifice more typically seen on stage, but with the exception of Arnezeder, his cast turns theatricality to its advantage. They're offering us a sunny fantasy during a cloudy time, and seem well aware that we're unlikely to resist.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/2009/04/03/2009-04-03_short_takes.html</url>
+         <critic>Elizabeth Weitzman</critic>
+      </review>
+      <review>
+         <snippet>Politics and art come together in predictable, moderately enjoyable fashion in Paris 36.</snippet>
+         <url>http://www.oregonlive.com/movies/index.ssf/2009/04/movie_review_paris_36_inoffens.html</url>
+         <critic>Marc Mohan</critic>
+      </review>
+      <review>
+         <snippet>A handsomely made French musical that never really soars.</snippet>
+         <url>http://www.washingtonpost.com/gog/movies/paris36,1156215.html</url>
+         <critic>Mike Mayo</critic>
+      </review>
+      <review>
+         <snippet>A little like spending the holidays with strangers. The spirits are high, the relationships are warm, the personal stories have a shared history, and even though you're on the outside of things, you appreciate the people in a remote and perhaps admiring sort of way. Still, when it's time to leave, you're not sorry.</snippet>
+         <url>http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2009/04/09/DDIU16VAPV.DTL&amp;type=movies</url>
+         <critic>Mick LaSalle</critic>
+      </review>
+      <review>
+         <snippet>The overstuffed film lumbers across clichés of the heart and of history until it reaches a big, tune-filled climax that isn't worth the wait.</snippet>
+         <url>http://www.avclub.com/articles/paris-36,26070/</url>
+         <critic>Keith Phipps</critic>
+      </review>
+      <review>
+         <snippet>Hopelessly amateurish, the troupe is saved by a remarkably pretty young blonde called Douce with a sweet soprano to match her angel face. The gifted, unknown actress-singer who plays her, Nora Arnezeder, also saves the movie, which would otherwise blur into a mass of droopy, mustached, big-honkered Gallic character actors.</snippet>
+         <url>http://nymag.com/movies/reviews/55663/</url>
+         <critic>David Edelstein</critic>
+      </review>
+      <review>
+         <snippet>Schematically scripted tale revels in its multiple story arcs, but shows signs of battle fatigue in the later reels.</snippet>
+         <url>http://www.variety.com/review/VE1117938045.html?categoryid=31&amp;cs=1&amp;query=paris+36</url>
+         <critic>Eddie Cockrell</critic>
+      </review>
+      <review>
+         <snippet>The movie is almost rescued by the wonderful 1930's style songs (written by Reinhardt Wanger and Frank Thomas) that populate its final act.</snippet>
+         <url>http://www.hollywoodreporter.com/hr/film/reviews/article_display.jsp?rid=11624</url>
+         <critic>Peter Brunette</critic>
+      </review>
+      <review>
+         <snippet>The movie is essentially a pastiche, as musty as a flea market.</snippet>
+         <url>http://onfilm.chicagoreader.com/movies/briefs/34264_PARIS_THIRTY_SIX_PARIS_36.html</url>
+         <critic>Andrea Gronvall</critic>
+      </review>
+      <review>
+         <snippet>In short, the financial crisis and social upheaval of 1930s France never looked so appealing.</snippet>
+         <url>http://www.boston.com/ae/movies/articles/2009/04/10/paris_36/</url>
+         <critic>Ethan Gilsdorf</critic>
+      </review>
+      <review>
+         <snippet>In the end, it's much ado about nothing. Oh, the ennui, the ennui.</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A769917</url>
+         <critic>Marc Savlov</critic>
+      </review>
+      <review>
+         <snippet>Like Amélie's scrubbed-up "City of Lights," Paris 36 is an antiseptic arthouse trifle, so eager to soothe that it only numbs.</snippet>
+         <url>http://www.villagevoice.com/2009-04-01/film/paris-36-s-imitation-is-highest-form-of-flatulence/</url>
+         <critic>Melissa Anderson</critic>
+      </review>
+      <review>
+         <snippet>So shameless in its pandering, sentimental vision of Frenchness as to constitute something of a national embarrassment.</snippet>
+         <url>http://movies.nytimes.com/2009/04/03/movies/03pari.html?ref=movies</url>
+         <critic>A.O. Scott</critic>
+      </review>
+      <review>
+         <snippet>It's like a pastry that's been sitting on the shelf for 60 years.</snippet>
+         <url>http://www.ew.com/ew/article/0,,20269301,00.html</url>
+         <critic>Owen Gleiberman</critic>
+      </review>
+   </reviews>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

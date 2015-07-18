@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Comebacks, The</name>
+   <company>Fox Atomic</company>
+   <genres>
+      <genre>Comedy</genre>
+   </genres>
+   <authors>
+      <author>Andrew Jacobson, Adam Jay Epstein</author>
+      <author>Michael Colton</author>
+      <author>John Aboud</author>
+      <author>Joey Gutierrez, Ed Yeager</author>
+   </authors>
+   <directors>
+      <director>Tom Brady</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>David Koechner</actor>
+      <actor>Melora Hardin</actor>
+      <actor>Matthew Lawrence</actor>
+      <actor>Bradley Cooper</actor>
+      <actor>Stacy Keibler</actor>
+      <actor>Andy Dick</actor>
+      <actor>Drew Lachey</actor>
+      <actor>Carl Weathers</actor>
+   </actors>
+   <release_date>October 19, 2007</release_date>
+   <running_time>84</running_time>
+   <rating>PG-13</rating>
+   <reviews>
+      <review>
+         <snippet>As dumb spoofs go, The Comebacks isn't bad. It takes almost every sports movie of the last five years ("Field of Dreams," too) and blends them into a single slapdash comedy.</snippet>
+         <url>http://www.boston.com/movies/display?display=movie&amp;id=9693</url>
+         <critic>Wesley Morris</critic>
+      </review>
+      <review>
+         <snippet>It’s mostly eighty-four minutes of puns, double entendres, and Freudian slips.</snippet>
+         <url>http://www.filmthreat.com/index.php?section=reviews&amp;Id=10362</url>
+         <critic>Stina Chyn</critic>
+      </review>
+      <review>
+         <snippet>Adhering to few solid comedic principles, The Comebacks swings wildly between lame movie references and slapstick, slightly less lame funny names (such as Aseel Tare, the running back who couldn't possibly be injured) and Airplane!-style spoof, and a few mildly amusing stabs at irony.</snippet>
+         <url>http://www.avclub.com/content/cinema/the_comebacks</url>
+         <critic>Scott Tobias</critic>
+      </review>
+      <review>
+         <snippet>You'll be goaded throughout The Comebacks to think of "Bend It Like Beckham," "Remember the Titans," "Rudy," "Hoosiers," "Field of Dreams" and their ilk. What you also think about is how much this stuff worked better in "Airplane!" or "Blazing Saddles."</snippet>
+         <url>http://www.calendarlive.com/movies/reviews/cl-et-comeback22oct22,0,2303112.story?coll=cl-mreview</url>
+         <critic>Gene Seymour</critic>
+      </review>
+      <review>
+         <snippet>Koechner tries hard, but ultimately scores few laughs except for when, like Ferrell, he bares his comically less than toned, fleshy body.</snippet>
+         <url>http://www.hollywoodreporter.com/hr/film/reviews/article_display.jsp?JSESSIONID=83WQHpLGhlXhSDh7qhJJ2ZzZ26JGMBp5WsG2NJ38nSfY5lZWJK7K!868629674&amp;&amp;rid=10080</url>
+         <critic>Frank Scheck</critic>
+      </review>
+      <review>
+         <snippet>An exceptionally lame genre parody that plumbs depths of ineptitude heretofore charted only by the marginally less abysmal "Date Movie."</snippet>
+         <url/>
+         <critic>Joe Leydon</critic>
+      </review>
+      <review>
+         <snippet>Isn’t as obnoxiously awful as, say, "Epic Movie"; it’s simply not funny in the least.</snippet>
+         <url>http://www.laweekly.com/film+tv/film-reviews/movie-reviews-30-days-of-night-canvas-futbaal/17508/</url>
+         <critic>Luke Y. Thompson</critic>
+      </review>
+      <review>
+         <snippet>The movie’s low aspirations are depressing because its best gags are agreeably demented.</snippet>
+         <url>http://movies.nytimes.com/2007/10/20/movies/20come.html?ref=movies</url>
+         <critic>Matt Zoller Seitz</critic>
+      </review>
+      <review>
+         <snippet>Someone should tell these guys you can't score a touchdown throwing lateral passes.</snippet>
+         <url>http://onfilm.chicagoreader.com/movies/briefs/32281_COMEBACKS.html</url>
+         <critic>J.R. Jones</critic>
+      </review>
+      <review>
+         <snippet>We're treated to endless scenes of women getting slammed, thrown and clothes lined, while men's genitals are grabbed, groped, stroked and tasered. It's all just as painful as it sounds.</snippet>
+         <url>http://www.tvguide.com/detail/movie.aspx?tvobjectid=291044&amp;more=ucmoviereview</url>
+         <critic>Ken Fox</critic>
+      </review>
+      <review>
+         <snippet>It’s too bad the filmmakers didn’t have a longer view of film history, though; maybe their jokes would have been more interesting if they’d been aimed at, say, "Somebody Up There Likes Me" or "The Pride of the Yankees."</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A550655</url>
+         <critic>Josh Rosenblatt</critic>
+      </review>
+      <review>
+         <snippet>At the end of The Comebacks, Coach is offered job with a college basketball team called The Sequels - a joke perhaps, but all too horrifying a prospect after watching this dull fumble.</snippet>
+         <url>http://www.theglobeandmail.com/servlet/story/RTGAM.20071022.wcomebacks22/BNStory/Entertainment/home</url>
+         <critic>Jennie Punter</critic>
+      </review>
+      <review>
+         <snippet>Probably the worst movie that's sludged across my professional eyeballs -- worse than "Daddy Day Camp," "Baby Geniuses 2," and "BloodRayne."</snippet>
+         <url>http://www.ew.com/ew/article/0,,20153902,00.html</url>
+         <critic>Gregory Kirschling</critic>
+      </review>
+   </reviews>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

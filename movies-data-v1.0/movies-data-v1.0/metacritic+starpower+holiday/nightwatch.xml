@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Night Watch</name>
+   <company>Fox Searchlight Pictures</company>
+   <genres>
+      <genre>Action</genre>
+      <genre>Fantasy</genre>
+      <genre>Foreign</genre>
+      <genre>Horror</genre>
+      <genre>Mystery</genre>
+      <genre>Scifi</genre>
+      <genre>SuspenseThriller</genre>
+   </genres>
+   <authors>
+      <author>Timur Bekmambetov</author>
+      <author>Laeta Kalogridis</author>
+      <author>Sergei Lukyanenko</author>
+   </authors>
+   <directors>
+      <director>Timur Bekmambetov</director>
+   </directors>
+   <origins>
+      <origin>Russia</origin>
+   </origins>
+   <actors>
+      <actor>Konstantin Khabensky</actor>
+      <actor>Vladimir Menshov</actor>
+      <actor>Valeri Zolotukhin</actor>
+      <actor>Mariya Poroshina</actor>
+      <actor>Galina Tyunina</actor>
+      <actor>Yuri Kutsenko</actor>
+      <actor>Aleksei Chadov</actor>
+      <actor>Zhanna Friske</actor>
+   </actors>
+   <release_date>February 17, 2006</release_date>
+   <running_time>114</running_time>
+   <rating>R</rating>
+   <reviews>
+      <review>
+         <snippet>A contemporary Russian movie that you could honestly call revolutionary, more for its style than its politics.</snippet>
+         <url>http://metromix.chicagotribune.com/movies/mmx-060224-movies-review-nightwatch,0,6964458.story?coll=mmx-movies_top_heds</url>
+         <critic>Michael Wilmington</critic>
+      </review>
+      <review>
+         <snippet>With its somersaulting trucks, drafts of quaffable blood, and skies full of digitized ravens, Bekmambetov's movie has every intention of whacking "The Matrix" at its own game.</snippet>
+         <url>http://www.newyorker.com/critics/cinema/?060227crci_cinema</url>
+         <critic>Anthony Lane</critic>
+      </review>
+      <review>
+         <snippet>Although this first chapter in a three-part tale is inevitably overburdened with back story, it ends on one hell of a cliff-hanger.</snippet>
+         <url>http://online.tvguide.com/movies/database/ShowMovie.asp?MI=46120</url>
+         <critic>Maitland McDonagh</critic>
+      </review>
+      <review>
+         <snippet>Night Watch may be derivative of American movies, but when our ideas ooze out of the dank Russian filter they're weirder, crazier, grimier.</snippet>
+         <url>http://www.nypost.com/movies/63691.htm</url>
+         <critic>Kyle Smith</critic>
+      </review>
+      <review>
+         <snippet>A wildly entertaining fantasy thriller that propels Russian cinema into the 21st century.</snippet>
+         <url>http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2006/02/17/DDGT9H9ALN1.DTL&amp;type=movies</url>
+         <critic>Ruthe Stein</critic>
+      </review>
+      <review>
+         <snippet>The movie Night Watch is - oh hell, I don't know what it is. Imaginative. A mess. A small miracle, if really filmed for $5 million. (Although in rubles, that's probably a huge budget.) The first Russian horror movie I've seen. The first horror movie I've seen of any kind with subtitles.</snippet>
+         <url>http://ae.charlotte.com/entertainment/ui/charlotte/movie.html?id=545199&amp;reviewId=20248&amp;startDate=NEXT7</url>
+         <critic>Lawrence Toppman</critic>
+      </review>
+      <review>
+         <snippet>If you have a sneaky taste for the monstrous and a hearty appetite for the outlandish, the pulpy yet engaging Night Watch should leave you merrily sated.</snippet>
+         <url>http://www.baltimoresun.com/entertainment/movies/bal-to.night03mar03,0,6376881.story?coll=bal-artslife-movies</url>
+         <critic>Michael Sragow</critic>
+      </review>
+      <review>
+         <snippet>The film is filled with cool little scenes of fighting and shape-shifting, and gloomy atmosphere. Subtitles themselves have morphed into gimmicks -- sometimes they float, sometimes they dissolve, sometimes they appear in unexpected places in the frame. It's all darned nifty.</snippet>
+         <url>http://www.oregonlive.com/movies/oregonian/index.ssf?/base/entertainment/1141858521148590.xml&amp;coll=7</url>
+         <critic>Shawn Levy</critic>
+      </review>
+      <review>
+         <snippet>The plot has something to do with the primordial battle between light and dark forces in the universe, and though several critics have written that it contains everything but the kitchen sink, I beg to differ. I saw a kitchen sink spinning around in there, too.</snippet>
+         <url>http://www.csmonitor.com/2006/0224/p14s01-almo.html</url>
+         <critic>Peter Rainer</critic>
+      </review>
+      <review>
+         <snippet>Bekmambetov's tone is so gravely serious that the drama tends to become arch and theatrical, despite sardonic punches of dark humor. But his imagery is striking (his imagination overcomes his limited budget), his style is assured and he's given the subtitle adaptation a dramatically dynamic dimension by giving the words the presence of an incantation taking physical form.</snippet>
+         <url>http://seattlepi.nwsource.com/movies/260658_nightwatch24q.html</url>
+         <critic>Sean Axmaker</critic>
+      </review>
+      <review>
+         <snippet>Although a voice-over prologue rumbles ominously in English, most of Night Watch is in the mother tongue, but even the subtitles do weird things - flying around in different sizes and fonts, punctuating the action.</snippet>
+         <url>http://ae.philly.com/entertainment/ui/philly/movie.html?id=545199&amp;reviewId=20205</url>
+         <critic>Steven Rea</critic>
+      </review>
+      <review>
+         <snippet>It's also the first apocalypse-minded franchise that's earned its downbeat mood. The action, for starters, is post-Cold War, post-Chernobyl, post-perestroika. Darkness is so much a part of the Russian psyche it must be nice to see a local movie try to put its hand toward the Light.</snippet>
+         <url>http://www.boston.com/movies/display?display=movie&amp;id=7799</url>
+         <critic>Wesley Morris</critic>
+      </review>
+      <review>
+         <snippet>And remember, this is just part one of a trilogy. While all may not be clear yet, there's certainly enough here to make you curious about the other two parts.</snippet>
+         <url>http://www.dallasobserver.com/Issues/2006-03-02/film/film5.html</url>
+         <critic>Luke Y. Thompson</critic>
+      </review>
+      <review>
+         <snippet>For the first hour of Night Watch, a dark, arresting, and unrelentingly weird thrill ride out of post-Soviet Russia, one feels lost. Not bad lost, as with a densely clotted mess like "Underworld: Evolution," whose mythopoetics land in the viewer's lap in concrete chunks; but good lost, exhilarated lost, like what am I watching?</snippet>
+         <url>http://www.slate.com/id/2136573/?nav=fo</url>
+         <critic>Stephen Metcalf</critic>
+      </review>
+      <review>
+         <snippet>Director Timur Bekmambetov has combined two things that never connected before. He's taken a glossy Hollywood-type fantasy thriller about the battle between supernatural forces of good and evil right here on planet Earth and infused it with a homegrown, distinctively Russian soul.</snippet>
+         <url>http://www.calendarlive.com/movies/reviews/cl-et-night17feb17,0,6428327.story?coll=cl-mreview</url>
+         <critic>Kenneth Turan</critic>
+      </review>
+      <review>
+         <snippet>Bekmambetov handles these narrative bumps with ease, infusing even the hoariest -- and goriest -- of horror movie cliches with equal parts macabre fascination and jaunty humor. The film lives up to its hype with a style, swagger and substance that will appeal not just to the fanboys (and girls) but to their uninitiated friends as well.</snippet>
+         <url>http://www.washingtonpost.com/ac2/wp-dyn?node=cityguide/profile&amp;id=1107436&amp;lat=200.0&amp;lon=200.0&amp;displaySearchLocation=&amp;nm=1&amp;categories=Movies</url>
+         <critic>Ann Hornaday</critic>
+      </review>
+      <review>
+         <snippet>The film has the twin virtues of being bold and dizzying...The greatest disappointment with Night Watch is that, at a critical juncture, it fizzles.</snippet>
+         <url>http://movie-reviews.colossus.net/movies/n/night_watch.html</url>
+         <critic>James Berardinelli</critic>
+      </review>
+      <review>
+         <snippet>Night Watch represents the best in Russian special effects, a collaboration between 42 different CGI specialty firms all working in the service of a single goal: to create the nation's most visually transgressive film.</snippet>
+         <url>http://ae.miami.com/entertainment/ui/miami/movie.html?id=545199&amp;reviewId=20199</url>
+         <critic>Peter Debruge</critic>
+      </review>
+      <review>
+         <snippet>A wildly convoluted, preposterous vampire flick that is understood best as a sardonic social allegory.</snippet>
+         <url>http://www.theglobeandmail.com/servlet/story/LAC.20060224.NIGHT24/TPStory/TPEntertainment/</url>
+         <critic>Liam Lacey</critic>
+      </review>
+      <review>
+         <snippet>Russian-made pic displays pro technique and visual imagination on a par with, if not better than, Hollywood frighteners, but with a distinctive Slavic accent.</snippet>
+         <url>http://www.variety.com/review/VE1117924700?categoryid=31&amp;cs=1</url>
+         <critic>Leslie Felperin</critic>
+      </review>
+      <review>
+         <snippet>Despite its cheesy blood and thunder and ludicrous "Sunshine Makers" metaphysics, this is the funniest apocalypse I've seen since George Romero's "Land of the Dead."</snippet>
+         <url>http://www.villagevoice.com/film/0607,hoberman,72181,20.html</url>
+         <critic>J. Hoberman</critic>
+      </review>
+      <review>
+         <snippet>In the final act, the movie dons a more human face and commits to an absorbing tale of crime and punishment, albeit pushing the fatigued message that you can't always tell light from dark these days.</snippet>
+         <url>http://www.laweekly.com/index.php?option=com_lawcontent&amp;task=view&amp;id=12687&amp;Itemid=9</url>
+         <critic>Ella Taylor</critic>
+      </review>
+      <review>
+         <snippet>The film may be a mess - narratively muddled and crammed with many more vampires, shape-shifters and sorcerers than one movie can handle, but it bursts with a sick, carnivorous glee in its own fiendish games.</snippet>
+         <url>http://movies2.nytimes.com/2006/02/17/movies/17nigh.html</url>
+         <critic>Stephen Holden</critic>
+      </review>
+      <review>
+         <snippet>The ending is a huge letdown, doing little besides setting the stage for the sequel… But for a good hour and change, the film is a big toy box that teases you out of the Gloom.</snippet>
+         <url>http://newyorkmetro.com/movies/reviews/15903/</url>
+         <critic>David Edelstein</critic>
+      </review>
+      <review>
+         <snippet>The filmmakers don't seem to realize that if a movie with a mythology this groan-inducingly convoluted doesn't have a sense of humor about itself, the laughs are going to come anyway. They just won't be of the intentional variety.</snippet>
+         <url>http://www.avclub.com/content/node/45436</url>
+         <critic>Nathan Rabin</critic>
+      </review>
+      <review>
+         <snippet>Benshis were the Japanese performers who stood next to the screen during silent films and explained the plot to the audience. If ever a benshi were needed in a modern movie, Night Watch is that film.</snippet>
+         <url>http://www.rogerebert.com/apps/pbcs.dll/article?AID=/20060223/REVIEWS/60222002/1023</url>
+         <critic>Roger Ebert</critic>
+      </review>
+      <review>
+         <snippet>The punchy, nonstop visual effects (including an animation segment and stylized subtitles that sometimes suggest an online chat) crowd out coherent storytelling.</snippet>
+         <url>http://onfilm.chicagoreader.com/movies/briefs/29342_NIGHT_WATCH_BEKMAMBETOV.html</url>
+         <critic>Jonathan Rosenbaum</critic>
+      </review>
+      <review>
+         <snippet>The film's mythology is a bit dodgy, and the dialogue is standard issue, but the over-the-top action sequences are occasionally fun, if gory. Ultimately, it's a formulaic, predictable take on a Hollywood staple: the vampire horror film.</snippet>
+         <url>http://www.usatoday.com/life/movies/reviews/2006-02-23-night-watch_x.htm</url>
+         <critic>Claudia Puig</critic>
+      </review>
+      <review>
+         <snippet>Despite the film's abundant gory effects, its best technical achievement may be its English subtitles, which move about the screen for better visual and emotional impact, and sometimes dissolve into poofs of blood or other colored effects.</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A344020</url>
+         <critic>Marjorie Baumgarten</critic>
+      </review>
+      <review>
+         <snippet>Everything today's young audiences are conditioned to want: incessant noise, jumpy editing, torrential music, shallow, overblown characters and sheer emptiness at its core. Imagine yourself trapped inside a two-hour video game, and you've got the Night Watch experience.</snippet>
+         <url>http://www.hollywoodreporter.com/thr/reviews/review_display.jsp?vnu_content_id=1000808745</url>
+         <critic>Kirk Honeycutt</critic>
+      </review>
+      <review>
+         <snippet>Frankly, after watching writer-director Timur Bekmambetov's grim fantasy - the first leg of a trilogy adapted from the sci-fi novels of Sergei Lukyanenko - I'm still a little confused.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/moviereviews/story/392186p-332413c.html</url>
+         <critic>Jack Mathews</critic>
+      </review>
+      <review>
+         <snippet>A fractious fiasco: whiplash camera movement set to raging blasts of death metal, a story so incoherent it made me wish I was watching, instead, the collected outtakes from Van Helsing.</snippet>
+         <url>http://www.ew.com/ew/article/review/movie/0,6115,1159759_1_0_,00.html</url>
+         <critic>Owen Gleiberman</critic>
+      </review>
+   </reviews>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

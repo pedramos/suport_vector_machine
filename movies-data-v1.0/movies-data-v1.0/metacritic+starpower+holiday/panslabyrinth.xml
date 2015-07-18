@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Pan&amp;#039;s Labyrinth</name>
+   <company>Picturehouse</company>
+   <genres>
+      <genre>Drama</genre>
+      <genre>Fantasy</genre>
+      <genre>Foreign</genre>
+      <genre>Horror</genre>
+      <genre>SuspenseThriller</genre>
+   </genres>
+   <authors>
+      <author>Guillermo del Toro</author>
+   </authors>
+   <directors>
+      <director>Guillermo del Toro</director>
+   </directors>
+   <origins>
+      <origin>MexicoSpainUSA</origin>
+   </origins>
+   <actors>
+      <actor>Ivana Baquero</actor>
+      <actor>Sergi López</actor>
+      <actor>Maribel Verdú</actor>
+      <actor>Ariadna Gil</actor>
+      <actor>Doug Jones</actor>
+      <actor>Álex Angulo</actor>
+      <actor>Roger Casamajor</actor>
+      <actor>César Vea</actor>
+   </actors>
+   <release_date>December 29, 2006</release_date>
+   <running_time>119</running_time>
+   <rating>R</rating>
+   <reviews>
+      <review>
+         <snippet>This is like no movie you've seen before, a haunting mixture of horror, history and fantasy that works simultaneously on every level.</snippet>
+         <url>http://www.theglobeandmail.com/servlet/story/RTGAM.20061222.wpan22/BNStory/Entertainment/home</url>
+         <critic>Liam Lacey</critic>
+      </review>
+      <review>
+         <snippet>Pan's Labyrinth Like his terrific 2001 "The Devil’s Backbone," Mexican horrormeister Guillermo del Toro's new movie offers us both real-life and fantastical monsters, and if you know his work, you won't waste time figuring out which to root for.</snippet>
+         <url>http://www.laweekly.com/film+tv/film-reviews/film-reviews/15313/</url>
+         <critic>Ella Taylor</critic>
+      </review>
+      <review>
+         <snippet>A brilliant work of the imagination capable of truly seizing and igniting our fantasies.</snippet>
+         <url>http://metromix.chicagotribune.com/movies/mmx-061229-movies-review-labyrinth,0,7134601.story?coll=mmx-movies_top_heds</url>
+         <critic>Michael Wilmington</critic>
+      </review>
+      <review>
+         <snippet>The result of the intricate interplay is a fairy tale for adults that is violent, sometimes shocking, yet utterly engrossing. And eerily instructive; it deepens our emotional understanding of fascism, and of rigid ideology's dire consequences.</snippet>
+         <url/>
+         <critic>Joe Morgenstern</critic>
+      </review>
+      <review>
+         <snippet>A swift and accessible entertainment, blunt in its power and exquisite in its effects.</snippet>
+         <url>http://movies2.nytimes.com/2006/12/29/movies/29laby.html?ref=movies</url>
+         <critic>A.O. Scott</critic>
+      </review>
+      <review>
+         <snippet>Unlike most horror movies, this chiller gives equal prominence to reality and fantasy, though the reality is far more frightening. The only precedent that comes to mind in terms of a lyrical treatment of a child's experience of terror is "The Night of the Hunter."</snippet>
+         <url>http://www.chicagoreader.com/features/stories/moviereviews/2007/070105/</url>
+         <critic>Jonathan Rosenbaum</critic>
+      </review>
+      <review>
+         <snippet>Del Toro's film ranks with the best examinations of children's inner lives, but be warned: Its haunting insights are best left to adults.</snippet>
+         <url>http://tvguide.com/detail/movie.aspx?tvobjectid=285206&amp;more=ucmoviereview</url>
+         <critic>Maitland McDonagh</critic>
+      </review>
+      <review>
+         <snippet>A critic trots out the word "masterpiece" at his own peril, but there it is.</snippet>
+         <url>http://www.nydailynews.com/12-29-2006/entertainment/col/story/483952p-407342c.html</url>
+         <critic>Jack Mathews</critic>
+      </review>
+      <review>
+         <snippet>Nothing this year comes close to being as utterly unforgettable as Guillermo del Toro's Pan's Labyrinth, an extremely dark and disturbing fairy tale for audiences say, ages 12 and up.</snippet>
+         <url>http://www.nypost.com/seven/12292006/entertainment/movies/a_maze_ing_movies_lou_lumenick.htm</url>
+         <critic>Lou Lumenick</critic>
+      </review>
+      <review>
+         <snippet>Visually stunning, it meshes haunting images with a complex multilevel story about the enchantment of youth.</snippet>
+         <url>http://sfgate.com/cgi-bin/article.cgi?f=/c/a/2006/12/29/DDGH7N4LSM22.DTL&amp;type=movies</url>
+         <critic>Ruthe Stein</critic>
+      </review>
+      <review>
+         <snippet>This intense film, a mix of horror, fantasy, and history that convinces on all those levels and mixes them up with dizzying brio, is a searing cinematic experience, a beautiful, terrifying vision from writer-director Guillermo del Toro.</snippet>
+         <url>http://www.premiere.com/moviereviews/3312/pans-labyrinth.html</url>
+         <critic>Glenn Kenny</critic>
+      </review>
+      <review>
+         <snippet>Literally and figuratively marvelous, a rich, daring mix of fantasy and politics.</snippet>
+         <url>http://www.villagevoice.com/film/0652,hoberman,75394,20.html</url>
+         <critic>J. Hoberman</critic>
+      </review>
+      <review>
+         <snippet>Del Toro never coddles the audience. He means us to leave Pan's Labyrinth shaken to our souls. He succeeds.</snippet>
+         <url>http://www.rollingstone.com/reviews/movie/10345062/review/12987263/pans_labyrinth_el_laberinto_del_fauno</url>
+         <critic>Peter Travers</critic>
+      </review>
+      <review>
+         <snippet>In tone, Pan's Labyrinth resembles a cross between "Alice in Wonderland" and H.P. Lovecraft, with some Buñuel thrown in for good measure. It is a tribute to - as well as a prime example of - the disturbing power of imagination.</snippet>
+         <url>http://www.csmonitor.com/2007/0105/p16s02-almo.html</url>
+         <critic>Peter Rainer</critic>
+      </review>
+      <review>
+         <snippet>Like the folk tales from centuries past, Pan's Labyrinth is a dark odyssey with nightmarish visions and cruel threats, but coming through the sacrifice and suffering is the childlike belief in magic and imagination that for Del Toro represents the hope and optimism of a happily ever after in this cruel world.</snippet>
+         <url>http://seattlepi.nwsource.com/movies/299342_pan12q.html</url>
+         <critic>Sean Axmaker</critic>
+      </review>
+      <review>
+         <snippet>These creatures of the underworld are the fervid fabrications of del Toro's imagination: More than once they will catch you by surprise and make you gasp.</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A430983</url>
+         <critic>Marjorie Baumgarten</critic>
+      </review>
+      <review>
+         <snippet>Pan's Labyrinth is a transcendent work of art.</snippet>
+         <url>http://www.boston.com/movies/display?display=movie&amp;id=9153</url>
+         <critic>Wesley Morris</critic>
+      </review>
+      <review>
+         <snippet>It leaves you feeling exhilarated at the invigorating power a well-told story, no matter its subject, can have. If you like Harry Potter, you will love this movie. If you don't like Harry Potter, you will still love this movie.</snippet>
+         <url>http://ae.miami.com/entertainment/ui/miami/movie.html?id=772007&amp;reviewId=22080</url>
+         <critic>Rene Rodriguez</critic>
+      </review>
+      <review>
+         <snippet>This is the breakthrough work of one of world cinema's most visionary artists.</snippet>
+         <url>http://ae.philly.com/entertainment/ui/philly/movie.html?id=772007&amp;reviewId=22079</url>
+         <critic>Carrie Rickey</critic>
+      </review>
+      <review>
+         <snippet>With this film, del Toro seems to have created his manifesto, a tour de force of cautionary zeal, humanism and magic. At this writing, Pan's Labyrinth is the best-reviewed film of 2006 listed on the movie review Web site Metacritic.com, and for a reason: It's just that great.</snippet>
+         <url>http://www.washingtonpost.com/ac2/wp-dyn?node=cityguide/profile&amp;id=1122604&amp;categories=Movies&amp;nm=1</url>
+         <critic>Ann Hornaday</critic>
+      </review>
+      <review>
+         <snippet>Like any great myth, Pan's Labyrinth encodes its messages through displays of magic. And like any good fairy tale, it is also embroidered with threads of death and loss.</snippet>
+         <url>http://www.ew.com/ew/article/0,,20008778,00.html</url>
+         <critic>Lisa Schwarzbaum</critic>
+      </review>
+      <review>
+         <snippet>We don't find out until the last scene how reality and fantasy intersect, when the meaning of the first shot of the film gets driven home. How many movies have you seen with a payoff like that?</snippet>
+         <url>http://ae.charlotte.com/entertainment/ui/charlotte/movie.html?id=772007&amp;reviewId=22097&amp;startDate=NEXT7</url>
+         <critic>Lawrence Toppman</critic>
+      </review>
+      <review>
+         <snippet>Del Toro presents one dazzling visual spectacle after another.</snippet>
+         <url>http://www.oregonlive.com/movies/oregonian/index.ssf?/base/entertainment/1168899904226540.xml&amp;coll=7</url>
+         <critic>Shawn Levy</critic>
+      </review>
+      <review>
+         <snippet>With a surgical saw instead of a hatchet, del Toro takes apart patriarchy and opportunistic religion as well as fascism.</snippet>
+         <url>http://www.baltimoresun.com/entertainment/movies/bal-to.pan19jan19,0,7526580.story?coll=bal-artslife-movies</url>
+         <critic>Michael Sragow</critic>
+      </review>
+      <review>
+         <snippet>Dark, twisted and beautiful, this entwines fairy-tale fantasy with war-movie horror to startling effect.</snippet>
+         <url>http://www.empireonline.com/reviews/review.asp?FID=134190</url>
+         <critic>Kim Newman</critic>
+      </review>
+      <review>
+         <snippet>One of the greatest of all fantasy films.</snippet>
+         <url>http://rogerebert.suntimes.com/apps/pbcs.dll/article?AID=/20070825/REVIEWS08/70825002/1023</url>
+         <critic>Roger Ebert</critic>
+      </review>
+      <review>
+         <snippet>After two hours of dazzlingly fantastical images and stomach-turning gore, del Toro winds around, and finds his story's center.</snippet>
+         <url>http://www.avclub.com/content/node/57104</url>
+         <critic>Noel Murray</critic>
+      </review>
+      <review>
+         <snippet>So smartly has del Toro thought his fable through, and so graceful is his grasp of visual rhyme, that to pick holes in it seems mean; yet Pan's Labyrinth is perhaps more dazzling than involving--I was too busy reading its runes and clues, as it were, to be swept away. It is, I suspect, a film to return to, like a country waiting to be explored: a maze of dead ends and new life.</snippet>
+         <url>http://www.newyorker.com/critics/cinema/?070108crci_cinema</url>
+         <critic>Anthony Lane</critic>
+      </review>
+      <review>
+         <snippet>The action scenes are exciting, the fantasy scenes are creative and the war scenes are brutal.</snippet>
+         <url>http://www.filmthreat.com/index.php?section=reviews&amp;Id=9512</url>
+         <critic>Don R. Lewis</critic>
+      </review>
+      <review>
+         <snippet>With Pan's Labyrinth, Del Toro has made his most accomplished film to date, a dark and disturbing fairy tale for adults that's been thought out to the nth degree and resonates with the irresistible inevitability of a timeless myth.</snippet>
+         <url>http://www.calendarlive.com/printedition/calendar/cl-et-pan29dec29,0,2220366.story</url>
+         <critic>Kenneth Turan</critic>
+      </review>
+      <review>
+         <snippet>This is a true fairy tale, and one of the finest fantasy pictures ever made, but please do not take your young children to see it unless you want them to be scarred for life.</snippet>
+         <url>http://www.salon.com/ent/movies/review/2006/10/13/pans_labyrinth/index.html?CP=IMD&amp;DN=110</url>
+         <critic>Stephanie Zacharek</critic>
+      </review>
+      <review>
+         <snippet>The lack of family friendliness does not diminish what del Toro has achieved with this magical motion picture.</snippet>
+         <url>http://www.reelviews.net/movies/p/pans_labyrinth.html</url>
+         <critic>James Berardinelli</critic>
+      </review>
+      <review>
+         <snippet>Pan's Labyrinth artfully fuses a war film with a family melodrama and a fairy tale. The result is visually stunning and emotionally shattering.</snippet>
+         <url>http://www.usatoday.com/life/movies/reviews/2007-01-04-pans-labyrinth_x.htm</url>
+         <critic>Claudia Puig</critic>
+      </review>
+      <review>
+         <snippet>His palette here is deep-toned, with bottomless blacks and supersaturated oranges and blues--as if the Walt Disney of "Pinocchio" had collaborated with Goya.</snippet>
+         <url>http://nymag.com/movies/reviews/26018/</url>
+         <critic>David Edelstein</critic>
+      </review>
+      <review>
+         <snippet>Suspended between the brutally graphic and flights of lyrical fancy, Pan's Labyrinth unfolds with the confidence of a classical fable, one that paradoxically feels both timeless and startlingly new.</snippet>
+         <url>http://www.msnbc.msn.com/id/16115744/site/newsweek/page/3/</url>
+         <critic>David Ansen</critic>
+      </review>
+      <review>
+         <snippet>The performers are all good with Baquero poised and beautiful as Ofelia and Verdu vital and spirited as the rebellious Mercedes. Lopez gives an extraordinary performance as the bestial captain, an irredeemable villain to rank with Ralph Fiennes' Nazi in "Schindler's List."</snippet>
+         <url>http://www.hollywoodreporter.com/hr/search/article_display.jsp?vnu_content_id=1002576993</url>
+         <critic>Ray Bennett</critic>
+      </review>
+      <review>
+         <snippet>There's plenty of blood -- both literal and figurative -- coursing through the veins of Pan's Labyrinth, a richly imagined and exquisitely violent fantasy from writer-director Guillermo del Toro.</snippet>
+         <url>http://www.variety.com/awardcentral_review/VE1117930674.html?nav=reviews07&amp;categoryid=2352&amp;cs=1&amp;p=0</url>
+         <critic>Justin Chang</critic>
+      </review>
+   </reviews>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

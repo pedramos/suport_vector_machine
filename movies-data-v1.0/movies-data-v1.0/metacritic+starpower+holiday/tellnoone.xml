@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Tell No One</name>
+   <company>Music Box Films</company>
+   <genres>
+      <genre>Drama</genre>
+      <genre>SuspenseThriller</genre>
+   </genres>
+   <authors>
+      <author>Harlan Coben</author>
+      <author>Guillaume Canet</author>
+   </authors>
+   <directors>
+      <director>Guillaume Canet</director>
+   </directors>
+   <origins>
+      <origin>France</origin>
+   </origins>
+   <actors>
+      <actor>Kristin Scott-Thomas</actor>
+      <actor>François Cluzet</actor>
+      <actor>Marie-Josée Croze</actor>
+      <actor>André Dussollier</actor>
+      <actor>Jean Rochefort</actor>
+      <actor>Marina Hs</actor>
+   </actors>
+   <release_date>July 2, 2008</release_date>
+   <running_time>125</running_time>
+   <rating>Not</rating>
+   <reviews>
+      <review>
+         <snippet>Tell No One's plot thickens in about five ways at once, but they're all connected. The issue of how is a riddle that does more than tease --gives you an itch you won't want to stop scratching.</snippet>
+         <url>http://www.ew.com/ew/article/0,,20211737,00.html</url>
+         <critic>Owen Gleiberman</critic>
+      </review>
+      <review>
+         <snippet>The title Tell No One recalls the days when ads proclaimed, "No one will be seated after the first 15 minutes" and "Be considerate of your neighbors: Don't give away the ending of this picture." Both rules apply to this canny, refreshingly emotional and intuitive thriller.</snippet>
+         <url>http://www.baltimoresun.com/entertainment/movies/reviews/bal-tellnooone0718,0,395939.story</url>
+         <critic>Michael Sragow</critic>
+      </review>
+      <review>
+         <snippet>Cluzet's brooding performance propels the movie, and writer-director Guillaume Canet, best known here for his own acting work in "Joyeux Noel" and "Love Me If You Dare," skillfully orchestrates the cascading revelations.</snippet>
+         <url>http://onfilm.chicagoreader.com/movies/critic.html#33340</url>
+         <critic>J.R. Jones</critic>
+      </review>
+      <review>
+         <snippet>Spicing up the entire package is a screenplay by Canet and Philippe Lefebvre that bristles with wit and energy.</snippet>
+         <url>http://www.hollywoodreporter.com/hr/film/reviews/article_display.jsp?&amp;rid=9119</url>
+         <critic>Kirk Honeycutt</critic>
+      </review>
+      <review>
+         <snippet>It’s Cluzet’s intense performance that makes this genre piece a heart-wrenching experience.</snippet>
+         <url>http://www.newyorker.com/arts/critics/cinema/2008/07/07/080707crci_cinema_denby</url>
+         <critic>David Denby</critic>
+      </review>
+      <review>
+         <snippet>Crisply and competently filmed, Tell No One is an intriguing sample of new-school French cinema at the more commercial end of the spectrum.</snippet>
+         <url>http://www.salon.com/ent/movies/btm/feature/2008/06/30/tell_no_one/</url>
+         <critic>Andrew O&amp;#039;Hehir</critic>
+      </review>
+      <review>
+         <snippet>Beautifully written and acted, Tell No One is a labyrinth in which to get deliriously lost.</snippet>
+         <url>http://movies.nytimes.com/2008/07/02/movies/02tell.html?ref=movies</url>
+         <critic>Stephen Holden</critic>
+      </review>
+      <review>
+         <snippet>Thrillers aren't always so thrilling, but Tell No One is -- and absorbing, sometimes perplexing and often stirring as well.</snippet>
+         <url>http://online.wsj.com/article/SB121494896670420825.html?mod=2_1168_1</url>
+         <critic>Joe Morgenstern</critic>
+      </review>
+      <review>
+         <snippet>Author Coben, who says he is a fan of "stories that move you, that grab hold of your heart and do not let it go," has gotten a film that does exactly that.</snippet>
+         <url>http://www.calendarlive.com/movies/reviews/cl-et-tell2-2008jul02,0,663402.story</url>
+         <critic>Kenneth Turan</critic>
+      </review>
+      <review>
+         <snippet>Indeed, you could argue that Tell No One is a variant on one of Hitchcock's favorite themes: the running man whose story no one (except us in the audience) believes. These fictions, of course, depend for their success on the French respect for rationalism (and their horror when reason is torn asunder by criminal irrationality).</snippet>
+         <url>http://www.time.com/time/arts/article/0,8599,1818291,00.html</url>
+         <critic>Richard Schickel</critic>
+      </review>
+      <review>
+         <snippet>The movie brims over with action -- check out Alex's run through traffic on the Paris beltway -- but Canet scores a triumph by plumbing the violence of the mind.</snippet>
+         <url>http://www.rollingstone.com/reviews/movie/14593096/review/21652748/tell_no_one</url>
+         <critic>Peter Travers</critic>
+      </review>
+      <review>
+         <snippet>A terrific mystery, equal parts haunting love story and nimble thriller.</snippet>
+         <url>http://www.philly.com/inquirer/columnists/steven_rea/20080711_A_terrific_mystery_in_any_language.html</url>
+         <critic>Steven Rea</critic>
+      </review>
+      <review>
+         <snippet>Even when it's baffling, it's never boring. I've heard of airtight plots. This one is not merely airtight, but hermetically sealed.</snippet>
+         <url>http://www.rogerebert.com/apps/pbcs.dll/article?AID=/20080710/REVIEWS/807100303/1023</url>
+         <critic>Roger Ebert</critic>
+      </review>
+      <review>
+         <snippet>The result is one of the twistiest thrillers in recent memory.</snippet>
+         <url>http://www.charlotteobserver.com/161/story/139859.html</url>
+         <critic>Lawrence Toppman</critic>
+      </review>
+      <review>
+         <snippet>In the fine tradition of well-made thrillers, it's enough that it all feels solid at the moment, and the final revelations are unexpected and seemingly inevitable.</snippet>
+         <url>http://www.oregonlive.com/movies/index.ssf/2008/07/movie_review_tell_no_one_a_cra.html</url>
+         <critic>Marc Mohan</critic>
+      </review>
+      <review>
+         <snippet>It's a solid study in paranoia and gamesmanship.</snippet>
+         <url>http://seattlepi.nwsource.com/movies/370302_tell11q.html</url>
+         <critic>Paula Nechak</critic>
+      </review>
+      <review>
+         <snippet>Among the movie's many delights are the fluctuating rhythms of its pacing, an atmospheric volatility that sets off the doctor's blooming paranoia against his sunlit, leafy surroundings, and a terrific cast that includes Kristin Scott Thomas.</snippet>
+         <url>http://www.villagevoice.com/film/0827,tell-no-one,499219,20.html</url>
+         <critic>Ella Taylor</critic>
+      </review>
+      <review>
+         <snippet>A crafty, swift, subtly stylish thriller.</snippet>
+         <url>http://www.washingtonpost.com/ac2/wp-dyn?node=cityguide/profile&amp;id=1135679&amp;categories=Movies&amp;nm=1</url>
+         <critic>Ann Hornaday</critic>
+      </review>
+      <review>
+         <snippet>Tell No One is a French variation on "The Fugitive," but it's a more subtle, discreet animal.</snippet>
+         <url>http://www.filmthreat.com/index.php?section=reviews&amp;Id=10180</url>
+         <critic>KJ Doughton</critic>
+      </review>
+      <review>
+         <snippet>Has everything a great personal-paranoia/persecution movie needs.</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A653441</url>
+         <critic>Josh Rosenblatt</critic>
+      </review>
+      <review>
+         <snippet>Canet has a good feeling for lowlife atmosphere and he works up a few fine Hitchcockian twirls. Kristin Scott Thomas and Nathalie Baye round out the sleek cast.</snippet>
+         <url>http://www.csmonitor.com/2008/0704/p25s02-almo.html</url>
+         <critic>Peter Rainer</critic>
+      </review>
+      <review>
+         <snippet>The result is a whodunit so nicely crafted that you're tempted to forgive the Byzantine plot -- hell, you're even tempted to pretend you actually understand its twisting obscurities.</snippet>
+         <url>http://www.theglobeandmail.com/servlet/story/RTGAM.20080926.wtell26/BNStory/Entertainment/home</url>
+         <critic>Rick Groen</critic>
+      </review>
+      <review>
+         <snippet>Canet and Lefevre pruned subplots and fixed the novel's ending -- it's now merely preposterous rather than patently absurd – but it's the cast that makes the genre clichés feel vivid and even fresh.</snippet>
+         <url>http://www.tvguide.com/movies/tell/review/294342</url>
+         <critic>Maitland McDonagh</critic>
+      </review>
+      <review>
+         <snippet>The story starts at a low boil and quickly heats up, but the problem with Tell No One--a common problem with contemporary pulp literature--is that at some point, all the narrative's intriguing questions resolve with prosaic answers, delivered in long, convoluted speeches by people wielding guns.</snippet>
+         <url>http://www.avclub.com/content/cinema/tell_no_one</url>
+         <critic>Noel Murray</critic>
+      </review>
+      <review>
+         <snippet>It's difficult to enjoy a thriller in which the big reveal is such a clunker, but if there's an exception to that rule, Tell No One might be it.</snippet>
+         <url>http://www.premiere.com/moviereviews/4629/tell-no-one.html</url>
+         <critic>Priya Jain</critic>
+      </review>
+      <review>
+         <snippet>It just does everything really well: perfect pacing, lovely camera work, spot-on acting and an ingenious plot.</snippet>
+         <url>http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2008/07/10/DDIH11MCB6.DTL&amp;type=movies</url>
+         <critic>Reyhan Harmanci</critic>
+      </review>
+      <review>
+         <snippet>Enough talk; enough flashbacks. Sometimes the best thing a mystery can do is give its protagonist a reason to run like hell.</snippet>
+         <url>http://chicago.metromix.com/movies/movie_review/movie-review-tell-no/491530/content</url>
+         <critic>Michael Phillips</critic>
+      </review>
+      <review>
+         <snippet>Though almost laughably intricate in its plotting, this thoroughly Gallic adaptation of Harlan Coben's novel reps an entertaining sophomore outing for thesp-turned-director Guillaume Canet.</snippet>
+         <url>http://www.variety.com/review/VE1117932147.html?categoryid=31&amp;cs=1&amp;query=tell+no+one</url>
+         <critic>Lisa Nesselson</critic>
+      </review>
+      <review>
+         <snippet>The story becomes so convoluted and contrived that much of the tension dissipates.</snippet>
+         <url>http://www.nypost.com/seven/07042008/entertainment/movies/french_twists_undo_mystery_118389.htm</url>
+         <critic>V.A. Musetto</critic>
+      </review>
+      <review>
+         <snippet>Once the final character has put the last puzzle piece in place, courtesy of an epic explanation, a kind of relief sets in: Someone just needed to spell it all out. It does not entirely help.</snippet>
+         <url>http://www.boston.com/movies/display?display=movie&amp;id=10577</url>
+         <critic>Wesley Morris</critic>
+      </review>
+   </reviews>
+   <summer_release>true</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>true</independence_release>
+   <labor_release>false</labor_release>
+</movie>

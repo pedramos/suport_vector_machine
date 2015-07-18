@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>I.O.U.S. A</name>
+   <company>Roadside Attractions</company>
+   <genres>
+      <genre>Documentary</genre>
+   </genres>
+   <authors>
+      <author>Addison Wiggin</author>
+      <author>Christine O&amp;#039;Malley</author>
+      <author>Patrick Creadon</author>
+   </authors>
+   <directors>
+      <director>Patrick Creadon</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors/>
+   <release_date>August 22, 2008</release_date>
+   <running_time>85</running_time>
+   <rating>PG</rating>
+   <reviews>
+      <review>
+         <snippet>If they handed out an Academy Award for Most Gripping Graphs and Charts, this film would take it.</snippet>
+         <url>http://www.ew.com/ew/article/0,,20221992,00.html</url>
+         <critic>Owen Gleiberman</critic>
+      </review>
+      <review>
+         <snippet>It accomplishes an amazing thing. It explains the national debt, the foreign trade deficit, the decrease in personal savings, how the prime interest rate works, and the weakness of our leaders.</snippet>
+         <url>http://www.rogerebert.com/apps/pbcs.dll/article?AID=/20080821/REVIEWS/329/1023</url>
+         <critic>Roger Ebert</critic>
+      </review>
+      <review>
+         <snippet>There's no quick fix for a culture "addicted to debt," as one wag puts it in the film. But watching I.O.U.S.A. is a good place to start.</snippet>
+         <url>http://www.philly.com/inquirer/columnists/steven_rea/20080822_A_United_States_of_indebtedness.html</url>
+         <critic>Steven Rea</critic>
+      </review>
+      <review>
+         <snippet>An informative and frightening documentary.</snippet>
+         <url>http://www.oregonlive.com/movies/index.ssf/2008/10/movie_review_bailout_nation_io.html</url>
+         <critic>Marc Mohan</critic>
+      </review>
+      <review>
+         <snippet>They deliver a clear and compelling primer on the federal budget deficit, the trade deficit, and the personal debt crisis, all of which are driving our country toward a catastrophic financial meltdown.</snippet>
+         <url>http://onfilm.chicagoreader.com/movies/critic.html#33460</url>
+         <critic>J.R. Jones</critic>
+      </review>
+      <review>
+         <snippet>This smartly assembled wake-up call concerning the nation's lousy spending habits proves to be as unexpectedly spirited as it is dispiriting.</snippet>
+         <url>http://www.hollywoodreporter.com/hr/film/reviews/article_display.jsp?JSESSIONID=VsZYLttG2Syqzg5yDpTj1FL4DBTnL85FbhQB2HpZdtNk8llvDyyq!855557073&amp;&amp;rid=11532</url>
+         <critic>Michael Rechtshaffen</critic>
+      </review>
+      <review>
+         <snippet>Highly informative documentary reps a heady mix of charts, graphs and talking heads... superb packaging and timely subject matter.</snippet>
+         <url>http://www.variety.com/index.asp?layout=festivals&amp;jump=review&amp;id=2471&amp;reviewid=VE1117935899&amp;cs=1&amp;query=I%2EO%2EU%2ES%2EA%2E</url>
+         <critic>Justin Chang</critic>
+      </review>
+      <review>
+         <snippet>Packed with facts, figures and the testimony of policy experts, the film is no wallow in wonkiness, though, but a surprisingly sprightly tough-love lesson in fiscal responsibility.</snippet>
+         <url>http://chicago.metromix.com/movies/movie_review/movie-review-iousa/569839/content</url>
+         <critic>Sheri Linden</critic>
+      </review>
+      <review>
+         <snippet>Though the filmmaking is playful at times, the film is essentially 90 percent message, 10 percent movie.</snippet>
+         <url>http://www.avclub.com/content/cinema/i_o_u_s_a</url>
+         <critic>Nathan Rabin</critic>
+      </review>
+      <review>
+         <snippet>Does about as good a job as any film could be expected to.</snippet>
+         <url>http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2008/08/21/DDMC12F1QN.DTL&amp;type=movies</url>
+         <critic>Walter Addiego</critic>
+      </review>
+      <review>
+         <snippet>It's this year's "An Inconvenient Truth."</snippet>
+         <url>http://www.csmonitor.com/2008/0823/p25s03-almo.html</url>
+         <critic>Peter Rainer</critic>
+      </review>
+      <review>
+         <snippet>Although the movie is unabashedly alarming, it's also intelligent fun.</snippet>
+         <url>http://www.baltimoresun.com/entertainment/movies/reviews/bal-to.iousa07nov07,0,1789432.story</url>
+         <critic>Michael Sragow</critic>
+      </review>
+      <review>
+         <snippet>George W. Bush is hammered for doubling the debt load with his high-spending, low-taxing ways.</snippet>
+         <url>http://www.theglobeandmail.com/servlet/story/RTGAM.20081023.wusa24/BNStory/Entertainment/home</url>
+         <critic>Liam Lacey</critic>
+      </review>
+      <review>
+         <snippet>Equal parts enlightening and alarming.</snippet>
+         <url>http://movies.nytimes.com/2008/08/22/movies/22ious.html?ref=movies</url>
+         <critic>Jeannette Catsoulis</critic>
+      </review>
+      <review>
+         <snippet>Both a handy election primer and a bowel-rattling cry of fiscal doom.</snippet>
+         <url>http://www.villagevoice.com/2008-08-19/film/i-o-u-s-a/</url>
+         <critic>Michelle Orange</critic>
+      </review>
+      <review>
+         <snippet>Perhaps, like Al Gore's lecture on global warming, the force of its argument will stir some of those who see it to further research the subject.</snippet>
+         <url>http://seattlepi.nwsource.com/movies/381518_IOUSA03q.html</url>
+         <critic>Bill White</critic>
+      </review>
+      <review>
+         <snippet>There is a difference between the importance of a film's subject and the quality of a film's execution. And the execution is lacking. The film just isn't, well, very interesting.</snippet>
+         <url>http://www.washingtonpost.com/ac2/wp-dyn?node=cityguide/profile&amp;id=1151199&amp;categories=Movies</url>
+         <critic>Philip Kennicott</critic>
+      </review>
+      <review>
+         <snippet>One graphic that I.O.U.S.A. doesn't include is a national balance sheet of our assets and liabilities, which would illustrate that the former is more than double the latter. We're in the black, and a film this deep in the red isn't something to be scared of at all -- or taken seriously.</snippet>
+         <url>http://www.laweekly.com/2008-08-21/film-tv/i-o-u-s-a-market-scare/</url>
+         <critic>Robert Koehler</critic>
+      </review>
+   </reviews>
+   <summer_release>true</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>
