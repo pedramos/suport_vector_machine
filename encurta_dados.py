@@ -1,0 +1,15 @@
+import pickle
+import scipy.sparse as sparse
+file=open("../dados_priberam/dados_X.pkl","rb")
+Xtotal=pickle.load(file)
+Xtotal=Xtotal.tocsr()
+file=open("../dados_priberam/dados_Y.pkl","rb")
+Ytotal=pickle.load(file)
+Ytotal=Ytotal.tocsr()
+cutsize=int(Xtotal.shape[0]*0.4)
+file=open("../dados_priberam/dados_X_short.pkl","wb")
+pickle.dump(Xtotal[:cutsize,:],file)
+file.close()
+file=open("../dados_priberam/dados_Y_short.pkl","wb")
+pickle.dump(Ytotal[:cutsize,:],file)
+file.close()
